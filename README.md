@@ -19,6 +19,11 @@
 ## Heatmap 
 ![newplot](https://user-images.githubusercontent.com/22128700/173895837-5b3410f3-288b-4f5c-9c69-1ca723045ed7.png)
 
+## Кластер 1
+![image](https://user-images.githubusercontent.com/22128700/173896071-0c4d4a6c-a9bc-4599-a8e8-761e0cbcda29.png)
+
+## Кластер 2
+![image](https://user-images.githubusercontent.com/22128700/173896117-88328f3f-0546-426c-8d77-1bcdb29d04e1.png)
 
 ## Ссылки
 
