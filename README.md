@@ -27,4 +27,7 @@
 
 ## Ссылки
 
+[Презентация](https://1drv.ms/p/s!Akc_3jnOmDNXgZoFLKY1qjJEIgtZ3g?e=wVLPOn)
+[Код](https://colab.research.google.com/drive/1Hi1icbgKh4wFIR02i_3z_PX_p0ug5yhs?usp=sharing)
+
 
