@@ -1,0 +1,1693 @@
+,Кол-во генов в кластере,Z_max,Z_mean,Кол-во родов в кластере,Имя гена в кластере,Кол-во участков с Z-DNA в промоутере
+49,35,1201.671,907.6972600000001,34,isoleucine--tRNA ligase [Vibrio furnissii],5
+50,35,1737.612,974.5808,34,MULTISPECIES: RNA polymerase sigma factor RpoD [Vibrio],5
+51,35,2091.083,1378.53025,32,MULTISPECIES: phosphopyruvate hydratase [Serratia],12
+52,35,2752.447,1303.257875,28,MULTISPECIES: 30S ribosomal protein S1 [Serratia],4
+53,35,8922.646,3994.79368,34,methionine--tRNA ligase [Acinetobacter bouvetii],20
+54,35,3428.529,1724.31575,34,glutamine--fructose-6-phosphate transaminase (isomerizing) [Vibrio cholerae],4
+55,35,138924.1,12841.406623076922,33,MULTISPECIES: translation initiation factor IF-2 [Serratia],13
+56,35,13713.99,2518.549525,32,MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase [Serratia],12
+57,35,138924.1,12455.091692307693,28,MULTISPECIES: preprotein translocase subunit SecY [Bacteria],13
+58,35,3428.529,1086.9289199999998,34,MULTISPECIES: peptide chain release factor 3 [Vibrio],10
+59,35,1090.564,905.7153000000002,30,MULTISPECIES: RNA polymerase sigma factor RpoH [Serratia],6
+60,35,6910.52,2083.8356000000003,34,MULTISPECIES: 1-deoxy-D-xylulose-5-phosphate reductoisomerase [Vibrio],5
+61,35,,,30,MULTISPECIES: CTP synthase (glutamine hydrolyzing) [Serratia],0
+62,35,27872.66,3864.909346666667,34,MULTISPECIES: phosphoglucosamine mutase [Acinetobacter],15
+63,35,933.9717,766.7273230769231,24,MULTISPECIES: DNA-directed RNA polymerase subunit alpha [Bacteria],13
+64,35,883.5764,791.6666,13,MULTISPECIES: 30S ribosomal protein S21 [Bacteria],2
+65,35,13713.99,3557.061191666666,34,MULTISPECIES: adenylosuccinate lyase [Vibrio],12
+66,35,13713.99,2409.3478666666665,34,valine--tRNA ligase [Vibrio furnissii],12
+67,35,4545.701,1252.0491714285715,29,MULTISPECIES: 30S ribosomal protein S4 [Enterobacteriaceae],14
+68,35,2015.61,1296.082253846154,34,MULTISPECIES: translation elongation factor Ts [Vibrio],13
+69,35,8636.407,4772.40125,29,MULTISPECIES: 50S ribosomal protein L5 [Bacteria],2
+70,35,3428.529,2177.4935923076923,31,MULTISPECIES: phospho-N-acetylmuramoyl-pentapeptide-transferase [Serratia],13
+71,35,13713.99,2944.5570000000002,33,MULTISPECIES: phenylalanine--tRNA ligase subunit alpha [Kosakonia],6
+72,35,657.1159,657.1159,29,MULTISPECIES: 30S ribosomal protein S6 [Enterobacterales],1
+73,35,13713.99,1839.6442307692307,34,polyribonucleotide nucleotidyltransferase [Vibrio cholerae],13
+74,35,302785.5,20921.76794166667,33,MULTISPECIES: tRNA guanosine(34) transglycosylase Tgt [Serratia],24
+75,35,13713.99,13713.99,34,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase [Vibrio cholerae],1
+76,35,4876.735,2255.0160625000003,34,alanine--tRNA ligase [Vibrio furnissii],8
+77,35,29467.88,8291.161968965518,33,MULTISPECIES: 50S ribosomal protein L1 [Serratia],29
+78,35,10616.46,2368.0506428571425,32,MULTISPECIES: bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN [Serratia],7
+79,35,967.591,897.21325,28,MULTISPECIES: ribose-phosphate diphosphokinase [Serratia],2
+80,35,13713.99,2649.4187428571427,34,pantoate--beta-alanine ligase [Vibrio cholerae],14
+81,35,8411.479,2182.9383666666663,34,MULTISPECIES: 2-oxoglutarate dehydrogenase E1 component [Vibrio],6
+82,35,13713.99,3501.8745833333337,34,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase [Vibrio furnissii],6
+83,35,8962.093,2030.3227750000003,34,MULTISPECIES: ribosome biogenesis GTPase Der [Vibrio],12
+84,35,3428.529,1145.2042272727274,32,MULTISPECIES: tRNA dihydrouridine synthase DusB [Serratia],11
+85,35,3428.529,1110.9714304347826,33,"MULTISPECIES: glutamate-1-semialdehyde 2,1-aminomutase [Serratia]",23
+86,35,13713.99,2438.52064375,34,MULTISPECIES: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG [Proteobacteria],16
+87,35,3993.322,1835.1758666666665,33,MULTISPECIES: translation elongation factor 4 [Serratia],6
+88,35,2300.768,1289.4713333333332,30,MULTISPECIES: 30S ribosomal protein S8 [Bacteria],3
+89,35,4876.735,1931.6048875000001,33,MULTISPECIES: Obg family GTPase CgtA [Serratia],8
+90,35,38833.58,8216.378857142858,33,MULTISPECIES: lipoyl synthase [Serratia],7
+91,35,38833.58,12667.004595238095,32,MULTISPECIES: quinone-dependent dihydroorotate dehydrogenase [Kosakonia],21
+92,35,13713.99,2678.877111111111,30,MULTISPECIES: 23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE [Serratia],9
+93,35,2091.083,1065.1075263157895,34,preprotein translocase subunit SecA [Vibrio furnissii],19
+94,35,6420.008,2057.5833615384613,34,MULTISPECIES: aspartate--tRNA ligase [Vibrio],13
+95,35,4545.701,1389.58588,33,MULTISPECIES: DNA topoisomerase (ATP-hydrolyzing) subunit B [Serratia],5
+96,35,37878.25,11174.79275,30,MULTISPECIES: UMP kinase [Serratia],4
+97,35,2173.083,1276.02592,27,MULTISPECIES: 30S ribosomal protein S9 [Enterobacteriaceae],5
+98,35,2943.461,1398.54755,33,MULTISPECIES: energy-dependent translational throttle protein EttA [Serratia],4
+99,35,1430.8,974.9349,33,MULTISPECIES: DNA topoisomerase IV subunit B [Serratia],4
+100,35,3428.529,1860.8910333333333,34,phosphoribosylformylglycinamidine cyclo-ligase [Vibrio furnissii],9
+101,35,4860.206,3060.777,31,MULTISPECIES: molecular chaperone DnaJ [Serratia],9
+102,35,27872.66,7605.563750000001,31,MULTISPECIES: LPS export ABC transporter ATP-binding protein [Serratia],4
+103,35,883.5764,818.7949142857143,33,MULTISPECIES: amidophosphoribosyltransferase [Enterobacteriaceae],7
+104,35,8922.646,3709.8696500000005,26,MULTISPECIES: transcription termination/antitermination protein NusG [Enterobacteriaceae],4
+105,35,,,29,MULTISPECIES: 50S ribosomal protein L3 [Serratia],0
+106,35,8922.646,2780.9047111111113,33,MULTISPECIES: UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Kosakonia],9
+107,35,3428.529,1537.7362799999999,34,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase [Vibrio furnissii],5
+108,35,13713.99,7411.4884999999995,34,molecular chaperone HtpG [Vibrio furnissii],2
+109,35,13713.99,2706.9618333333333,33,MULTISPECIES: UDP-N-acetylmuramate--L-alanine ligase [Aeromonas],12
+110,35,865.283,824.553,34,glutamate--ammonia ligase [Vibrio cholerae],2
+111,35,2752.447,1260.3900347826088,32,MULTISPECIES: ribosome-dependent GTPase TypA [Serratia],23
+112,35,13713.99,3227.2145499999997,34,MULTISPECIES: DNA repair protein RadA [Vibrio],8
+113,35,2264.006,1573.7912,34,DNA-directed RNA polymerase subunit beta' [Vibrio cholerae],2
+114,35,1065.164,994.8703333333333,33,MULTISPECIES: lysine--tRNA ligase [Kosakonia],6
+115,35,1430.8,1087.1046666666668,26,MULTISPECIES: 50S ribosomal protein L16 [Enterobacteriaceae],3
+116,35,8485.756,2605.0444346153845,27,MULTISPECIES: 50S ribosomal protein L18 [Bacteria],26
+117,35,8323.257,3569.3008333333332,22,MULTISPECIES: 50S ribosomal protein L22 [Bacteria],6
+118,35,783.823,676.56535,32,MULTISPECIES: GTPase Era [Serratia],2
+119,35,49376.54,3973.01059375,34,MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Vibrio],16
+120,35,2057.902,1427.4509333333335,33,MULTISPECIES: ABC transporter ATP-binding protein [Kosakonia],3
+121,35,2752.447,1033.546009090909,34,MULTISPECIES: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB [Vibrio],11
+122,35,65884.11,13937.062007142857,34,primosomal protein N' [Vibrio furnissii],14
+123,35,3428.529,3428.529,31,MULTISPECIES: DNA-directed RNA polymerase subunit beta [Serratia],1
+124,35,1326.125,994.5562538461538,34,ATP-dependent DNA helicase RecG [Acinetobacter bouvetii],13
+125,35,4576.539,2448.2411,33,MULTISPECIES: guanylate kinase [Serratia],4
+126,35,980.8116,802.9143624999999,34,DNA topoisomerase IV subunit A [Vibrio furnissii],8
+127,35,13939.35,2758.8570250000002,33,MULTISPECIES: tRNA dihydrouridine(20/20a) synthase DusA [Serratia],8
+128,35,2752.447,1502.31725,22,MULTISPECIES: 30S ribosomal protein S19 [Aeromonas],6
+129,35,8485.756,2927.8031181818183,33,MULTISPECIES: phosphoglycerate dehydrogenase [Enterobacteriaceae],11
+130,35,1939.964,1411.7702,31,MULTISPECIES: 50S ribosomal protein L13 [Serratia],2
+131,35,3403.051,1238.3665428571428,33,MULTISPECIES: methionine adenosyltransferase [Kosakonia],7
+132,35,6565.992,3480.692511111111,33,MULTISPECIES: serine--tRNA ligase [Enterobacteriaceae],9
+133,35,1820.585,1080.8914875,31,"MULTISPECIES: bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE [Serratia]",8
+134,35,2278.634,1167.4346799999998,34,MULTISPECIES: glutathione synthase [Vibrio],5
+135,35,980.8116,852.54852,28,MULTISPECIES: phosphate response regulator transcription factor PhoB [Serratia],5
+136,35,4263.555,1577.05606,32,MULTISPECIES: succinate dehydrogenase iron-sulfur subunit [Serratia],10
+137,35,198956.2,20469.04040909091,29,MULTISPECIES: translation initiation factor IF-3 [Serratia],11
+138,35,904.32,847.6273333333334,34,MULTISPECIES: redox-regulated ATPase YchF [Vibrio],6
+139,35,4876.735,4876.735,34,chorismate synthase [Vibrio cholerae],1
+140,35,3428.529,2734.8058,27,MULTISPECIES: 30S ribosomal protein S5 [Enterobacteriaceae],5
+141,35,13713.99,2597.2738400000003,17,MULTISPECIES: 30S ribosomal protein S11 [Bacteria],25
+142,35,15418.56,4546.921533333333,34,DNA topoisomerase (ATP-hydrolyzing) subunit A [Vibrio cholerae],15
+143,35,27872.66,5307.8327,31,MULTISPECIES: transcriptional regulator NrdR [Serratia],6
+144,35,18247.98,7176.923111111111,22,MULTISPECIES: 50S ribosomal protein L20 [Aeromonas],18
+145,35,4545.701,1449.6089200000001,33,MULTISPECIES: ribonuclease PH [Serratia],5
+146,35,13713.99,2224.8082857142854,30,MULTISPECIES: 30S ribosomal protein S2 [Aeromonas],21
+147,35,27872.66,11970.704676,34,MULTISPECIES: glutamine-hydrolyzing GMP synthase [Vibrio],25
+148,35,3661.11,1310.9178368421053,32,MULTISPECIES: lipoprotein-releasing ABC transporter ATP-binding protein LolD [Serratia],19
+149,35,3428.529,1829.3218363636363,32,MULTISPECIES: ABC transporter permease [Aeromonas],11
+150,35,2183.574,2183.574,31,MULTISPECIES: succinate--CoA ligase subunit alpha [Serratia],1
+151,35,13713.99,7551.2864,33,MULTISPECIES: PhoH family protein [Serratia],8
+152,35,13713.99,4120.6745,34,symmetrical bis(5'-nucleosyl)-tetraphosphatase [Vibrio cholerae],4
+153,35,941334.2,162837.4975,33,MULTISPECIES: aminoacyl-tRNA hydrolase [Kosakonia],12
+154,35,980.8116,851.794375,34,dephospho-CoA kinase [Vibrio cholerae],8
+155,35,2659.79,1924.56835,28,MULTISPECIES: 50S ribosomal protein L2 [Enterobacteriaceae],8
+156,35,10616.46,2315.0857571428573,34,MULTISPECIES: Holliday junction branch migration DNA helicase RuvB [Vibrio],14
+157,35,13713.99,3614.463566666667,33,MULTISPECIES: 4-hydroxybenzoate octaprenyltransferase [Kosakonia],6
+158,35,2524.967,1181.0826499999998,15,MULTISPECIES: 30S ribosomal protein S10 [Bacteria],10
+159,35,8485.756,2294.86518,34,MULTISPECIES: tRNA 2-thiouridine(34) synthase MnmA [Vibrio],5
+160,35,2752.447,1137.944775,32,MULTISPECIES: peptidoglycan glycosyltransferase MrdB [Serratia],8
+161,35,2752.447,1670.4750000000001,25,MULTISPECIES: 30S ribosomal protein S7 [Yersiniaceae],2
+162,35,13713.99,6505.617309090909,34,MULTISPECIES: excinuclease ABC subunit UvrB [Vibrio],11
+163,35,766.6232,766.6232,30,MULTISPECIES: septum site-determining protein MinD [Serratia],1
+164,35,28780.5,6932.683454545454,18,MULTISPECIES: 30S ribosomal protein S18 [Bacteria],11
+165,35,3428.529,1590.0927062499998,34,MULTISPECIES: phenylalanine--tRNA ligase subunit beta [Vibrio],16
+166,35,198956.2,99932.29775000001,34,leucine--tRNA ligase [Vibrio cholerae],2
+167,35,3428.529,1164.538242857143,30,MULTISPECIES: crossover junction endodeoxyribonuclease RuvC [Serratia],14
+168,35,3174.797,1243.3705461538461,34,MULTISPECIES: phosphoglycerate kinase [Vibrio],13
+169,35,6420.008,1343.7295692307694,31,MULTISPECIES: 50S ribosomal protein L6 [Bacteria],13
+170,35,38833.58,13715.119777777778,32,MULTISPECIES: chaperonin GroEL [Serratia],9
+171,35,38833.58,6421.763246666667,34,MULTISPECIES: ClpXP protease specificity-enhancing factor [Acinetobacter],15
+172,35,3428.529,1512.80715,34,tRNA pseudouridine(38-40) synthase TruA [Vibrio cholerae],10
+173,35,941334.2,75171.22279285714,34,MULTISPECIES: YggS family pyridoxal phosphate-dependent enzyme [Vibrio],14
+174,35,13713.99,1946.7001210526316,34,phosphoribosylformylglycinamidine synthase [Vibrio furnissii],19
+175,35,2802.356,1045.2208249999999,34,MULTISPECIES: ribose-5-phosphate isomerase RpiA [Vibrio],8
+176,35,13713.99,5620.524133333333,30,MULTISPECIES: Grx4 family monothiol glutaredoxin [Serratia],3
+177,35,10272.33,2548.2398444444448,31,MULTISPECIES: signal recognition particle protein [Serratia],9
+178,35,28780.5,3550.3097866666667,34,MULTISPECIES: UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [Vibrio],15
+179,35,8485.756,1699.6856571428568,34,NAD(P)/FAD-dependent oxidoreductase [Vibrio furnissii],21
+180,35,941334.2,43106.87826956521,18,MULTISPECIES: 50S ribosomal protein L33 [Enterobacterales],23
+181,35,1228.72,858.0362,32,MULTISPECIES: ribulose-phosphate 3-epimerase [Aeromonas],6
+182,35,38833.58,5872.9699200000005,34,MULTISPECIES: bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Vibrio],15
+183,35,3428.529,1519.81455,29,MULTISPECIES: 3-hydroxyacyl-ACP dehydratase FabZ [Serratia],4
+184,35,3428.529,2038.693552,27,MULTISPECIES: 30S ribosomal protein S17 [Aeromonas],25
+185,35,6420.008,3166.225725,34,MULTISPECIES: phosphoenolpyruvate synthase [Acinetobacter],8
+186,35,1164.52,974.1714999999999,26,MULTISPECIES: 50S ribosomal protein L17 [Aeromonas],2
+187,35,3428.529,1376.0813400000002,34,MULTISPECIES: 3-dehydroquinate synthase [Vibrio],5
+188,35,3428.529,1452.1888250000002,34,hydroxymethylbilane synthase [Vibrio cholerae],8
+189,35,13713.99,6000.2058,30,MULTISPECIES: 3-oxoacyl-ACP reductase FabG [Serratia],3
+190,35,3428.529,1457.4635555555553,31,MULTISPECIES: YqgE/AlgH family protein [Serratia],9
+191,35,3700.972,1435.7638299999999,23,MULTISPECIES: 30S ribosomal protein S12 [Enterobacterales],10
+192,35,10616.46,2934.46098,34,phosphomethylpyrimidine synthase ThiC [Vibrio cholerae],10
+193,35,13713.99,3389.4009173913046,33,MULTISPECIES: uroporphyrinogen decarboxylase [Serratia],23
+194,35,13713.99,4529.15915,34,XTP/dITP diphosphatase [Vibrio furnissii],4
+195,35,3428.529,1616.3625000000002,32,MULTISPECIES: ADP-forming succinate--CoA ligase subunit beta [Serratia],6
+196,35,1800.518,985.7703333333334,31,MULTISPECIES: citrate synthase [Serratia],3
+197,35,3428.529,1599.3382,33,MULTISPECIES: UDP-3-O-acyl-N-acetylglucosamine deacetylase [Serratia],4
+198,35,38833.58,15817.330409090908,27,MULTISPECIES: 30S ribosomal protein S16 [Serratia],11
+199,35,23787.35,5614.1110714285705,34,MULTISPECIES: 3-phosphoserine/phosphohydroxythreonine transaminase [Vibrio],14
+200,35,3135.789,1108.3424181818182,34,archaetidylserine decarboxylase [Vibrio furnissii],11
+201,35,13713.99,3958.5247000000004,34,methionyl-tRNA formyltransferase [Vibrio furnissii],10
+202,35,,,26,MULTISPECIES: 50S ribosomal protein L27 [Yersiniaceae],0
+203,35,37878.25,5845.32395,33,"MULTISPECIES: (2E,6E)-farnesyl-diphosphate-specific ditrans,polycis-undecaprenyl-diphosphate synthase [Enterobacteriaceae]",8
+204,35,3174.797,1605.5574444444444,33,MULTISPECIES: 16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA [Kosakonia],9
+205,35,8922.646,2178.69165,32,MULTISPECIES: ATP-dependent zinc metalloprotease FtsH [Serratia],8
+206,35,8323.257,3502.2201999999997,33,MULTISPECIES: glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit [Kosakonia],3
+207,35,13713.99,3469.76866,31,MULTISPECIES: recombinase RecA [Serratia],5
+208,35,10635.4,2652.2932159999996,32,MULTISPECIES: succinate dehydrogenase flavoprotein subunit [Serratia],25
+209,35,138924.1,24996.423628571432,22,MULTISPECIES: 50S ribosomal protein L14 [Bacteria],7
+210,35,28780.5,3720.511025,31,MULTISPECIES: ribonuclease T [Kosakonia],12
+211,35,1202.592,868.7878705882354,24,MULTISPECIES: 50S ribosomal protein L21 [Aeromonas],17
+212,35,28780.5,5578.788483333334,33,MULTISPECIES: endonuclease III [Serratia],18
+213,35,3428.529,1131.7021125,32,MULTISPECIES: Tol-Pal system protein TolQ [Serratia],8
+214,35,50885.97,5009.507435714287,31,"MULTISPECIES: 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [Enterobacterales]",14
+215,35,198956.2,20895.62669090909,34,MULTISPECIES: 4-hydroxythreonine-4-phosphate dehydrogenase PdxA [Vibrio],11
+216,35,941334.2,314490.4876,32,MULTISPECIES: type II 3-dehydroquinate dehydratase [Serratia],3
+217,35,32704.39,6743.165930769231,34,oxygen-dependent coproporphyrinogen oxidase [Vibrio cholerae],13
+218,35,3428.529,1468.12636,34,MULTISPECIES: excinuclease ABC subunit UvrC [Vibrio],10
+219,35,980.8116,903.0234399999999,33,MULTISPECIES: transcription termination factor NusA [Serratia],5
+220,35,3700.972,1441.7324,34,MULTISPECIES: protein translocase subunit SecD [Vibrio],5
+221,35,4545.701,2477.9864249999996,29,MULTISPECIES: ATP-dependent Clp endopeptidase proteolytic subunit ClpP [Kosakonia],8
+222,35,8922.646,2797.5989391304347,34,proline--tRNA ligase [Vibrio cholerae],23
+223,35,138924.1,59982.029,30,MULTISPECIES: 50S ribosomal protein L9 [Serratia],12
+224,35,783.823,775.2230999999999,24,MULTISPECIES: 30S ribosomal protein S13 [Aeromonas],4
+225,35,13713.99,3149.327566666667,33,MULTISPECIES: 16S rRNA (cytidine(1402)-2'-O)-methyltransferase [Kosakonia],15
+226,35,883.5764,767.2481,31,MULTISPECIES: ATP-dependent protease ATP-binding subunit ClpX [Serratia],4
+227,35,908.3955,895.98595,29,MULTISPECIES: 50S ribosomal protein L11 [Aeromonas],2
+228,35,1248.717,851.4053300000002,34,MULTISPECIES: oligoribonuclease [Vibrio],10
+229,35,12723.6,4224.624325,33,MULTISPECIES: 16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH [Serratia],4
+230,35,3403.051,1349.7994571428571,33,MULTISPECIES: replicative DNA helicase [Serratia],7
+231,35,612.3848,612.3848,33,MULTISPECIES: endopeptidase La [Serratia],1
+232,35,1202.592,983.3608,33,MULTISPECIES: ferrochelatase [Serratia],7
+233,35,37878.25,4837.268646153846,31,MULTISPECIES: tRNA (guanosine(37)-N1)-methyltransferase TrmD [Aeromonas],13
+234,35,2752.447,1409.1696,27,MULTISPECIES: 50S ribosomal protein L24 [Aeromonas],3
+235,35,2752.447,1022.6020380952382,34,MULTISPECIES: 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [Vibrio],21
+236,35,17253.57,8900.2127,32,MULTISPECIES: IMP dehydrogenase [Serratia],2
+237,35,783.823,714.3355499999999,32,MULTISPECIES: thioredoxin TrxA [Enterobacterales],4
+238,35,1116.621,879.95782,28,MULTISPECIES: 30S ribosomal protein S14 [Kosakonia],10
+239,35,1122.597,916.2895571428571,29,MULTISPECIES: peptide deformylase [Enterobacteriaceae],7
+240,35,17718.99,2487.006352173913,32,MULTISPECIES: ribosome recycling factor [Enterobacteriaceae],23
+241,35,28780.5,4083.914822222222,34,1-deoxy-D-xylulose-5-phosphate synthase [Vibrio furnissii],9
+242,35,2779.551,1165.0577714285714,34,aminodeoxychorismate/anthranilate synthase component II [Vibrio cholerae],7
+243,35,10894.72,2844.8053571428572,28,MULTISPECIES: 30S ribosomal protein S15 [Serratia],7
+244,35,138924.1,14227.320384210523,33,MULTISPECIES: 3-deoxy-manno-octulosonate cytidylyltransferase [Enterobacteriaceae],19
+245,35,3428.529,1765.5063699999998,30,MULTISPECIES: protein-export chaperone SecB [Serratia],10
+246,35,3700.972,1007.3644937500001,33,MULTISPECIES: tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA [Serratia],16
+247,35,3174.797,2334.201725,33,MULTISPECIES: octaprenyl diphosphate synthase [Enterobacteriaceae],4
+248,35,3428.529,1458.5944923076922,34,succinyl-diaminopimelate desuccinylase [Vibrio furnissii],13
+249,35,28780.5,3095.64406875,34,MULTISPECIES: phosphoribosylamine--glycine ligase [Vibrio],16
+250,35,980.8116,980.8116,34,anhydro-N-acetylmuramic acid kinase [Vibrio cholerae],1
+251,35,38833.58,8753.64355,34,MULTISPECIES: pantetheine-phosphate adenylyltransferase [Vibrio],14
+252,35,3428.529,2524.766777777778,34,dihydropteroate synthase [Vibrio furnissii],9
+253,35,9492.083,4957.2313,26,MULTISPECIES: rod shape-determining protein MreB [Enterobacterales],3
+254,35,3993.322,1181.3598333333337,30,MULTISPECIES: recombination mediator RecR [Serratia],12
+255,35,3428.529,1634.0546375000001,33,MULTISPECIES: D-aminoacyl-tRNA deacylase [Vibrio],8
+256,35,8485.756,1190.4242318181819,29,MULTISPECIES: 30S ribosomal protein S20 [Proteobacteria],22
+257,35,16271.57,3798.634063636363,30,MULTISPECIES: RNase adapter RapZ [Serratia],11
+258,35,980.8116,873.1593692307692,29,MULTISPECIES: 50S ribosomal protein L4 [Bacteria],13
+259,35,29467.88,4888.983692307693,32,MULTISPECIES: branched-chain amino acid transaminase [Aeromonas],13
+260,35,28780.5,14948.5605,28,MULTISPECIES: 50S ribosomal protein L32 [Serratia],2
+261,35,1057.108,874.918,30,MULTISPECIES: ribonuclease III [Serratia],3
+262,35,2752.447,1193.73814,31,MULTISPECIES: 50S ribosomal protein L19 [Enterobacteriaceae],5
+263,35,3428.529,1590.3554095238096,27,MULTISPECIES: 50S ribosomal protein L23 [Bacteria],21
+264,35,2752.447,1207.6843000000001,18,MULTISPECIES: translation initiation factor IF-1 [Enterobacterales],5
+265,35,4914.146,1494.7420714285713,31,MULTISPECIES: nucleoside-diphosphate kinase [Serratia],7
+266,35,138924.1,13126.857384615385,33,MULTISPECIES: (d)CMP kinase [Serratia],13
+267,35,13713.99,2600.2472666666667,34,MULTISPECIES: DNA polymerase III subunit alpha [Vibrio],12
+268,35,38833.58,3533.165670588235,24,MULTISPECIES: DNA-directed RNA polymerase subunit omega [Aeromonas],34
+269,35,13713.99,5307.840533333333,26,MULTISPECIES: DNA-binding protein HU-beta [Aeromonas],3
+270,35,2997.09,1940.3332,32,MULTISPECIES: transcriptional regulator BolA [Enterobacterales],2
+271,35,48804.94,8077.123125000001,28,MULTISPECIES: 50S ribosomal protein L15 [Bacteria],8
+272,35,4914.146,1321.8038153846153,34,DNA polymerase I [Vibrio furnissii],13
+273,35,2752.447,2752.447,34,MULTISPECIES: ribonuclease R [Vibrio],1
+274,35,3428.529,2470.3585000000003,34,MULTISPECIES: 23S rRNA pseudouridine(1911/1915/1917) synthase RluD [Vibrio],2
+275,35,74987.35,9161.31229,34,MULTISPECIES: tyrosine recombinase XerC [Vibrio],10
+276,35,2160.913,1054.934857142857,33,MULTISPECIES: ribosome-associated heat shock protein Hsp15 [Kosakonia],14
+277,35,915.9191,828.99238,33,MULTISPECIES: glutamyl-tRNA reductase [Serratia],5
+278,35,904.32,820.9644000000001,34,MULTISPECIES: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG [Acinetobacter],4
+279,35,4860.206,2131.777088888889,18,MULTISPECIES: 50S ribosomal protein L34 [Bacteria],18
+280,35,13713.99,2983.10155,34,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [Vibrio cholerae],16
+281,35,2173.083,1749.5090846153846,27,MULTISPECIES: cell division protein FtsZ [Serratia],13
+282,35,3428.529,1119.0162833333331,32,MULTISPECIES: 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB [Serratia],12
+283,35,28780.5,3844.7893142857147,34,tetraacyldisaccharide 4'-kinase [Vibrio furnissii],14
+284,35,980.8116,980.8116,27,MULTISPECIES: integration host factor subunit beta [Enterobacteriaceae],1
+285,35,13713.99,3392.8772000000004,34,cell division protein ZapE [Vibrio furnissii],6
+286,35,8636.407,2094.11394,34,MULTISPECIES: bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU [Vibrio],20
+287,35,783.823,783.823,30,MULTISPECIES: F0F1 ATP synthase subunit epsilon [Serratia],4
+288,35,2752.447,1533.78505,26,MULTISPECIES: integration host factor subunit alpha [Enterobacteriaceae],4
+289,35,3428.529,1677.2260666666668,34,methionine synthase [Acinetobacter bouvetii],3
+290,35,1848.205,1089.1140500000001,34,MULTISPECIES: rRNA large subunit pseudouridine synthase E [Acinetobacter],12
+291,35,138924.1,16957.537263636365,32,MULTISPECIES: ribosome silencing factor [Kosakonia],11
+292,35,10894.72,1920.1611888888885,34,MULTISPECIES: exopolyphosphatase [Vibrio],18
+293,35,4576.539,1900.2914500000004,32,MULTISPECIES: glycine cleavage system protein GcvH [Kosakonia],12
+294,35,38833.58,9623.492325000001,34,murein biosynthesis integral membrane protein MurJ [Vibrio cholerae],12
+295,35,38833.58,21131.054500000002,27,MULTISPECIES: co-chaperone GroES [Enterobacteriaceae],2
+296,35,883.5764,768.797125,33,MULTISPECIES: CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Aeromonas],4
+297,35,68804.91,24133.714060000002,33,MULTISPECIES: GTP diphosphokinase [Enterobacteriaceae],10
+298,35,883.5764,688.89168,34,MULTISPECIES: 23S rRNA pseudouridine(955/2504/2580) synthase RluC [Vibrio],5
+299,35,13713.99,4659.581099999999,34,MULTISPECIES: ACP S-malonyltransferase [Vibrio],4
+300,35,908.3955,837.50935,31,MULTISPECIES: acetyl-CoA carboxylase carboxyl transferase subunit alpha [Serratia],2
+301,35,13713.99,3520.7371142857146,33,MULTISPECIES: uracil-DNA glycosylase [Serratia],7
+302,35,2943.461,1184.70108,34,MULTISPECIES: glycine--tRNA ligase subunit beta [Vibrio],10
+303,35,13713.99,3366.61185,34,endolytic transglycosylase MltG [Vibrio cholerae],8
+304,35,8782.157,1465.6666846153846,34,bifunctional tetrahydrofolate synthase/dihydrofolate synthase [Vibrio cholerae],13
+305,35,980.8116,918.2570000000001,34,hydroxyacylglutathione hydrolase [Vibrio cholerae],4
+306,35,13713.99,2167.02977,34,MULTISPECIES: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE [Vibrio],10
+307,35,3428.529,1589.4805142857144,33,MULTISPECIES: orotate phosphoribosyltransferase [Serratia],7
+308,35,3858.662,1165.4439499999999,34,MULTISPECIES: 50S ribosomal protein L11 methyltransferase [Acinetobacter],10
+309,35,28780.5,4981.385269230769,31,MULTISPECIES: UvrY/SirA/GacA family response regulator transcription factor [Serratia],13
+310,35,783.823,783.823,29,MULTISPECIES: 50S ribosomal protein L7/L12 [Serratia],1
+311,35,29467.88,6126.461540000001,32,"MULTISPECIES: 6,7-dimethyl-8-ribityllumazine synthase [Serratia]",15
+312,35,38833.58,6596.534816666666,34,MULTISPECIES: putative lipid II flippase FtsW [Proteobacteria],18
+313,35,3428.529,1535.5381214285715,34,RNA-binding transcriptional accessory protein [Vibrio furnissii],14
+314,35,138924.1,25284.269788235295,34,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD [Vibrio cholerae],17
+315,35,3428.529,1042.85158,34,MULTISPECIES: DNA helicase Rep [Vibrio],15
+316,35,980.8116,980.8116,22,MULTISPECIES: 50S ribosomal protein L35 [Bacteria],3
+317,35,13713.99,3905.565755555555,33,MULTISPECIES: inositol-1-monophosphatase [Serratia],27
+318,35,4545.701,2083.3557699999997,34,MULTISPECIES: shikimate dehydrogenase [Vibrio],10
+319,35,66470.78,33563.94795,33,MULTISPECIES: phosphoribosylglycinamide formyltransferase [Kosakonia],2
+320,35,198956.2,34542.47953333334,34,MULTISPECIES: signal peptidase I [Vibrio],6
+321,35,2752.447,1722.7798333333333,29,MULTISPECIES: YbaB/EbfC family nucleoid-associated protein [Serratia],6
+322,35,,,23,MULTISPECIES: acyl carrier protein [Bacteria],0
+323,35,38833.58,4733.084340909091,34,"MULTISPECIES: (2E,6E)-farnesyl diphosphate synthase [Vibrio]",22
+324,35,17253.57,4737.539424999999,32,MULTISPECIES: diaminopimelate epimerase [Serratia],8
+325,35,904.32,798.64634,32,MULTISPECIES: CNNM family magnesium/cobalt transport protein CorC [Serratia],5
+326,35,883.5764,883.5764,30,MULTISPECIES: preprotein translocase subunit YajC [Serratia],2
+327,35,883.5764,836.1611133333333,31,MULTISPECIES: 50S ribosomal protein L10 [Serratia],15
+328,35,49376.54,9068.387744444444,34,MULTISPECIES: replication-associated recombination protein A [Vibrio],18
+329,35,8485.756,3274.8849583333326,34,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase [Vibrio cholerae],12
+330,35,2997.09,1510.0631812500003,34,bifunctional uridylyltransferase/uridylyl-removing protein GlnD [Vibrio cholerae],16
+331,35,66470.78,6164.50011764706,33,MULTISPECIES: 3-deoxy-manno-octulosonate-8-phosphatase KdsC [Serratia],17
+332,35,4263.555,1337.9295142857143,34,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Vibrio furnissii],7
+333,35,3428.529,1642.7676666666669,34,peptide chain release factor N(5)-glutamine methyltransferase [Acinetobacter bouvetii],12
+334,35,28780.5,3147.6544285714285,34,lipid-A-disaccharide synthase [Vibrio cholerae],14
+335,35,4545.701,1695.10695,29,MULTISPECIES: ATP-dependent Clp protease adapter ClpS [Serratia],8
+336,35,1726.678,1085.2114166666668,33,MULTISPECIES: RNA polymerase factor sigma-54 [Kosakonia],6
+337,35,3512.018,1550.8430153846155,30,MULTISPECIES: 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH [Serratia],13
+338,35,13713.99,9347.63632,33,MULTISPECIES: threonine--tRNA ligase [Serratia],5
+339,35,27872.66,6726.13336,30,MULTISPECIES: Fe-S biogenesis protein NfuA [Serratia],5
+340,35,10272.33,4372.744933333333,31,MULTISPECIES: ribosome maturation factor RimP [Serratia],9
+341,35,6832.989,2685.066533333333,33,MULTISPECIES: acetyl-CoA carboxylase biotin carboxyl carrier protein [Kosakonia],9
+342,35,1037.253,928.6815333333333,34,bifunctional riboflavin kinase/FAD synthetase [Vibrio cholerae],9
+343,35,9852.15,2250.2417555555553,34,nucleoside triphosphate pyrophosphohydrolase [Vibrio cholerae],9
+344,35,38833.58,4386.277263636363,33,MULTISPECIES: type I methionyl aminopeptidase [Serratia],11
+345,35,12723.6,3156.2037333333333,33,MULTISPECIES: Holliday junction branch migration protein RuvA [Serratia],6
+346,35,4545.701,1560.12738125,33,MULTISPECIES: DNA repair protein RadC [Serratia],16
+347,35,38833.58,13463.7783,34,Maf-like protein [Vibrio cholerae],4
+348,35,3428.529,1661.462166666667,29,MULTISPECIES: peptidylprolyl isomerase [Serratia],6
+349,35,10894.72,2173.3566444444446,34,DNA-processing protein DprA [Vibrio cholerae],9
+350,35,138924.1,13457.6640125,34,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [Vibrio furnissii]",16
+351,35,883.5764,750.3633571428571,29,MULTISPECIES: peptidoglycan-associated lipoprotein Pal [Kosakonia],7
+352,35,3428.529,1908.42675,34,threonylcarbamoyl-AMP synthase [Vibrio cholerae],4
+353,35,16770.32,4818.98652,34,deoxyribodipyrimidine photo-lyase [Vibrio furnissii],10
+354,35,3428.529,1656.905675,34,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD [Vibrio cholerae],8
+355,35,3858.662,1952.1954624999998,34,bifunctional 23S rRNA (guanine(2069)-N(7))-methyltransferase RlmK/23S rRNA (guanine(2445)-N(2))-methyltransferase RlmL [Acinetobacter soli],8
+356,35,2752.447,1129.6052454545454,33,MULTISPECIES: phosphate regulon sensor histidine kinase PhoR [Serratia],11
+357,35,37878.25,6129.798128571428,34,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA [Vibrio furnissii],7
+358,35,27872.66,6170.0324500000015,34,MULTISPECIES: ubiquinone biosynthesis regulatory protein kinase UbiB [Vibrio],6
+359,35,29467.88,7145.639028571429,34,ATP-dependent RNA helicase HrpA [Vibrio furnissii],7
+360,35,13713.99,2331.246886666667,31,MULTISPECIES: zinc uptake transcriptional repressor Zur [Serratia],15
+361,35,13713.99,2659.2987333333335,33,MULTISPECIES: tRNA pseudouridine(55) synthase TruB [Serratia],9
+362,35,3428.529,1322.2328466666663,24,MULTISPECIES: 50S ribosomal protein L29 [Bacteria],15
+363,35,49376.54,6280.863841666666,34,MULTISPECIES: ArsC family reductase [Vibrio],12
+364,35,50885.97,8426.44422142857,34,sigma E protease regulator RseP [Vibrio cholerae],14
+365,35,12351.13,2034.99421,33,MULTISPECIES: 4-hydroxy-tetrahydrodipicolinate synthase [Serratia],10
+366,35,8323.257,2213.8168699999997,34,YdiU family protein [Vibrio furnissii],10
+367,35,13713.99,2782.807083333333,33,MULTISPECIES: NAD(P)H-dependent glycerol-3-phosphate dehydrogenase [Kosakonia],12
+368,35,3858.662,2401.79504,33,MULTISPECIES: Re/Si-specific NAD(P)(+) transhydrogenase subunit beta [Serratia],5
+369,35,13072.54,2108.3700555555556,32,MULTISPECIES: ribosome maturation factor RimM [Enterobacteriaceae],9
+370,35,2606.229,1664.5192272727274,34,DNA mismatch repair protein MutS [Vibrio furnissii],11
+371,35,2347.625,1048.241490909091,34,"UDP-2,3-diacylglucosamine diphosphatase [Acinetobacter soli]",11
+372,35,10894.72,4105.985166666666,29,MULTISPECIES: ribosome assembly RNA-binding protein YhbY [Enterobacterales],3
+373,35,1228.72,741.0864857142858,33,MULTISPECIES: 23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ [Serratia],7
+374,35,13713.99,3487.956066666667,32,MULTISPECIES: F0F1 ATP synthase subunit delta [Kosakonia],6
+375,35,3428.529,1879.3474,24,MULTISPECIES: 50S ribosomal protein L30 [Bacteria],4
+376,35,8485.756,3142.1751,34,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase [Vibrio cholerae],6
+377,35,27872.66,4556.359416666666,34,tRNA glutamyl-Q(34) synthetase GluQRS [Vibrio cholerae],12
+378,35,13713.99,2222.101605882353,34,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [Vibrio cholerae],17
+379,35,3428.529,2291.333646153846,32,MULTISPECIES: polynucleotide adenylyltransferase PcnB [Serratia],13
+380,35,4545.701,1608.8562285714286,17,MULTISPECIES: DNA-binding transcriptional regulator Fis [Bacteria],7
+381,35,27872.66,3481.6964399999997,33,MULTISPECIES: acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase [Kosakonia],10
+382,35,2091.083,968.367,34,ribonuclease HII [Vibrio cholerae],8
+383,35,13713.99,3995.3482,33,MULTISPECIES: lipoyl(octanoyl) transferase LipB [Serratia],4
+384,35,13713.99,2032.052557142857,32,MULTISPECIES: YciI family protein [Aeromonas],14
+385,35,13713.99,3678.6689400000005,34,2-octaprenyl-6-methoxyphenyl hydroxylase [Acinetobacter bouvetii],5
+386,35,28780.5,6366.413428571429,34,glucose-6-phosphate isomerase [Vibrio cholerae],7
+387,35,13713.99,5387.9649,34,tryptophan synthase subunit alpha [Vibrio furnissii],4
+388,35,3051.765,1295.53368,34,MULTISPECIES: multifunctional acyl-CoA thioesterase I/protease I/lysophospholipase L1 [Vibrio],5
+389,35,6565.992,2465.79519,31,MULTISPECIES: stringent starvation protein A [Serratia],10
+390,35,3428.529,1608.4687000000001,33,MULTISPECIES: lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase [Serratia],9
+391,35,198956.2,14645.675072727272,34,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB [Vibrio cholerae],22
+392,35,13713.99,2103.18075,33,MULTISPECIES: methylenetetrahydrofolate reductase [Enterobacteriaceae],12
+393,35,3428.529,1726.9205692307692,34,adenosylmethionine--8-amino-7-oxononanoate transaminase [Vibrio furnissii],13
+394,35,4545.701,1823.0696799999998,32,MULTISPECIES: leucyl aminopeptidase [Serratia],5
+395,35,2752.447,1048.7841222222223,33,MULTISPECIES: multifunctional CCA addition/repair protein [Kosakonia],9
+396,35,3428.529,1167.8641384615385,34,thiazole synthase [Vibrio cholerae],13
+397,35,980.8116,791.5569,32,MULTISPECIES: rRNA maturation RNase YbeY [Serratia],4
+398,35,66470.78,9576.29866470588,34,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB [Vibrio furnissii],17
+399,35,32704.39,5804.654733333334,34,NAD(P)H nitroreductase [Vibrio cholerae],21
+400,35,2183.574,1060.7349,34,MULTISPECIES: pyruvate dehydrogenase complex dihydrolipoyllysine-residue acetyltransferase [Vibrio],5
+401,35,2096.109,1260.3183500000002,32,MULTISPECIES: adenylate kinase [Serratia],16
+402,35,13713.99,2147.688988888889,34,MULTISPECIES: 7-cyano-7-deazaguanine synthase QueC [Vibrio],18
+403,35,3428.529,2641.27425,32,MULTISPECIES: outer membrane protein assembly factor BamD [Serratia],4
+404,35,3428.529,1814.319245,34,MULTISPECIES: 16S rRNA (uracil(1498)-N(3))-methyltransferase [Vibrio],20
+405,35,941334.2,61807.54251052631,33,MULTISPECIES: Holliday junction resolvase RuvX [Kosakonia],19
+406,35,904.32,904.32,34,MULTISPECIES: peptidylprolyl isomerase SurA [Vibrio],4
+407,35,38833.58,12161.345857142858,34,glutamate--tRNA ligase [Vibrio furnissii],14
+408,35,2173.083,1115.2830399999998,31,MULTISPECIES: DNA replication/repair protein RecF [Serratia],5
+409,35,908.3955,837.50935,34,MULTISPECIES: phosphatidate cytidylyltransferase [Vibrio],2
+410,35,3428.529,1627.2743333333335,34,MULTISPECIES: Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha [Vibrio],3
+411,35,16271.57,4275.906633333333,31,MULTISPECIES: SPFH/Band 7/PHB domain protein [Serratia],6
+412,35,1132.923,917.5230899999999,34,type IV-A pilus assembly ATPase PilB [Vibrio furnissii],10
+413,35,3428.529,1299.2743666666668,34,MULTISPECIES: YciK family oxidoreductase [Vibrio],12
+414,35,38833.58,8200.6928,34,MULTISPECIES: YraN family protein [Vibrio],9
+415,35,941334.2,115521.85662222221,34,MULTISPECIES: type IV pilus twitching motility protein PilT [Vibrio],9
+416,35,13713.99,9070.724242857144,33,MULTISPECIES: pyridoxine 5'-phosphate synthase [Enterobacteriaceae],14
+417,35,1202.592,954.3907466666667,34,FAD-dependent 2-octaprenylphenol hydroxylase [Vibrio cholerae],15
+418,35,8156.898,2306.1801363636364,30,MULTISPECIES: oxidative damage protection protein [Enterobacterales],11
+419,35,3661.11,1373.726792857143,34,MULTISPECIES: HRDC domain-containing protein [Acinetobacter],14
+420,35,38833.58,12635.395092307694,33,MULTISPECIES: undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase [Serratia],13
+421,35,1301.77,1162.3721333333333,30,MULTISPECIES: colicin uptake protein TolR [Serratia],3
+422,35,3858.662,1132.6617857142858,34,prephenate dehydratase [Vibrio cholerae],14
+423,35,3661.11,1848.8212,31,MULTISPECIES: inner membrane protein YpjD [Serratia],11
+424,35,13713.99,2235.5304,31,MULTISPECIES: flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [Psychrobacter],11
+425,35,13713.99,3492.0396076923084,34,exodeoxyribonuclease V subunit alpha [Vibrio furnissii],13
+426,35,28780.5,7001.200057142857,33,MULTISPECIES: NAD(+) diphosphatase [Kosakonia],7
+427,35,1323.054,1030.0689333333332,31,MULTISPECIES: ribosome hibernation promoting factor [Serratia],3
+428,35,13713.99,4477.421714285714,34,5-formyltetrahydrofolate cyclo-ligase [Vibrio cholerae],7
+429,35,4576.539,2180.666338461538,34,MULTISPECIES: ribosomal protein S18-alanine N-acetyltransferase [Vibrio],13
+430,35,1413.119,619.278925,28,MULTISPECIES: preprotein translocase subunit SecE [Enterobacteriaceae],8
+431,35,2183.574,1001.6865,34,MULTISPECIES: outer membrane lipoprotein chaperone LolA [Acinetobacter],4
+432,35,37878.25,4724.916211111111,32,MULTISPECIES: tol-pal system-associated acyl-CoA thioesterase [Serratia],18
+433,35,13713.99,3941.7081500000004,34,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase [Vibrio furnissii],22
+434,35,38833.58,14560.634890909092,34,LPS export ABC transporter permease LptG [Vibrio cholerae],11
+435,35,3428.529,2233.799542857143,34,LPS assembly protein LptD [Vibrio cholerae],7
+436,35,1733.503,1025.2308333333333,31,MULTISPECIES: succinate dehydrogenase cytochrome b556 subunit [Serratia],6
+437,35,5351.021,2276.004825,31,MULTISPECIES: elongation factor P [Serratia],4
+438,35,10272.33,3153.2439533333327,34,MULTISPECIES: disulfide bond formation protein DsbB [Vibrio],15
+439,35,2752.447,1439.79308,31,MULTISPECIES: rhodanese-like domain-containing protein [Aeromonas],5
+440,35,17253.57,5050.17008,34,MULTISPECIES: YcgL domain-containing protein [Vibrio],5
+441,35,941334.2,117219.17585,34,virulence factor BrkB family protein [Vibrio cholerae],10
+442,35,6408.923,1665.6126888888887,34,tRNA lysidine(34) synthetase TilS [Vibrio furnissii],9
+443,35,2659.79,1208.06383125,32,MULTISPECIES: 3-isopropylmalate dehydrogenase [Serratia],16
+444,35,13713.99,1641.281956521739,34,MULTISPECIES: DNA repair protein RecO [Vibrio],23
+445,35,13713.99,3698.04355,32,MULTISPECIES: acetylglutamate kinase [Enterobacteriaceae],6
+446,35,4553.39,1746.8804400000001,34,DNA polymerase III subunit delta' [Vibrio furnissii],10
+447,35,28780.5,11340.911250000001,34,N-acetyl-gamma-glutamyl-phosphate reductase [Vibrio cholerae],4
+448,35,2173.083,1332.8573666666668,32,MULTISPECIES: thymidylate synthase [Serratia],3
+449,35,13713.99,2875.4693714285713,34,MULTISPECIES: MFS transporter [Vibrio],14
+450,35,138924.1,12345.087569230769,33,MULTISPECIES: tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ [Kosakonia],13
+451,35,3428.529,1913.49764,30,MULTISPECIES: cell division topological specificity factor MinE [Serratia],5
+452,35,980.8116,897.0745000000001,34,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase [Vibrio cholerae],3
+453,35,980.8116,858.8583333333332,34,MULTISPECIES: LPS export ABC transporter permease LptF [Vibrio],3
+454,35,27872.66,6338.118060000001,34,M48 family metallopeptidase [Vibrio cholerae],5
+455,35,3428.529,1722.5598,32,MULTISPECIES: FAD assembly factor SdhE [Kosakonia],12
+456,35,3428.529,1495.2641199999998,33,MULTISPECIES: histidine--tRNA ligase [Kosakonia],5
+457,35,2173.083,1585.28008,29,MULTISPECIES: cell division protein FtsA [Serratia],5
+458,35,2752.447,1051.0276222222221,34,7-carboxy-7-deazaguanine synthase QueE [Vibrio cholerae],9
+459,35,959.6069,710.197125,34,signal recognition particle-docking protein FtsY [Vibrio furnissii],4
+460,35,1493.421,1035.1378545454545,31,MULTISPECIES: electron transport complex subunit RsxB [Serratia],11
+461,35,2218.936,1238.9554500000002,30,MULTISPECIES: hypoxanthine phosphoribosyltransferase [Serratia],12
+462,35,9852.15,2238.8611142857144,31,MULTISPECIES: rod shape-determining protein MreD [Serratia],7
+463,35,3881.305,1269.4860199999998,34,MULTISPECIES: isocitrate lyase [Vibrio],10
+464,35,1034.114,1014.1350000000001,33,MULTISPECIES: argininosuccinate synthase [Serratia],3
+465,35,13713.99,4873.551125,34,DegQ family serine endoprotease [Vibrio cholerae],4
+466,35,7973.084,1465.2477466666667,31,MULTISPECIES: 23S rRNA accumulation protein YceD [Kosakonia],15
+467,35,3428.529,2332.9248187499998,30,MULTISPECIES: ribonuclease P protein component [Serratia],16
+468,35,4876.735,1684.7757400000003,33,MULTISPECIES: lipopolysaccharide ABC transporter substrate-binding protein LptA [Serratia],5
+469,35,3661.11,2047.881258333333,34,NAD-dependent DNA ligase LigA [Vibrio cholerae],12
+470,35,9492.083,4323.83128,34,AI-2E family transporter [Vibrio cholerae],5
+471,35,980.8116,840.7976,31,MULTISPECIES: Fe-S cluster assembly transcriptional regulator IscR [Serratia],2
+472,35,28780.5,5854.284389999999,34,MULTISPECIES: ComF family protein [Acinetobacter],10
+473,35,38833.58,11168.371670588233,34,outer membrane protein assembly factor BamB [Vibrio cholerae],17
+474,35,13713.99,3681.3857947368424,34,murein transglycosylase [Vibrio cholerae],19
+475,35,3333.338,1390.788077777778,31,MULTISPECIES: NAD(+) kinase [Serratia],9
+476,35,4545.701,2093.069,33,MULTISPECIES: YecA family protein [Enterobacteriaceae],3
+477,35,9492.083,2670.733753846154,34,type II secretion system F family protein [Vibrio furnissii],13
+478,35,48804.94,5911.773030769231,34,peptidoglycan editing factor PgeF [Vibrio cholerae],13
+479,35,3428.529,1898.43055,34,tRNA-modifying protein YgfZ [Vibrio furnissii],6
+480,35,8485.756,2699.606013333333,34,DNA polymerase III subunit delta [Vibrio furnissii],15
+481,35,2945.877,1022.6344692307692,34,peptidylprolyl isomerase [Vibrio furnissii],13
+482,35,980.8116,802.0970875,33,MULTISPECIES: YfgM family protein [Kosakonia],8
+483,35,17253.57,4096.0569399999995,33,MULTISPECIES: DNA polymerase III subunit epsilon [Kosakonia],5
+484,35,13713.99,1810.7220066666666,34,ABC transporter permease [Vibrio furnissii],15
+485,35,10272.33,2235.892633333334,33,MULTISPECIES: cell division protein FtsQ [Serratia],12
+486,35,3428.529,1557.30414,34,MULTISPECIES: ComEA family DNA-binding protein [Gammaproteobacteria],10
+487,35,38833.58,4837.61110625,33,"MULTISPECIES: bifunctional GTP diphosphokinase/guanosine-3',5'-bis pyrophosphate 3'-pyrophosphohydrolase [Kosakonia]",16
+488,35,2752.447,1141.1411454545453,31,MULTISPECIES: BolA family iron metabolism protein IbaG [Aeromonas],11
+489,35,4545.701,1691.5662904761903,34,MULTISPECIES: arginine--tRNA ligase [Vibrio],21
+490,35,3403.051,1418.2457153846156,34,aminodeoxychorismate synthase component 1 [Vibrio furnissii],13
+491,35,3428.529,1995.0305818181819,31,MULTISPECIES: ribosome-associated protein [Serratia],11
+492,35,4545.701,1533.5894666666668,33,MULTISPECIES: DNA polymerase III subunit chi [Kosakonia],9
+493,35,3403.051,1221.5806363636364,31,MULTISPECIES: Tol-Pal system beta propeller repeat protein TolB [Serratia],11
+494,35,138924.1,13489.00575,34,MULTISPECIES: uroporphyrinogen-III synthase [Vibrio],16
+495,35,28780.5,7360.043057142858,34,exodeoxyribonuclease V subunit beta [Vibrio furnissii],7
+496,35,2752.447,1485.3274545454547,33,MULTISPECIES: sulfur carrier protein ThiS [Kosakonia],11
+497,35,38833.58,5803.50224,34,translocation/assembly module TamB [Vibrio furnissii],10
+498,35,8485.756,4298.365533333333,30,MULTISPECIES: F0F1 ATP synthase subunit B [Serratia],3
+499,35,8485.756,2526.3240444444446,33,MULTISPECIES: lipoprotein insertase outer membrane protein LolB [Kosakonia],9
+500,35,1323.054,999.4968789473684,31,MULTISPECIES: transcription antitermination factor NusB [Enterobacterales],19
+501,35,3993.322,3710.9255000000003,34,DNA translocase FtsK [Vibrio furnissii],2
+502,35,17253.57,3260.7539444444446,34,exodeoxyribonuclease V subunit gamma [Vibrio furnissii],9
+503,35,65884.11,18029.706449999998,34,MULTISPECIES: septum site-determining protein MinC [Vibrio],4
+504,35,8485.756,1998.1187454545454,34,rhomboid family intramembrane serine protease GlpG [Vibrio cholerae],11
+505,35,1726.678,1445.6441333333335,30,MULTISPECIES: preprotein translocase subunit SecG [Serratia],3
+506,35,3428.529,1929.9855300000004,34,cytoskeleton protein RodZ [Vibrio cholerae],10
+507,35,10894.72,3227.2778999999996,34,aminopeptidase N [Vibrio furnissii],6
+508,35,1228.72,938.4319666666667,34,MULTISPECIES: malate dehydrogenase [Vibrio],6
+509,35,13713.99,3647.1604,34,LPS assembly lipoprotein LptE [Vibrio furnissii],6
+510,35,18247.98,2707.836747368421,34,MULTISPECIES: two-component system sensor histidine kinase EnvZ [Vibrio],19
+511,35,38833.58,5501.621188888889,34,molybdenum cofactor guanylyltransferase [Acinetobacter bouvetii],9
+512,35,8922.646,1724.0027222222225,32,MULTISPECIES: phosphoribosylaminoimidazolesuccinocarboxamide synthase [Kosakonia],9
+513,35,8485.756,2054.304014285714,34,ammonia-dependent NAD(+) synthetase [Vibrio furnissii],7
+528,34,4545.701,2652.6154545454547,34,transcription-repair coupling factor [Vibrio cholerae],11
+529,34,13713.99,4368.118100000001,31,MULTISPECIES: uracil phosphoribosyltransferase [Aeromonas],4
+530,34,3428.529,2106.6079400000003,33,MULTISPECIES: peptide chain release factor 2 [Kosakonia],5
+531,34,2752.447,1310.0656294117648,30,MULTISPECIES: glycine--tRNA ligase subunit alpha [Serratia],17
+532,34,4545.701,1493.5846699999997,32,MULTISPECIES: ATP-dependent Clp protease ATP-binding subunit ClpA [Serratia],20
+533,34,9721.919,9721.919,34,MULTISPECIES: peptide chain release factor 1 [Vibrio],1
+534,34,1390.269,1007.250625,31,MULTISPECIES: iron-sulfur cluster insertion protein ErpA [Kosakonia],4
+535,34,2997.09,1500.961217647059,34,MULTISPECIES: carbamoyl-phosphate synthase large subunit [Vibrio],17
+536,34,38833.58,10953.94797,31,MULTISPECIES: SsrA-binding protein SmpB [Serratia],20
+537,34,3428.529,1277.3096733333334,27,MULTISPECIES: transcription termination factor Rho [Enterobacteriaceae],15
+538,34,2173.083,1580.3181666666667,34,MULTISPECIES: ABC transporter ATP-binding protein [Vibrio],12
+539,34,2407.153,1178.3799111111111,33,MULTISPECIES: GTPase HflX [Enterobacterales],9
+540,34,9300.843,5745.449307142858,33,MULTISPECIES: molecular chaperone DnaK [Serratia],14
+541,34,1202.592,1043.0842,31,MULTISPECIES: RNA pyrophosphohydrolase [Serratia],2
+542,34,38833.58,2816.0567677419353,33,MULTISPECIES: dihydroxy-acid dehydratase [Kosakonia],31
+543,34,3428.529,1767.8963000000003,34,MULTISPECIES: ATP-dependent chaperone ClpB [Vibrio],4
+544,34,48804.94,6995.161163636364,34,excinuclease ABC subunit UvrA [Vibrio furnissii],22
+545,34,38833.58,3978.9470500000007,32,MULTISPECIES: F0F1 ATP synthase subunit gamma [Serratia],12
+546,34,13713.99,2369.2648090909092,34,MULTISPECIES: site-specific tyrosine recombinase XerD [Vibrio],11
+547,34,,,29,MULTISPECIES: ferric iron uptake transcriptional regulator [Enterobacteriaceae],0
+548,34,2057.902,1633.209,34,MULTISPECIES: glutamine--tRNA ligase [Vibrio],3
+549,34,3881.305,1512.5769272727273,34,single-stranded-DNA-specific exonuclease RecJ [Vibrio cholerae],11
+550,34,4545.701,1980.587825,34,tRNA 2-thiocytidine(32) synthetase TtcA [Vibrio cholerae],8
+551,34,980.8116,850.2525399999998,34,MULTISPECIES: ribosome biogenesis GTP-binding protein YihA/YsxC [Vibrio],5
+552,34,3428.529,1656.2815666666668,34,MULTISPECIES: tRNA epoxyqueuosine(34) reductase QueG [Vibrio],6
+553,34,6680.689,2070.7435636363643,20,MULTISPECIES: 50S ribosomal protein L28 [Bacteria],11
+554,34,8323.257,2096.659540909091,34,radical SAM family heme chaperone HemW [Vibrio furnissii],22
+555,34,66470.78,8307.0235,34,MULTISPECIES: leucyl/phenylalanyl-tRNA--protein transferase [Acinetobacter],9
+556,34,4545.701,3637.889,33,MULTISPECIES: beta-ketoacyl-ACP synthase I [Serratia],2
+557,34,8782.157,3775.6890750000002,34,MULTISPECIES: 3-isopropylmalate dehydratase large subunit [Vibrio],12
+558,34,2752.447,1798.9178,31,MULTISPECIES: transcription elongation factor GreA [Enterobacterales],8
+559,34,2752.447,1536.5455,34,penicillin-binding protein 1B [Vibrio cholerae],9
+560,34,3661.11,1202.8035545454545,34,MULTISPECIES: cysteine--tRNA ligase [Vibrio],11
+561,34,766.6232,766.6232,30,MULTISPECIES: DNA polymerase III subunit beta [Serratia],1
+562,34,883.5764,883.5764,34,MULTISPECIES: tRNA (guanosine(46)-N7)-methyltransferase TrmB [Vibrio],4
+563,34,3428.529,1777.06925,34,MULTISPECIES: bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase [Vibrio],10
+564,34,1469.169,987.5211,28,MULTISPECIES: shikimate kinase AroK [Enterobacteriaceae],2
+565,34,7973.084,2625.605433333333,32,MULTISPECIES: 50S ribosomal protein L3 N(5)-glutamine methyltransferase [Serratia],9
+566,34,8323.257,1964.78174,32,MULTISPECIES: protein translocase subunit SecF [Kosakonia],10
+567,34,29467.88,15175.728200000001,34,MULTISPECIES: membrane protein insertase YidC [Vibrio],4
+568,34,13713.99,2623.77502,34,carboxylating nicotinate-nucleotide diphosphorylase [Vibrio cholerae],10
+569,34,37878.25,8745.313106666666,34,MULTISPECIES: thiamine-phosphate kinase [Vibrio],15
+570,34,13713.99,5573.533244444446,32,MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE [Enterobacteriaceae],9
+571,34,,,33,MULTISPECIES: F0F1 ATP synthase subunit A [Serratia],0
+572,34,23787.35,5510.780346153846,34,MULTISPECIES: dTMP kinase [Acinetobacter],13
+573,34,6420.008,2481.3898999999997,34,bifunctional [glutamate--ammonia ligase]-adenylyl-L-tyrosine phosphorylase/[glutamate--ammonia-ligase] adenylyltransferase [Vibrio furnissii],12
+574,34,614.1623,614.1623,33,MULTISPECIES: ATP-dependent RNA helicase RhlB [Kosakonia],1
+575,34,13713.99,5800.531816666667,33,MULTISPECIES: nitrogen regulation protein NR(I) [Kosakonia],12
+576,34,13713.99,3166.7362307692306,32,MULTISPECIES: bacterioferritin [Bacteria],13
+577,34,8922.646,2355.4686,34,MULTISPECIES: glycerol-3-phosphate 1-O-acyltransferase PlsB [Vibrio],7
+578,34,883.5764,883.5764,34,DNA repair protein RecN [Vibrio furnissii],1
+579,34,2659.79,1144.0848666666666,33,MULTISPECIES: trigger factor [Serratia],6
+580,34,138924.1,69853.9615,32,MULTISPECIES: pyridoxal phosphate-dependent aminotransferase [Kosakonia],2
+581,34,883.5764,883.5764,31,MULTISPECIES: chromosomal replication initiator protein DnaA [Serratia],3
+582,34,138924.1,19631.617166666667,34,MULTISPECIES: imidazole glycerol phosphate synthase subunit HisH [Vibrio],12
+583,34,783.823,783.823,34,nucleotide exchange factor GrpE [Vibrio cholerae],1
+584,34,1057.108,971.6204666666667,31,MULTISPECIES: cell division protein FtsB [Enterobacterales],3
+585,34,2752.447,1682.493142857143,33,MULTISPECIES: Hsp33 family molecular chaperone HslO [Serratia],7
+586,34,17718.99,7791.41475,34,MULTISPECIES: A/G-specific adenine glycosylase [Serratia],4
+587,34,3738.179,1813.99023125,34,MULTISPECIES: carboxy terminal-processing peptidase [Vibrio],16
+588,34,68804.91,6046.418645000001,34,DNA primase [Vibrio furnissii],20
+589,34,9492.083,1733.0905999999998,33,MULTISPECIES: imidazole glycerol phosphate synthase subunit HisF [Aeromonas],14
+590,34,27872.66,8003.996816666667,34,histidinol dehydrogenase [Vibrio furnissii],6
+591,34,3428.529,1384.4266769230771,34,pyridoxamine 5'-phosphate oxidase [Vibrio cholerae],13
+592,34,28780.5,3134.515176923077,34,YchJ family protein [Vibrio cholerae],13
+593,34,48804.94,5061.594676923078,33,MULTISPECIES: 3-isopropylmalate dehydratase small subunit [Serratia],13
+594,34,3661.11,1579.1730571428573,32,MULTISPECIES: 30S ribosome-binding factor RbfA [Enterobacterales],7
+595,34,2752.447,1523.4613333333334,31,MULTISPECIES: phosphate signaling complex protein PhoU [Serratia],6
+596,34,37878.25,8244.250457142856,34,MULTISPECIES: bifunctional ADP-dependent NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase [Vibrio],7
+597,34,8323.257,2287.37245,32,MULTISPECIES: nitrogen regulation protein NR(II) [Serratia],8
+598,34,3428.529,1079.4468076923076,34,MULTISPECIES: YigZ family protein [Vibrio],13
+599,34,1737.612,920.3516666666668,34,MULTISPECIES: 4-hydroxy-tetrahydrodipicolinate reductase [Vibrio],6
+600,34,211093.9,16307.369355555556,34,MULTISPECIES: 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase [Vibrio],18
+601,34,2752.447,1241.6519600000001,33,MULTISPECIES: phosphoenolpyruvate carboxylase [Serratia],5
+602,34,68804.91,17951.1938,34,MULTISPECIES: bifunctional histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase HisB [Vibrio],4
+603,34,3051.765,1613.0415333333333,30,MULTISPECIES: peptidylprolyl isomerase [Aeromonas],3
+604,34,1737.612,962.8300285714286,34,quinolinate synthase NadA [Vibrio furnissii],7
+605,34,883.5764,824.56172,34,MULTISPECIES: dihydroneopterin aldolase [Acinetobacter],5
+606,34,211093.9,25125.56091111111,34,bifunctional indole-3-glycerol-phosphate synthase TrpC/phosphoribosylanthranilate isomerase TrpF [Vibrio furnissii],9
+607,34,16271.57,3756.088254545454,34,anthranilate phosphoribosyltransferase [Vibrio furnissii],11
+608,34,28780.5,3962.7036000000003,34,MULTISPECIES: argininosuccinate lyase [Vibrio],11
+609,34,2752.447,1320.7315666666666,34,L-aspartate oxidase [Vibrio furnissii],3
+610,34,6750.528,2153.7399937500004,33,MULTISPECIES: outer membrane protein OmpW [Serratia],16
+611,34,883.5764,883.5764,31,MULTISPECIES: outer membrane protein assembly factor BamE [Serratia],1
+612,34,65884.11,14458.291699999996,34,MULTISPECIES: ketol-acid reductoisomerase [Proteobacteria],15
+613,34,883.5764,851.6603444444445,32,MULTISPECIES: ATP phosphoribosyltransferase [Kosakonia],9
+614,34,138924.1,23754.705421052633,34,two-component sensor histidine kinase BarA [Vibrio cholerae],19
+615,34,8922.646,1424.2776642857145,34,3-phosphoshikimate 1-carboxyvinyltransferase [Vibrio cholerae],14
+616,34,17253.57,4620.9130000000005,34,exodeoxyribonuclease VII large subunit [Acinetobacter bouvetii],6
+617,34,8485.756,3327.9473749999997,33,MULTISPECIES: NfeD family protein [Kosakonia],4
+618,34,2608.349,1173.9622727272726,34,bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA [Vibrio furnissii],11
+619,34,674.1187,674.1187,32,MULTISPECIES: bacterioferritin-associated ferredoxin [Bacteria],1
+620,34,10616.46,3137.0302125,34,autotransporter assembly complex protein TamA [Acinetobacter bouvetii],8
+621,34,4750.184,1710.7255285714289,34,DNA polymerase III subunit gamma/tau [Vibrio furnissii],7
+622,34,37878.25,3377.676119047619,34,malonyl-ACP O-methyltransferase BioC [Vibrio furnissii],21
+623,34,6680.689,1625.6257818181818,33,MULTISPECIES: ribonucleotide-diphosphate reductase subunit beta [Enterobacterales],11
+624,34,2183.574,1046.0761,34,SCP2 domain-containing protein [Vibrio furnissii],8
+625,34,13713.99,2386.5884545454546,34,PilN domain-containing protein [Vibrio cholerae],11
+641,33,2752.447,1440.031,33,MULTISPECIES: amino-acid N-acetyltransferase [Vibrio],3
+642,33,13713.99,3785.1437625000003,32,"MULTISPECIES: threonine ammonia-lyase, biosynthetic [Serratia]",16
+643,33,13713.99,4812.114105263157,25,MULTISPECIES: two-component system response regulator OmpR [Enterobacterales],19
+644,33,17253.57,4816.308416666666,32,MULTISPECIES: threonylcarbamoyl-AMP synthase [Enterobacteriaceae],12
+645,33,12351.13,4258.877725,33,MULTISPECIES: aspartate-semialdehyde dehydrogenase [Vibrio],8
+646,33,16739.64,2589.253190909091,33,glutamate synthase large subunit [Vibrio cholerae],11
+647,33,3428.529,2408.6691,33,orotidine-5'-phosphate decarboxylase [Vibrio cholerae],10
+648,33,8323.257,2381.5147222222226,26,MULTISPECIES: RNA polymerase-binding protein DksA [Enterobacteriaceae],9
+649,33,2752.447,1215.78302,33,3-deoxy-7-phosphoheptulonate synthase [Vibrio cholerae],5
+650,33,3428.529,1956.3826,33,MULTISPECIES: acetolactate synthase 3 large subunit [Proteobacteria],4
+651,33,2779.551,1301.605975,33,glutamate--cysteine ligase [Vibrio cholerae],8
+652,33,198956.2,24677.479911111113,33,MULTISPECIES: protease SohB [Vibrio],9
+653,33,6680.689,1595.1440083333334,33,MULTISPECIES: acetyl-CoA C-acyltransferase FadA [Vibrio],24
+654,33,50885.97,16529.79655,33,UDP-N-acetylmuramate dehydrogenase [Vibrio furnissii],4
+655,33,13713.99,6859.812107692308,33,YchF/TatD family DNA exonuclease [Vibrio cholerae],13
+656,33,,,13,MULTISPECIES: 50S ribosomal protein L36 [Bacteria],0
+657,33,3428.529,2528.5418785714287,29,MULTISPECIES: acetolactate synthase small subunit [Kosakonia],14
+658,33,211093.9,23245.88476923077,34,YifB family Mg chelatase-like AAA ATPase [Vibrio furnissii],13
+659,33,1202.592,984.2449,33,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC [Vibrio furnissii],10
+660,33,28780.5,5832.813219999999,32,MULTISPECIES: glutamate synthase small subunit [Kosakonia],10
+661,33,7973.084,2912.5892400000002,33,MULTISPECIES: DNA polymerase IV [Acinetobacter],10
+662,33,38833.58,9609.284163636365,33,tRNA adenosine(34) deaminase TadA [Vibrio cholerae],11
+663,33,3855.439,2410.54404,33,MULTISPECIES: type 2 GTP cyclohydrolase I [Serratia],10
+664,33,3428.529,1063.9705999999999,32,MULTISPECIES: 5-(carboxyamino)imidazole ribonucleotide mutase [Serratia],12
+665,33,8575.808,2712.84065,32,MULTISPECIES: HTH-type transcriptional regulator MetR [Kosakonia],4
+666,33,13939.35,5163.846333333334,33,MULTISPECIES: lipid A ABC transporter ATP-binding protein/permease MsbA [Kosakonia],3
+667,33,2943.461,1281.99136,30,MULTISPECIES: cysteine desulfurase [Serratia],10
+668,33,3428.529,1316.8164000000002,29,MULTISPECIES: kinase/pyrophosphorylase [Aeromonas],5
+669,33,783.823,673.9151999999999,33,fatty acid oxidation complex subunit alpha FadB [Vibrio cholerae],2
+670,33,1515.735,956.0030599999998,31,MULTISPECIES: YcgN family cysteine cluster protein [Kosakonia],5
+671,33,138924.1,21141.116199999997,33,MULTISPECIES: small ribosomal subunit biogenesis GTPase RsgA [Vibrio],7
+672,33,3428.529,2029.824033333333,32,MULTISPECIES: glutamate 5-kinase [Serratia],9
+673,33,2945.877,1496.7077125,32,MULTISPECIES: FKBP-type peptidyl-prolyl cis-trans isomerase [Kosakonia],8
+674,33,28780.5,5490.242633333332,33,RNA polymerase-associated protein RapA [Vibrio furnissii],12
+675,33,1512.188,986.9090571428571,33,glycerol kinase GlpK [Vibrio cholerae],7
+676,33,2943.461,1257.4429666666667,33,tRNA isopentenyl-2-thiomethyl-A-37 hydroxylase MiaE [Vibrio cholerae],15
+677,33,,,31,MULTISPECIES: DNA gyrase inhibitor YacG [Aeromonas],0
+678,33,48804.94,5179.854783333334,30,MULTISPECIES: YaiI/YqxD family protein [Serratia],12
+679,33,2962.843,1112.0790555555554,33,peroxide stress protein YaaA [Acinetobacter bouvetii],9
+680,33,29467.88,7360.22408,33,MULTISPECIES: glutamate-5-semialdehyde dehydrogenase [Vibrio],10
+681,33,980.8116,932.194,31,MULTISPECIES: phosphatidylglycerophosphatase A [Serratia],4
+682,33,38833.58,3563.052242857143,33,4-phosphoerythronate dehydrogenase [Vibrio furnissii],14
+683,33,302785.5,22876.051207142857,33,MULTISPECIES: class II fumarate hydratase [Vibrio],14
+684,33,27872.66,8865.5025625,33,MULTISPECIES: Cys-tRNA(Pro) deacylase [Vibrio],8
+685,33,2183.574,1082.5015555555556,31,MULTISPECIES: peptidoglycan glycosyltransferase FtsI [Serratia],9
+686,33,980.8116,858.4042833333333,33,S-formylglutathione hydrolase [Vibrio furnissii],6
+687,33,1430.8,1006.6724333333335,32,MULTISPECIES: OsmC family protein [Serratia],3
+688,33,766.6232,742.72624,30,MULTISPECIES: succinate dehydrogenase membrane anchor subunit [Serratia],5
+689,33,1301.77,1033.4251,32,MULTISPECIES: glutamate racemase [Serratia],4
+690,33,3858.662,1709.9225999999999,33,MULTISPECIES: oxygen-independent coproporphyrinogen III oxidase [Vibrio],4
+691,33,94590.41,13905.464909523811,31,MULTISPECIES: DUF423 domain-containing protein [Serratia],21
+692,33,10894.72,2372.3775636363634,32,MULTISPECIES: outer membrane-stress sensor serine endopeptidase DegS [Kosakonia],11
+693,33,2943.461,1297.4147375,33,MULTISPECIES: zinc ABC transporter permease subunit ZnuB [Vibrio],8
+694,33,8922.646,2389.1103,34,5-(carboxyamino)imidazole ribonucleotide synthase [Vibrio cholerae],8
+695,33,8922.646,3335.5710333333336,33,MULTISPECIES: bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase PutA [Vibrio],9
+696,33,1202.592,943.57785,32,MULTISPECIES: rod shape-determining protein MreC [Kosakonia],4
+697,33,13713.99,2430.6824875,31,MULTISPECIES: sulfurtransferase TusA [Serratia],8
+698,33,2752.447,1220.3067833333334,33,polyphosphate kinase 1 [Vibrio cholerae],12
+699,33,13713.99,2467.4595705882352,31,MULTISPECIES: serine O-acetyltransferase [Serratia],17
+700,33,1264.189,1010.4472666666667,33,MULTISPECIES: septation protein A [Vibrio],3
+701,33,8323.257,6109.023999999999,32,MULTISPECIES: type I DNA topoisomerase [Serratia],8
+702,33,13713.99,2716.6126000000004,33,sulfurtransferase complex subunit TusD [Vibrio cholerae],9
+703,33,8485.756,1515.3229636363635,33,MULTISPECIES: LysR family transcriptional regulator [Vibrio],11
+704,33,2997.09,1887.05535,33,type IV pilus secretin PilQ family protein [Vibrio cholerae],8
+705,33,65884.11,17339.6033,33,phosphoserine phosphatase [Vibrio cholerae],4
+706,33,783.823,783.823,31,MULTISPECIES: thiol:disulfide interchange protein DsbA [Serratia],1
+707,33,883.5764,822.8250333333332,33,class I SAM-dependent methyltransferase [Vibrio cholerae],3
+708,33,10616.46,2822.51588,33,DNA mismatch repair endonuclease MutL [Vibrio furnissii],5
+709,33,10894.72,2870.670627777778,32,MULTISPECIES: YggT family protein [Kosakonia],18
+710,33,1820.585,1625.6925,33,MULTISPECIES: esterase YqiA [Vibrio],2
+711,33,28780.5,8581.185000000001,33,aminodeoxychorismate lyase [Vibrio cholerae],8
+712,33,2752.447,1866.6293,33,MULTISPECIES: diaminopimelate decarboxylase [Vibrio],2
+713,33,1430.8,1115.16536,33,MULTISPECIES: carbon-nitrogen hydrolase family protein [Vibrio],5
+714,33,908.3955,779.65765,33,bifunctional tRNA (5-methylaminomethyl-2-thiouridine)(34)-methyltransferase MnmD/FAD-dependent 5-carboxymethylaminomethyl-2-thiouridine(34) oxidoreductase MnmC [Vibrio furnissii],2
+715,33,2752.447,1363.2036,33,MULTISPECIES: ribonucleoside-diphosphate reductase subunit alpha [Vibrio],4
+716,33,13713.99,6647.8861799999995,32,MULTISPECIES: divisome-associated lipoprotein YraP [Serratia],10
+717,33,,,28,MULTISPECIES: DUF1315 family protein [Serratia],0
+718,33,3428.529,1598.9389,32,MULTISPECIES: phosphoadenylyl-sulfate reductase [Serratia],4
+719,33,13713.99,7572.448171428572,33,MULTISPECIES: glycerophosphoryl diester phosphodiesterase [Vibrio],14
+720,33,2264.006,1623.714125,34,MULTISPECIES: superoxide dismutase [Fe] [Vibrio],4
+721,33,13713.99,3432.271739999999,31,MULTISPECIES: phosphohistidine phosphatase SixA [Serratia],5
+722,33,8323.257,4406.8996,27,MULTISPECIES: DUF493 family protein YbeD [Enterobacterales],7
+723,33,13713.99,3085.09884,29,MULTISPECIES: membrane protein insertion efficiency factor YidD [Serratia],10
+724,33,2752.447,1150.5579142857143,32,MULTISPECIES: RnfH family protein [Serratia],7
+725,33,3993.322,2219.8525600000003,33,chorismate lyase [Vibrio cholerae],10
+726,33,980.8116,914.6980636363637,29,MULTISPECIES: colicin V production protein [Serratia],11
+727,33,3428.529,1416.3147111111111,33,NAD(P)H-binding protein [Vibrio cholerae],9
+728,33,1228.72,890.2751333333334,33,MULTISPECIES: methylisocitrate lyase [Vibrio],6
+729,33,3428.529,1339.360375,33,23S rRNA (guanine(745)-N(1))-methyltransferase [Vibrio cholerae],8
+737,32,13713.99,4237.661160000001,32,"MULTISPECIES: 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Vibrio]",5
+738,32,3428.529,1131.3756,32,tRNA dihydrouridine(16) synthase DusC [Vibrio cholerae],17
+739,32,3428.529,1791.51935,29,MULTISPECIES: ribonuclease G [Kosakonia],8
+740,32,3428.529,1442.9095066666666,31,MULTISPECIES: tRNA cyclic N6-threonylcarbamoyladenosine(37) synthase TcdA [Serratia],15
+741,32,2943.461,1611.29930625,32,porphobilinogen synthase [Vibrio furnissii],16
+742,32,28780.5,7085.545079999999,32,MULTISPECIES: peptide-methionine (R)-S-oxide reductase MsrB [Vibrio],5
+743,32,2752.447,1731.9461199999998,29,MULTISPECIES: thioredoxin TrxC [Serratia],5
+744,32,13713.99,1943.34776875,32,MULTISPECIES: phosphoglycolate phosphatase [Vibrio],16
+745,32,941334.2,84342.42294615385,32,TatD family hydrolase [Acinetobacter bouvetii],13
+746,32,13713.99,3413.90648,30,MULTISPECIES: class 1 fructose-bisphosphatase [Serratia],5
+747,32,4876.735,1592.2241636363635,32,MULTISPECIES: PHP domain-containing protein [Vibrio],11
+748,32,198956.2,24339.140700000004,32,MULTISPECIES: alanine racemase [Vibrio],9
+749,32,974.177,789.5731428571428,33,"3',5'-cyclic-AMP phosphodiesterase [Vibrio cholerae]",7
+750,32,1323.054,826.4888666666666,28,MULTISPECIES: iron-sulfur cluster assembly protein IscA [Serratia],12
+751,32,38833.58,3610.6698857142865,32,MULTISPECIES: NAD-dependent protein deacylase [Vibrio],14
+752,32,3051.765,1407.3452222222222,33,5'/3'-nucleotidase SurE [Vibrio furnissii],9
+753,32,13713.99,3977.3784363636364,33,MULTISPECIES: anthranilate synthase component 1 [Vibrio],11
+754,32,6565.992,1724.8659058823528,32,8-amino-7-oxononanoate synthase [Vibrio furnissii],17
+755,32,28780.5,4276.093177777778,32,MULTISPECIES: CoA pyrophosphatase [Vibrio],9
+756,32,13713.99,5047.0765125,31,MULTISPECIES: 23S rRNA pseudouridine(2605) synthase RluB [Aeromonas],16
+757,32,3428.529,1072.0109153846154,31,MULTISPECIES: CidB/LrgB family autolysis modulator [Kosakonia],13
+758,32,138924.1,15616.424225,32,MULTISPECIES: magnesium transporter [Vibrio],12
+759,32,3591.704,2160.64465,28,MULTISPECIES: YheV family putative metal-binding protein [Serratia],8
+760,32,28780.5,4219.443041666666,33,MULTISPECIES: DNA endonuclease SmrA [Vibrio],12
+761,32,883.5764,755.0301,30,MULTISPECIES: membrane protein FxsA [Serratia],4
+762,32,13713.99,3038.184533333333,32,MULTISPECIES: SlyX family protein [Vibrio],6
+763,32,6910.52,2946.6762933333334,32,MULTISPECIES: envelope stress response membrane protein PspC [Vibrio],15
+772,31,1356.212,949.9899666666666,31,MULTISPECIES: protease HtpX [Serratia],6
+773,31,908.3955,718.7649,23,MULTISPECIES: carbon storage regulator CsrA [Enterobacterales],2
+774,31,13713.99,2848.335457142857,30,"MULTISPECIES: 1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD [Kosakonia]",7
+775,31,27872.66,3567.907416666667,30,MULTISPECIES: LLM class flavin-dependent oxidoreductase [Kosakonia],12
+776,31,9721.919,2307.3956454545455,31,MULTISPECIES: TIGR01777 family oxidoreductase [Vibrio],11
+777,31,94590.41,12737.262475000003,31,monofunctional biosynthetic peptidoglycan transglycosylase [Vibrio furnissii],16
+778,31,3661.11,1099.805490909091,29,MULTISPECIES: bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE [Kosakonia],11
+779,31,10894.72,2731.7110857142857,31,patatin-like phospholipase family protein [Acinetobacter bouvetii],7
+780,31,3428.529,2377.468542857143,28,MULTISPECIES: HTH-type transcriptional repressor FabR [Serratia],7
+781,31,13713.99,3421.6545888888886,30,MULTISPECIES: glycine cleavage system aminomethyltransferase GcvT [Serratia],9
+782,31,3858.662,1161.23413,32,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase [Vibrio furnissii],10
+783,31,8485.756,2707.51525,31,pimeloyl-ACP methyl ester esterase BioH [Vibrio cholerae],4
+797,30,13713.99,2687.482305882353,23,MULTISPECIES: 30S ribosomal protein S3 [Gammaproteobacteria],17
+798,30,1038.827,1038.827,29,MULTISPECIES: adenylosuccinate synthase [Enterobacteriaceae],1
+799,30,980.8116,913.919825,31,EF-P beta-lysylation protein EpmB [Vibrio furnissii],4
+800,30,980.8116,891.7570000000001,25,MULTISPECIES: ISC system 2Fe-2S type ferredoxin [Serratia],11
+801,30,138924.1,46912.27183333334,28,MULTISPECIES: beta-ketoacyl-ACP synthase II [Kosakonia],3
+802,30,2752.447,1759.5351,29,MULTISPECIES: Fe-S protein assembly chaperone HscA [Kosakonia],4
+803,30,3428.529,1013.3384090909091,29,MULTISPECIES: phosphate acetyltransferase [Serratia],11
+804,30,2802.356,1170.7722250000002,26,MULTISPECIES: Fe-S cluster assembly scaffold IscU [Aeromonas],8
+805,30,2962.843,2962.843,29,MULTISPECIES: NAD-dependent malic enzyme [Serratia],1
+806,30,6017.919,1177.3859541666668,27,MULTISPECIES: dUTP diphosphatase [Serratia],24
+807,30,8323.257,2117.9997375,28,MULTISPECIES: class II glutamine amidotransferase [Serratia],8
+808,30,38833.58,8818.972000000002,30,M3 family metallopeptidase [Acinetobacter bouvetii],5
+809,30,38833.58,19669.7266,31,gamma carbonic anhydrase family protein [Vibrio furnissii],2
+810,30,1090.564,966.268325,29,MULTISPECIES: ABC transporter ATP-binding protein [Serratia],4
+811,30,65884.11,9975.021874999999,30,MULTISPECIES: hemolysin III family protein [Kosakonia],8
+812,30,16739.64,3477.1048285714287,30,tRNA pseudouridine(13) synthase TruD [Vibrio furnissii],7
+813,30,1994.814,1179.3920857142857,29,MULTISPECIES: tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO [Serratia],7
+814,30,3661.11,1548.17725,29,MULTISPECIES: large-conductance mechanosensitive channel protein MscL [Kosakonia],4
+815,30,3713.33,986.5974666666667,24,MULTISPECIES: cAMP-activated global transcriptional regulator CRP [Enterobacterales],12
+816,30,980.8116,816.10285,31,Maf-like protein [Vibrio cholerae],2
+817,30,27872.66,7698.183875,28,MULTISPECIES: transcription elongation factor GreB [Aeromonas],8
+818,30,980.8116,868.652,31,pirin family protein [Vibrio furnissii],5
+819,30,2091.083,1318.9692,29,MULTISPECIES: TusE/DsrC/DsvC family sulfur relay protein [Aeromonas],2
+820,30,2752.447,1663.9229666666665,28,MULTISPECIES: adenine phosphoribosyltransferase [Enterobacteriaceae],9
+821,30,3428.529,1635.445966666667,30,MULTISPECIES: MGMT family protein [Kosakonia],6
+822,30,2442.459,1197.0400249999998,30,molybdopterin molybdotransferase MoeA [Vibrio furnissii],8
+823,30,2264.006,1126.8423,31,VacJ family lipoprotein [Vibrio cholerae],9
+824,30,10272.33,1894.95573125,30,dethiobiotin synthase [Acinetobacter bouvetii],16
+825,30,38833.58,12869.784899999999,28,MULTISPECIES: exodeoxyribonuclease III [Serratia],15
+826,30,32704.39,6860.324075,26,MULTISPECIES: PTS phosphocarrier protein NPr [Enterobacterales],24
+827,30,3403.051,1339.5468166666665,30,co-chaperone HscB [Vibrio cholerae],6
+828,30,48804.94,9870.286371428572,30,TonB-dependent receptor [Vibrio cholerae],7
+829,30,29467.88,7806.373833333334,27,MULTISPECIES: DnaA inactivator Hda [Serratia],6
+830,30,2752.447,1209.64975,29,MULTISPECIES: YceI family protein [Kosakonia],8
+831,30,980.8116,931.56445,30,exonuclease SbcCD subunit D [Vibrio furnissii],4
+832,30,,,30,MULTISPECIES: FKBP-type peptidyl-prolyl cis-trans isomerase [Vibrio],0
+833,30,10272.33,3284.9434249999995,31,MULTISPECIES: high frequency lysogenization protein HflD [Vibrio],4
+834,30,5351.021,3715.8576,31,MULTISPECIES: MBL fold metallo-hydrolase [Vibrio],8
+835,30,980.8116,882.3172999999999,31,MULTISPECIES: A24 family peptidase [Vibrio],2
+836,30,13713.99,3081.0625499999996,28,MULTISPECIES: phosphate ABC transporter permease PstC [Serratia],8
+837,30,29467.88,7282.78608,31,16S rRNA (guanine(1207)-N(2))-methyltransferase RsmC [Vibrio cholerae],5
+838,30,2752.447,2752.447,30,MULTISPECIES: asparaginase [Vibrio],1
+839,30,16271.57,2417.391909090909,31,MFS transporter [Vibrio furnissii],11
+840,30,138924.1,13994.554663636365,30,hydrolase [Vibrio cholerae],11
+841,30,3403.051,1076.37755,30,nicotinate phosphoribosyltransferase [Vibrio furnissii],10
+842,30,3428.529,2045.0264000000002,29,MULTISPECIES: accessory factor UbiK family protein [Serratia],8
+843,30,65884.11,12727.768438461539,27,MULTISPECIES: cell division protein FtsL [Aeromonas],13
+844,30,883.5764,843.0862999999999,30,MULTISPECIES: type IV pilus biogenesis/stability protein PilW [Vibrio],3
+845,30,2962.843,1114.8614888888887,31,MULTISPECIES: Sec-independent protein translocase protein TatB [Vibrio],9
+846,30,3993.322,2089.0558,31,phospholipid-binding protein MlaC [Vibrio cholerae],3
+847,30,3428.529,1440.09926,30,SMC family ATPase [Vibrio furnissii],10
+848,30,5485.32,3049.648866666667,31,Rne/Rng family ribonuclease [Acinetobacter bouvetii],3
+849,30,3104.952,1187.5744285714286,30,MULTISPECIES: cell division protein CpoB [Serratia],7
+864,29,1202.592,975.55226,30,beta-N-acetylhexosaminidase [Vibrio furnissii],5
+865,29,908.3955,818.7764125,29,MULTISPECIES: YajQ family cyclic di-GMP-binding protein [Serratia],8
+866,29,3428.529,1530.69045,27,MULTISPECIES: inorganic diphosphatase [Serratia],4
+867,29,18247.98,7666.824999999999,27,MULTISPECIES: cytochrome o ubiquinol oxidase subunit III [Serratia],9
+868,29,1627.701,1105.56475,29,MULTISPECIES: serine/threonine transporter SstT [Vibrio],2
+869,29,3428.529,2815.1432000000004,28,MULTISPECIES: cytochrome o ubiquinol oxidase subunit I [Serratia],9
+870,29,13713.99,2145.7239416666666,30,formate-dependent phosphoribosylglycinamide formyltransferase [Vibrio furnissii],12
+871,29,8485.756,3431.0705499999995,29,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Serratia],4
+872,29,49376.54,8413.364831578947,29,MULTISPECIES: elongation factor P--(R)-beta-lysine ligase [Serratia],19
+873,29,3428.529,1718.986375,27,MULTISPECIES: type B 50S ribosomal protein L31 [Serratia],4
+874,29,904.32,744.6450833333333,28,MULTISPECIES: cytochrome o ubiquinol oxidase subunit II [Serratia],6
+875,29,28780.5,4336.582423529411,28,MULTISPECIES: aminoacyl-tRNA hydrolase [Serratia],17
+876,29,1733.503,973.3169142857142,29,HAD-IB family hydrolase [Vibrio cholerae],7
+877,29,8636.407,2427.2411384615384,26,MULTISPECIES: peptidylprolyl isomerase PpiC [Serratia],13
+878,29,13713.99,4379.0381307692305,30,DNA-3-methyladenine glycosylase I [Vibrio cholerae],13
+879,29,2779.551,1513.395581818182,29,MULTISPECIES: response regulator transcription factor BfmR [Proteobacteria],11
+880,29,883.5764,820.8664,28,MULTISPECIES: FKBP-type peptidyl-prolyl cis-trans isomerase [Bacteria],6
+881,29,961.0532,896.4892,27,MULTISPECIES: DNA-binding transcriptional regulator OxyR [Serratia],6
+882,29,29467.88,4615.413437499999,28,MULTISPECIES: lipoprotein-releasing ABC transporter permease subunit LolC [Serratia],16
+883,29,2524.967,1337.3354857142858,29,MULTISPECIES: deoxyguanosinetriphosphate triphosphohydrolase [Acinetobacter],7
+884,29,3061.82,1561.7821333333334,30,MULTISPECIES: outer membrane channel protein TolC [Vibrio],3
+885,29,1726.678,983.4143000000001,29,MULTISPECIES: GSH-dependent disulfide bond oxidoreductase [Serratia],8
+886,29,50885.97,19975.481466666668,29,D-amino acid dehydrogenase [Vibrio furnissii],3
+887,29,3428.529,1918.32075,29,MULTISPECIES: multidrug efflux RND transporter AdeIJK outer membrane channel subunit AdeK [Acinetobacter],6
+888,29,3428.529,1679.1506,29,MULTISPECIES: MFS transporter [Vibrio],6
+889,29,8485.756,2537.2782363636366,29,MULTISPECIES: sensor histidine kinase BfmS [Acinetobacter],11
+890,29,27872.66,6476.36312,29,MULTISPECIES: lysine exporter LysO family protein [Vibrio],5
+891,29,3039.246,990.9984375,27,MULTISPECIES: lactoylglutathione lyase [Serratia],8
+892,29,13713.99,3295.759722222222,30,recombination regulator RecX [Vibrio furnissii],9
+893,29,783.823,717.3714,27,MULTISPECIES: cytochrome o ubiquinol oxidase subunit IV [Serratia],2
+894,29,13713.99,3153.562157142857,27,MULTISPECIES: dCTP deaminase [Kosakonia],7
+895,29,4263.555,1463.9374,28,MULTISPECIES: RNA chaperone Hfq [Serratia],13
+896,29,8485.756,2082.172422222222,28,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoF [Serratia],9
+915,28,9852.15,2846.902,28,tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB [Vibrio furnissii],15
+916,28,1551.702,1423.0407,27,MULTISPECIES: Si-specific NAD(P)(+) transhydrogenase [Serratia],5
+917,28,980.8116,915.9881333333333,28,MULTISPECIES: YgiQ family radical SAM protein [Acinetobacter],6
+918,28,907.7149,856.6539333333334,25,MULTISPECIES: 50S ribosomal protein L31 [Serratia],9
+919,28,38833.58,16868.158600000002,29,MULTISPECIES: dihydroorotase [Proteobacteria],5
+920,28,38833.58,4794.841780000001,29,cytochrome d ubiquinol oxidase subunit II [Vibrio cholerae],10
+921,28,3428.529,1867.4088833333333,28,MULTISPECIES: molybdenum cofactor biosynthesis protein B [Vibrio],6
+922,28,13713.99,5103.251133333333,27,MULTISPECIES: carboxy-S-adenosyl-L-methionine synthase CmoA [Kosakonia],3
+923,28,8922.646,2448.8243333333335,29,extracellular solute-binding protein [Vibrio cholerae],6
+924,28,1228.72,842.6031,29,phosphoenolpyruvate--protein phosphotransferase [Vibrio furnissii],13
+925,28,1323.054,910.2398222222223,28,MFS transporter [Acinetobacter bouvetii],9
+926,28,46858.52,9834.043300000001,28,cyclic pyranopterin monophosphate synthase MoaC [Vibrio cholerae],17
+927,28,883.5764,808.76135,27,MULTISPECIES: ADP-ribose diphosphatase [Serratia],4
+928,28,2091.083,1056.4555428571427,29,MULTISPECIES: phosphotyrosine protein phosphatase [Vibrio],7
+929,28,3428.529,3428.529,26,MULTISPECIES: small-conductance mechanosensitive channel MscS [Kosakonia],1
+930,28,16770.32,3115.6459375000004,29,YaeQ family protein [Vibrio furnissii],8
+931,28,1817.704,1219.91974,28,MULTISPECIES: alanine:cation symporter family protein [Acinetobacter],5
+932,28,1430.8,1283.4759,27,MULTISPECIES: glutaminase B [Serratia],6
+933,28,1515.735,1023.0294333333333,28,MULTISPECIES: cysteine synthase A [Serratia],3
+934,28,783.823,775.2230999999999,28,MULTISPECIES: elongation factor P hydroxylase [Kosakonia],2
+935,28,29467.88,4490.98106,29,MULTISPECIES: Dyp-type peroxidase [Vibrio],10
+936,28,8485.756,2222.31846,29,MULTISPECIES: fumarylacetoacetate hydrolase family protein [Vibrio],10
+937,28,8922.646,6740.412666666667,29,MULTISPECIES: TerC family protein [Acinetobacter],9
+938,28,7973.084,2881.6390799999995,26,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoE [Serratia],15
+939,28,28780.5,14779.55975,20,MULTISPECIES: cytochrome bd-I oxidase subunit CydX [Serratia],2
+940,28,752.603,752.603,29,DNA internalization-related competence protein ComEC/Rec2 [Vibrio cholerae],1
+941,28,8636.407,4761.973666666666,29,MULTISPECIES: peptidylprolyl isomerase [Vibrio],3
+942,28,8922.646,4534.709820000001,29,3-phenylpropionate MFS transporter [Vibrio cholerae],5
+943,28,8485.756,3231.50785,28,NADH-quinone oxidoreductase subunit L [Acinetobacter bouvetii],4
+944,28,13713.99,3767.711085714286,28,zinc ABC transporter substrate-binding protein ZnuA [Vibrio cholerae],7
+945,28,9492.083,3274.949506666667,29,thiamine phosphate synthase [Vibrio furnissii],15
+946,28,,,26,MULTISPECIES: molecular chaperone Skp [Serratia],0
+947,28,883.5764,868.5825571428571,28,MULTISPECIES: 23S rRNA (guanine(1835)-N(2))-methyltransferase RlmG [Kosakonia],7
+963,27,3993.322,2060.2595666666666,28,MULTISPECIES: 30S ribosomal protein S12 methylthiotransferase RimO [Vibrio],3
+964,27,17718.99,3828.860925,27,aminomethyl-transferring glycine dehydrogenase [Vibrio furnissii],8
+965,27,50885.97,9768.056,24,"MULTISPECIES: 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [Serratia]",7
+966,27,211093.9,46939.7586,27,MULTISPECIES: EamA family transporter RarD [Vibrio],5
+967,27,883.5764,833.6997,28,MULTISPECIES: cysteine synthase CysM [Serratia],2
+968,27,883.5764,883.5764,28,MULTISPECIES: YeeE/YedE family protein [Vibrio],2
+969,27,198956.2,42548.584433333344,26,MULTISPECIES: lipid asymmetry maintenance ABC transporter permease subunit MlaE [Serratia],15
+970,27,1800.518,1091.97044,24,MULTISPECIES: pyrimidine/purine nucleoside phosphorylase [Serratia],5
+971,27,3428.529,1855.1722000000002,28,23S rRNA (adenine(1618)-N(6))-methyltransferase RlmF [Vibrio furnissii],8
+972,27,8485.756,2164.635133333333,24,MULTISPECIES: nucleoside diphosphate kinase regulator [Serratia],6
+973,27,1323.054,1017.7546,24,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoH [Serratia],4
+974,27,2492.419,1375.8262666666667,27,MULTISPECIES: TSUP family transporter [Vibrio],3
+975,27,65884.11,33233.76925,28,polysaccharide biosynthesis tyrosine autokinase [Vibrio furnissii],2
+976,27,12723.6,1669.0027764705883,27,ferredoxin--NADP reductase [Vibrio furnissii],17
+977,27,13713.99,3238.4348,28,YeeE/YedE family protein [Vibrio cholerae],7
+978,27,,,27,MATE family efflux transporter DinF [Vibrio cholerae],0
+979,27,3428.529,1091.9611818181818,27,MULTISPECIES: LysE/ArgO family amino acid transporter [Vibrio],11
+980,27,803.2278,803.2278,27,MULTISPECIES: NADH-quinone oxidoreductase subunit M [Proteobacteria],1
+981,27,1677.063,1230.443,25,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoN [Enterobacteriaceae],2
+982,27,65884.11,13151.749766666668,20,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoK [Enterobacteriaceae],6
+983,27,27872.66,3958.42074,28,phospholipid ABC transporter ATP-binding protein MlaF [Vibrio cholerae],10
+984,27,783.823,738.112925,26,MULTISPECIES: heavy metal-binding domain-containing protein [Serratia],4
+985,27,28780.5,3300.732573333333,28,glutathione-disulfide reductase [Vibrio cholerae],15
+986,27,1201.671,932.5640714285715,22,MULTISPECIES: NADH-quinone oxidoreductase subunit B [Serratia],7
+987,27,,,23,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoA [Serratia],0
+988,27,2752.447,1135.546888888889,25,MULTISPECIES: tryptophan--tRNA ligase [Serratia],9
+989,27,28780.5,3388.8398333333334,28,DUF2058 domain-containing protein [Acinetobacter bouvetii],12
+990,27,16770.32,5761.52815,26,MULTISPECIES: NADH-quinone oxidoreductase subunit C/D [Serratia],8
+991,27,908.3955,883.3441750000001,28,MULTISPECIES: outer membrane lipid asymmetry maintenance protein MlaD [Vibrio],4
+992,27,2761.45,1137.3737700000001,25,MULTISPECIES: NADH-quinone oxidoreductase subunit J [Kosakonia],20
+993,27,3428.529,1398.222025,27,MULTISPECIES: trimeric intracellular cation channel family protein [Vibrio],12
+994,27,13713.99,4563.58335,27,MULTISPECIES: acetylornithine deacetylase [Vibrio],4
+995,27,1430.8,921.6843428571428,27,NADH-quinone oxidoreductase subunit NuoG [Acinetobacter bouvetii],7
+996,27,13713.99,2430.2293250000002,28,MULTISPECIES: ParB/RepB/Spo0J family partition protein [Vibrio],8
+1015,26,37878.25,10680.261925,25,MULTISPECIES: hemolysin family protein [Kosakonia],4
+1016,26,198956.2,27217.373975000002,24,MULTISPECIES: M48 family metallopeptidase [Serratia],8
+1017,26,13713.99,6711.088977777777,26,MULTISPECIES: glutathione peroxidase [Acinetobacter],9
+1018,26,16770.32,5008.196,26,MULTISPECIES: acylphosphatase [Kosakonia],4
+1019,26,28780.5,10068.0797,26,MULTISPECIES: 23S rRNA pseudouridine(2604) synthase RluF [Vibrio],3
+1020,26,29467.88,9278.74948,26,tRNA pseudouridine(65) synthase TruC [Vibrio cholerae],5
+1021,26,4576.539,1839.8540857142855,27,YccS family putative transporter [Vibrio furnissii],7
+1022,26,3804.257,1404.08944,25,"MULTISPECIES: 2,5-didehydrogluconate reductase DkgB [Kosakonia]",5
+1023,26,1430.8,1116.8166444444444,26,MULTISPECIES: threonine synthase [Vibrio],9
+1024,26,980.8116,811.0605666666667,27,MULTISPECIES: lipoprotein-releasing ABC transporter permease subunit LolE [Vibrio],6
+1025,26,2752.447,1255.5279090909091,26,histidine ammonia-lyase [Vibrio furnissii],11
+1026,26,13713.99,6974.473999999999,24,MULTISPECIES: purine nucleoside phosphoramidase [Serratia],3
+1027,26,2752.447,1426.7046666666668,25,MULTISPECIES: TRIC cation channel family protein [Serratia],3
+1028,26,4545.701,2180.348066666667,25,MULTISPECIES: DNA starvation/stationary phase protection protein [Serratia],3
+1029,26,3428.529,1978.0086923076924,27,MULTISPECIES: phospholipase A [Acinetobacter],13
+1030,26,2752.447,1799.278125,27,MULTISPECIES: ParA family protein [Vibrio],4
+1031,26,13713.99,4110.9076,27,MULTISPECIES: rhodanese-related sulfurtransferase [Acinetobacter],15
+1032,26,8323.257,2401.62004,27,NADP(H)-dependent aldo-keto reductase [Vibrio cholerae],5
+1033,26,783.823,715.9059666666667,26,MULTISPECIES: AI-2E family transporter YdiK [Serratia],3
+1034,26,766.6232,766.6232,27,DegT/DnrJ/EryC1/StrS aminotransferase family protein [Acinetobacter bouvetii],1
+1035,26,3428.529,2363.1238333333336,26,MULTISPECIES: O-succinylhomoserine (thiol)-lyase [Vibrio],3
+1036,26,1726.678,962.85944,27,Fe(3+) ABC transporter substrate-binding protein [Vibrio cholerae],5
+1037,26,2555.896,1997.8281571428572,27,M48 family metallopeptidase [Vibrio cholerae],7
+1038,26,28780.5,6184.9465578947365,27,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB [Vibrio cholerae],19
+1039,26,1323.054,925.175075,26,MULTISPECIES: L-threonine 3-dehydrogenase [Kosakonia],8
+1040,26,2183.574,942.5160999999999,26,cardiolipin synthase [Vibrio cholerae],7
+1041,26,2943.461,1338.3663999999999,24,MULTISPECIES: class I ribonucleotide reductase maintenance protein YfaE [Kosakonia],9
+1042,26,1323.054,1285.8855,26,homoserine/homoserine lactone efflux protein [Vibrio cholerae],2
+1043,26,3428.529,2222.92228,26,histidine utilization repressor [Vibrio furnissii],5
+1044,26,2752.447,1124.4228200000002,27,vitamin B12 ABC transporter substrate-binding protein BtuF [Vibrio furnissii],10
+1045,26,8922.646,4218.687762500001,26,MULTISPECIES: biotin/lipoyl-binding protein [Vibrio],8
+1046,26,38833.58,5886.752664285715,28,MULTISPECIES: LysR family transcriptional regulator [Acinetobacter],14
+1047,26,10894.72,2633.5142875,23,MULTISPECIES: 6-carboxytetrahydropterin synthase QueD [Serratia],8
+1064,25,1390.269,1113.2947,26,"MULTISPECIES: bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II [Vibrio]",4
+1065,25,28780.5,5637.775283333333,26,MULTISPECIES: DNA helicase II [Vibrio],6
+1066,25,2752.447,1506.5332666666666,25,MULTISPECIES: valine--pyruvate transaminase [Serratia],3
+1067,25,2752.447,1069.9046125,26,MULTISPECIES: D-alanine--D-alanine ligase [Acinetobacter],8
+1068,25,3428.529,1526.019325,21,MULTISPECIES: RNA polymerase sigma factor RpoE [Yersiniaceae],4
+1069,25,2943.461,1292.3740818181818,26,MULTISPECIES: HslU--HslV peptidase ATPase subunit [Vibrio],11
+1070,25,2659.79,1173.8388499999999,25,MULTISPECIES: neutral zinc metallopeptidase [Acinetobacter],6
+1071,25,8697.46,2334.8112875,26,MULTISPECIES: riboflavin synthase [Vibrio],8
+1072,25,3104.952,1469.6759416666666,24,MULTISPECIES: ADP compounds hydrolase NudE [Kosakonia],12
+1073,25,38833.58,8314.277116666668,19,MULTISPECIES: Fe-S cluster assembly protein IscX [Serratia],12
+1074,25,1030.205,1030.205,22,MULTISPECIES: NADH-quinone oxidoreductase subunit NuoI [Enterobacteriaceae],1
+1075,25,13072.54,3823.166511111111,25,MULTISPECIES: YicC family protein [Serratia],9
+1076,25,3428.529,2689.99452,23,MULTISPECIES: NADP-dependent isocitrate dehydrogenase [Serratia],5
+1077,25,13713.99,3723.934163636364,26,metalloprotease PmbA [Vibrio furnissii],11
+1078,25,13713.99,4019.3666000000003,26,tRNA (uridine(54)-C5)-methyltransferase TrmA [Acinetobacter bouvetii],4
+1079,25,13713.99,6386.387333333333,22,MULTISPECIES: glutaredoxin 3 [Kosakonia],6
+1080,25,1090.564,946.4744666666667,24,MULTISPECIES: carbonate dehydratase [Aeromonas],3
+1081,25,,,25,MULTISPECIES: Na+/H+ antiporter NhaA [Vibrio],0
+1082,25,8697.46,1307.5869153846154,23,MULTISPECIES: ATP-dependent protease subunit HslV [Serratia],13
+1083,25,94590.41,19723.769420000004,26,alpha/beta fold hydrolase [Vibrio furnissii],10
+1084,25,883.5764,860.18576,25,MULTISPECIES: CysB family HTH-type transcriptional regulator [Acinetobacter],5
+1085,25,2752.447,1295.1302375,26,ATP-dependent helicase HrpB [Vibrio furnissii],8
+1086,25,37878.25,4552.653672727272,26,nicotinamide-nucleotide amidase [Vibrio furnissii],11
+1087,25,4615.4,2720.224333333333,26,glutathione S-transferase family protein [Vibrio furnissii],3
+1088,25,3512.018,1162.371133333333,26,MULTISPECIES: GatB/YqeY domain-containing protein [Vibrio],9
+1089,25,3993.322,1668.95318,21,MULTISPECIES: aspartate 1-decarboxylase [Serratia],5
+1090,25,2943.461,1636.17517,25,tRNA uridine 5-oxyacetic acid(34) methyltransferase CmoM [Vibrio cholerae],10
+1091,25,21732.38,4624.656833333334,25,MULTISPECIES: DgsA anti-repressor MtfA [Serratia],6
+1092,25,8485.756,1795.1721818181818,22,MULTISPECIES: zinc ribbon domain-containing protein YjdM [Serratia],11
+1093,25,3403.051,1828.6004666666668,25,MULTISPECIES: 50S ribosomal protein L25 [Serratia],9
+1094,25,2752.447,1788.7734,25,MULTISPECIES: NADP-specific glutamate dehydrogenase [Vibrio],4
+1095,25,3428.529,1413.5113583333332,25,imidazolonepropionase [Vibrio furnissii],12
+1096,25,3428.529,2610.06426,21,MULTISPECIES: PTS IIA-like nitrogen regulatory protein PtsN [Serratia],5
+1097,25,3428.529,2006.5572818181818,25,MULTISPECIES: Co2+/Mg2+ efflux protein ApaG [Serratia],11
+1098,25,13713.99,2614.2869750000004,25,DEAD/DEAH box helicase [Vibrio cholerae],12
+1099,25,4270.735,1284.2928555555554,25,MULTISPECIES: ABC transporter permease [Vibrio],9
+1100,25,49376.54,8586.803971428571,26,MULTISPECIES: aspartate-semialdehyde dehydrogenase [Vibrio],7
+1101,25,3993.322,2075.851727272727,26,MULTISPECIES: permease-like cell division protein FtsX [Vibrio],11
+1102,25,13713.99,6294.2008000000005,25,MULTISPECIES: lipopolysaccharide assembly protein LapB [Serratia],8
+1103,25,29467.88,6745.32008,26,class I SAM-dependent methyltransferase [Vibrio cholerae],5
+1104,25,980.8116,825.8869333333333,26,MULTISPECIES: Bcr/CflA family multidrug efflux MFS transporter [Vibrio],3
+1105,25,13713.99,5160.380933333333,26,MULTISPECIES: HIT family protein [Proteobacteria],3
+1106,25,2752.447,1290.0333,23,MULTISPECIES: exodeoxyribonuclease VII small subunit [Serratia],6
+1107,25,505.8732,505.8732,23,MULTISPECIES: protease modulator HflC [Serratia],2
+1108,25,9300.843,1948.46009,26,MULTISPECIES: co-chaperone YbbN [Vibrio],10
+1109,25,13713.99,2986.2818636363636,26,Fe(2+) transporter permease subunit FeoB [Vibrio furnissii],11
+1110,25,883.5764,831.4116333333333,23,MULTISPECIES: FNR family transcription factor [Serratia],3
+1111,25,13713.99,3742.4786999999997,24,MULTISPECIES: Zn(2+)-responsive transcriptional regulator [Aeromonas],5
+1112,25,883.5764,844.592,25,MULTISPECIES: AEC family transporter [Vibrio],3
+1113,25,46858.52,9271.0702,24,MULTISPECIES: cell division protein ZapA [Serratia],7
+1114,25,2943.461,1813.223475,27,sulfurtransferase [Vibrio furnissii],8
+1115,25,1202.592,900.59824,26,MULTISPECIES: oxidative stress defense protein [Vibrio],5
+1116,25,13713.99,3112.027442857143,26,PepSY domain-containing protein [Alcanivorax pacificus],14
+1117,25,1264.189,932.90235,26,iron ABC transporter permease [Vibrio cholerae],8
+1118,25,9300.843,2900.6775,23,MULTISPECIES: 6-phosphofructokinase [Serratia],9
+1119,25,3428.529,3007.8275,26,MULTISPECIES: DUF484 family protein [Vibrio],6
+1120,25,4545.701,2470.0732333333335,24,MULTISPECIES: nicotinate-nucleotide adenylyltransferase [Serratia],12
+1121,25,6565.992,2234.69545,26,penicillin-binding protein activator [Vibrio furnissii],4
+1122,25,1323.054,1037.8285,26,MULTISPECIES: putative pyridoxal-dependent aspartate 1-decarboxylase [Vibrio],2
+1123,25,883.5764,883.5764,25,MULTISPECIES: NADH:ubiquinone reductase (Na(+)-transporting) subunit F [Vibrio],3
+1124,25,1033.331,701.6447666666668,24,MULTISPECIES: nucleoid occlusion factor SlmA [Serratia],6
+1125,25,3428.529,3428.529,26,type IV pilus assembly protein PilM [Vibrio cholerae],1
+1126,25,833.0093,720.7075,23,MULTISPECIES: hypothetical protein [Serratia],2
+1127,25,28780.5,3955.344118181818,22,MULTISPECIES: DUF1249 family protein [Serratia],11
+1128,25,94590.41,13478.228025000002,25,ABC transporter permease [Vibrio furnissii],8
+1129,25,3993.322,1880.6384666666665,22,MULTISPECIES: YhgN family NAAT transporter [Serratia],3
+1130,25,138924.1,19608.022133333336,25,DUF72 domain-containing protein [Vibrio cholerae],9
+1131,25,68804.91,7809.32296,26,MULTISPECIES: DNA recombination protein RmuC [Vibrio],10
+1132,25,13713.99,3897.6004999999996,26,TIGR02099 family protein [Vibrio furnissii],5
+1133,25,941334.2,203374.09244999997,25,MULTISPECIES: MFS transporter [Serratia],8
+1161,24,10616.46,2511.759888888889,25,MULTISPECIES: arginine decarboxylase [Vibrio],9
+1162,24,505.8732,505.8732,24,MULTISPECIES: tyrosine--tRNA ligase [Aeromonas],5
+1163,24,1202.592,930.3813,24,MULTISPECIES: nucleotide 5'-monophosphate nucleosidase PpnN [Serratia],6
+1164,24,46858.52,5749.497719999999,25,MULTISPECIES: metalloprotease TldD [Vibrio],10
+1165,24,3428.529,1619.8301333333332,23,MULTISPECIES: cell division ATP-binding protein FtsE [Bacteria],3
+1166,24,38833.58,5893.321599999999,24,MULTISPECIES: ATP-dependent DNA helicase [Serratia],11
+1167,24,1515.735,1217.6168333333333,24,MULTISPECIES: ribonuclease HI [Kosakonia],3
+1168,24,3661.11,1752.74325,24,MULTISPECIES: tRNA 5-hydroxyuridine modification protein YegQ [Kosakonia],4
+1169,24,883.5764,883.5764,24,MULTISPECIES: histidine ABC transporter ATP-binding protein HisP [Serratia],1
+1170,24,4615.4,2440.779991666667,25,ATP-dependent RNA helicase DbpA [Vibrio furnissii],12
+1171,24,980.8116,796.5982,23,MULTISPECIES: DUF1289 domain-containing protein [Serratia],2
+1172,24,13713.99,2660.8160999999996,24,MULTISPECIES: GspF family T2SS innner membrane protein variant ExeF [Aeromonas],13
+1173,24,302785.5,22044.45693333333,24,MULTISPECIES: bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase [Serratia],15
+1174,24,2264.006,1157.8683428571428,25,arsenate reductase (glutaredoxin) [Vibrio furnissii],7
+1175,24,38833.58,11473.836200000002,25,4-hydroxy-3-polyprenylbenzoate decarboxylase [Vibrio furnissii],5
+1176,24,1886.732,1345.3329272727271,23,MULTISPECIES: cytochrome c maturation protein CcmE [Serratia],11
+1177,24,3403.051,1471.6860142857145,25,MULTISPECIES: PilT/PilU family type 4a pilus ATPase [Acinetobacter],7
+1178,24,883.5764,800.4739,24,MULTISPECIES: DoxX family protein [Enterobacteriaceae],4
+1179,24,8485.756,4733.283799999999,20,MULTISPECIES: RNA polymerase sigma factor FliA [Serratia],2
+1180,24,8323.257,3700.1808692307686,24,MULTISPECIES: cytochrome c biogenesis heme-transporting ATPase CcmA [Vibrio],13
+1181,24,13713.99,2110.663988888889,24,MULTISPECIES: DEAD/DEAH family ATP-dependent RNA helicase [Serratia],9
+1182,24,980.8116,980.8116,24,catalase/peroxidase HPI [Vibrio cholerae],1
+1183,24,974.177,772.7688499999999,25,MULTISPECIES: arsenate reductase (glutaredoxin) [Acinetobacter],2
+1184,24,38833.58,3694.732557142857,24,MULTISPECIES: NUDIX hydrolase [Serratia],14
+1185,24,8922.646,2926.247425,25,23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM [Vibrio furnissii],8
+1186,24,1202.592,854.8486222222223,25,type II secretion system secretin GspD [Vibrio cholerae],9
+1187,24,883.5764,883.5764,24,MULTISPECIES: ABC transporter permease [Vibrio],2
+1188,24,8922.646,4903.1112,23,MULTISPECIES: phosphoenolpyruvate-protein phosphotransferase PtsI [Serratia],2
+1189,24,4615.4,1413.4175727272727,24,MULTISPECIES: heme exporter protein CcmB [Vibrio],11
+1190,24,29467.88,5169.468578571429,25,GIY-YIG nuclease family protein [Vibrio cholerae],14
+1191,24,8485.756,1407.7368749999998,24,MULTISPECIES: flagellar type III secretion system protein FliR [Kosakonia],12
+1192,24,1323.054,934.3109999999999,24,nitrate reductase [Vibrio furnissii],7
+1193,24,3428.529,3428.529,25,pilus assembly protein PilP [Vibrio cholerae],1
+1194,24,2943.461,1255.9202714285714,25,LysM peptidoglycan-binding domain-containing protein [Vibrio furnissii],7
+1195,24,883.5764,763.2138166666667,25,MULTISPECIES: flagellar hook assembly protein FlgD [Vibrio],6
+1196,24,8156.898,2451.817222222222,25,NADP-dependent oxidoreductase [Vibrio furnissii],9
+1197,24,904.32,808.6304625,25,MULTISPECIES: murein transglycosylase D [Serratia],8
+1198,24,4545.701,2077.948,21,MULTISPECIES: thioesterase family protein [Kosakonia],3
+1199,24,13713.99,2824.1114999999995,25,"MULTISPECIES: 1,4-dihydroxy-2-naphthoyl-CoA synthase [Vibrio]",8
+1200,24,,,24,MULTISPECIES: cyd operon protein YbgE [Serratia],0
+1201,24,10616.46,3654.24585,24,MULTISPECIES: glycine cleavage system transcriptional repressor [Serratia],4
+1202,24,6565.992,2785.987966666667,25,MULTISPECIES: type II secretion system minor pseudopilin GspJ [Vibrio],3
+1203,24,980.8116,872.3303333333333,25,GNAT family N-acetyltransferase [Vibrio cholerae],3
+1204,24,38833.58,8551.66788,25,MULTISPECIES: type II secretion system minor pseudopilin GspK [Vibrio],5
+1205,24,980.8116,848.7851200000001,24,MULTISPECIES: two-component system response regulator NarL [Enterobacteriaceae],5
+1206,24,10894.72,4403.032133333333,25,MULTISPECIES: glutathione S-transferase [Vibrio],3
+1207,24,49376.54,26981.299049999998,24,ABC transporter permease [Vibrio furnissii],8
+1208,24,138924.1,16509.37079,24,MULTISPECIES: penicillin-binding protein activator LpoB [Aeromonas],10
+1209,24,3428.529,2315.8664000000003,25,MULTISPECIES: YgiW/YdeI family stress tolerance OB fold protein [Vibrio],3
+1210,24,10272.33,2664.3819111111106,23,MULTISPECIES: envelope stress sensor histidine kinase CpxA [Kosakonia],9
+1211,24,2752.447,1443.9811599999998,24,MULTISPECIES: murein hydrolase activator EnvC [Serratia],10
+1212,24,21732.38,4189.71564,24,MULTISPECIES: protoheme IX biogenesis protein HemY [Kosakonia],10
+1213,24,3428.529,2572.759666666667,25,MULTISPECIES: type II secretion system minor pseudopilin GspI [Vibrio],6
+1214,24,1493.421,1135.7921666666666,24,MULTISPECIES: ATP-binding protein [Vibrio],3
+1215,24,12351.13,4964.13225,24,MULTISPECIES: YcfL family protein [Aeromonas],8
+1216,24,13713.99,3865.6021111111113,24,MotA/TolQ/ExbB proton channel family protein [Vibrio cholerae],9
+1217,24,3039.246,1386.5872,25,DMT family transporter [Vibrio furnissii],4
+1218,24,6420.008,3166.3616529411765,21,MULTISPECIES: murein tripeptide/oligopeptide ABC transporter ATP-binding protein OppF [Kosakonia],17
+1219,24,9300.843,2960.0353571428573,23,MULTISPECIES: DUF2065 domain-containing protein [Serratia],7
+1220,24,8323.257,2610.4198,25,uroporphyrinogen-III C-methyltransferase [Vibrio furnissii],9
+1221,24,1232.502,964.8510666666667,25,class I SAM-dependent methyltransferase [Vibrio cholerae],6
+1222,24,783.823,686.163,24,MULTISPECIES: flagellar assembly protein FliH [Kosakonia],2
+1223,24,2752.447,1741.8656500000002,24,MULTISPECIES: hemin uptake protein HemP [Psychrobacter],2
+1250,23,38833.58,6176.2298909090905,24,MULTISPECIES: electron transport complex subunit RsxD [Vibrio],11
+1251,23,1493.421,1188.4987,24,HlyC/CorC family transporter [Vibrio cholerae],2
+1252,23,4576.539,1904.23475,22,MULTISPECIES: Trk system potassium transporter TrkH [Serratia],4
+1253,23,783.823,783.823,23,MULTISPECIES: NADH:ubiquinone reductase (Na(+)-transporting) subunit B [Vibrio],4
+1254,23,66470.78,15116.490233333332,20,MULTISPECIES: Trk system potassium transporter TrkA [Bacteria],6
+1255,23,2761.45,1525.8125777777777,24,MULTISPECIES: threonine/serine exporter ThrE family protein [Vibrio],9
+1256,23,12351.13,7889.8295,21,MULTISPECIES: pyruvate kinase [Kosakonia],2
+1257,23,3428.529,2787.8637555555556,24,MULTISPECIES: bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase HldE [Vibrio],9
+1258,23,16271.57,3976.06658,23,MULTISPECIES: Na(+)-translocating NADH-quinone reductase subunit A [Aeromonas],5
+1259,23,739.95,739.95,17,MULTISPECIES: ribosome modulation factor [Aeromonas],1
+1260,23,3428.529,1562.55224,22,"MULTISPECIES: 3,4-dihydroxy-2-butanone-4-phosphate synthase [Serratia]",5
+1261,23,712.187,712.187,20,MULTISPECIES: NADH:ubiquinone reductase (Na(+)-transporting) subunit D [Serratia],1
+1262,23,29467.88,6947.054373333334,24,MULTISPECIES: electron transport complex subunit RsxG [Vibrio],15
+1263,23,1028.645,1028.645,24,MULTISPECIES: phosphate acyltransferase PlsX [Serratia],5
+1264,23,980.8116,929.8172000000001,24,CDF family cation-efflux transporter FieF [Vibrio cholerae],3
+1265,23,8922.646,5865.1478777777775,21,MULTISPECIES: NADH:ubiquinone reductase (Na(+)-transporting) subunit E [Psychrobacter],9
+1266,23,3428.529,1174.60715,23,Na(+)-translocating NADH-quinone reductase subunit C [Vibrio cholerae],8
+1267,23,980.8116,980.8116,20,MULTISPECIES: DnaA initiator-associating protein DiaA [Serratia],1
+1268,23,17718.99,9301.283200000002,23,MULTISPECIES: ammonium transporter AmtB [Kosakonia],2
+1269,23,13713.99,6600.158939999999,24,MULTISPECIES: electron transport complex subunit E [Vibrio],10
+1270,23,8922.646,2689.9501,23,MULTISPECIES: YheU family protein [Enterobacteriaceae],4
+1271,23,,,20,MULTISPECIES: electron transport complex subunit RsxA [Serratia],0
+1272,23,907.7149,888.4041,23,MULTISPECIES: heme ABC transporter permease [Vibrio],5
+1273,23,28780.5,7280.49884,23,MULTISPECIES: glycine C-acetyltransferase [Serratia],10
+1274,23,302785.5,65851.50757142858,24,serine/threonine protein kinase [Vibrio cholerae],7
+1275,23,883.5764,883.5764,23,MULTISPECIES: glycerol-3-phosphate 1-O-acyltransferase PlsY [Aeromonas],4
+1276,23,2752.447,2752.447,24,DNA/RNA nuclease SfsA [Vibrio cholerae],2
+1277,23,1057.108,895.975175,24,MULTISPECIES: ABC-F family ATPase [Vibrio],12
+1278,23,138924.1,115917.34606666667,21,MULTISPECIES: HTH-type transcriptional activator IlvY [Serratia],6
+1279,23,3661.11,2272.3432000000003,23,MULTISPECIES: FtsH protease activity modulator HflK [Aeromonas],2
+1280,23,28780.5,28780.5,23,MULTISPECIES: 2-isopropylmalate synthase [Serratia],1
+1281,23,,,23,zinc/cadmium/mercury/lead-transporting ATPase [Vibrio furnissii],0
+1282,23,38833.58,4770.543771428572,24,MULTISPECIES: threonine/serine exporter family protein [Vibrio],14
+1283,23,883.5764,883.5764,19,MULTISPECIES: DUF3820 family protein [Serratia],2
+1284,23,3713.33,1682.2321571428572,23,MULTISPECIES: uracil-xanthine permease family protein [Acinetobacter],7
+1285,23,13713.99,4127.922646153846,23,MULTISPECIES: FtsH protease modulator YccA [Serratia],13
+1286,23,1994.814,959.1117181818182,24,MULTISPECIES: YqcC family protein [Vibrio],11
+1287,23,13713.99,5162.556166666666,21,MULTISPECIES: HTH-type transcriptional regulator CysB [Serratia],3
+1288,23,2057.902,1248.064314285714,24,zinc-binding alcohol dehydrogenase family protein [Alcanivorax pacificus],7
+1289,23,2183.574,1198.8266333333333,23,formate dehydrogenase accessory sulfurtransferase FdhD [Vibrio furnissii],6
+1290,23,1202.592,892.8670555555556,23,fatty acid oxidation complex subunit alpha FadJ [Vibrio furnissii],9
+1291,23,1512.188,936.9986200000001,24,D-hexose-6-phosphate mutarotase [Vibrio cholerae],5
+1292,23,1939.964,1411.7702,20,MULTISPECIES: magnesium/cobalt transporter CorA [Serratia],2
+1293,23,37878.25,5720.0957499999995,24,cysteine/glutathione ABC transporter permease/ATP-binding protein CydD [Vibrio cholerae],8
+1294,23,908.3955,895.98595,24,sulfate transporter CysZ [Vibrio cholerae],2
+1295,23,2761.45,1230.6051599999998,24,cysteine/glutathione ABC transporter ATP-binding protein/permease CydC [Vibrio furnissii],10
+1296,23,980.8116,831.6012333333333,24,aspartate kinase [Vibrio cholerae],3
+1297,23,,,22,"MULTISPECIES: D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase [Kosakonia]",0
+1298,23,8782.157,3615.6144666666664,22,MULTISPECIES: thiosulfate sulfurtransferase GlpE [Serratia],6
+1299,23,2752.447,1529.0861545454545,24,ACP phosphodiesterase [Vibrio cholerae],11
+1300,23,3428.529,2180.754488888889,24,MULTISPECIES: ABC transporter ATP-binding protein [Vibrio],9
+1301,23,980.8116,842.8125571428573,24,MULTISPECIES: sigma-E factor regulatory protein RseB [Vibrio],7
+1302,23,8156.898,2555.972028571429,23,MULTISPECIES: aspartate/glutamate racemase [Kosakonia],7
+1303,23,908.3955,858.7639,24,2-dehydropantoate 2-reductase [Vibrio furnissii],6
+1304,23,12723.6,6920.110500000001,24,MULTISPECIES: type 4a pilus biogenesis protein PilO [Vibrio],2
+1305,23,2752.447,1072.94537,24,bifunctional nicotinamidase/pyrazinamidase [Vibrio cholerae],10
+1306,23,3661.11,1967.1523777777777,24,guanine deaminase [Vibrio furnissii],9
+1307,23,4914.146,1895.491911111111,20,MULTISPECIES: YchE family NAAT transporter [Serratia],9
+1308,23,302785.5,52989.58596666666,24,helix-turn-helix domain-containing protein [Vibrio furnissii],18
+1309,23,10894.72,2618.834808333333,21,MULTISPECIES: transcriptional regulator GcvA [Serratia],12
+1310,23,2962.843,1573.46342,24,MULTISPECIES: zinc transporter ZntB [Vibrio],5
+1311,23,3039.246,1747.4932,24,D-2-hydroxyacid dehydrogenase [Vibrio furnissii],4
+1312,23,49376.54,7148.857480000001,24,MULTISPECIES: biopolymer transporter ExbD [Vibrio],10
+1313,23,,,24,bile acid:sodium symporter family protein [Vibrio furnissii],0
+1314,23,24647.41,4727.2505,22,MULTISPECIES: flagellar type III secretion system protein FliO [Kosakonia],14
+1315,23,12351.13,2810.25036,23,MULTISPECIES: SoxR-reducing system protein RseC [Kosakonia],10
+1316,23,3428.529,3428.529,23,MULTISPECIES: Rsd/AlgQ family anti-sigma factor [Serratia],1
+1317,23,6680.689,4654.6507249999995,21,MULTISPECIES: DUF1043 family protein [Serratia],4
+1318,23,3858.662,1981.3031333333336,22,MULTISPECIES: universal stress protein UspE [Serratia],3
+1319,23,883.5764,833.6997,23,MULTISPECIES: UDP-glucose/GDP-mannose dehydrogenase family protein [Serratia],2
+1320,23,2659.79,1578.93262,24,leucine efflux protein LeuE [Vibrio furnissii],10
+1321,23,980.8116,957.39165,24,MULTISPECIES: asparagine synthase B [Vibrio],2
+1322,23,2659.79,1157.3998399999998,24,electron transport complex subunit RsxC [Vibrio furnissii],5
+1323,23,10272.33,3258.827228571429,24,MULTISPECIES: 1-acylglycerol-3-phosphate O-acyltransferase [Vibrio],7
+1324,23,4860.206,1280.83399,24,flagellar hook-associated protein FlgL [Vibrio cholerae],10
+1325,23,3428.529,1332.4182199999998,24,efflux RND transporter permease subunit [Acinetobacter bouvetii],15
+1326,23,3428.529,1986.8526333333332,22,MULTISPECIES: flagellar basal body-associated protein FliL [Serratia],6
+1327,23,8323.257,4645.12,24,MULTISPECIES: phosphatase PAP2 family protein [Vibrio],3
+1328,23,980.8116,942.1639250000001,24,MULTISPECIES: septal ring lytic transglycosylase RlpA [Vibrio],4
+1329,23,2752.447,2752.447,24,HAD-IA family hydrolase [Acinetobacter lwoffii],3
+1330,23,23787.35,7908.8274249999995,24,cell division protein ZipA [Vibrio cholerae],8
+1331,23,3428.529,1454.8669250000003,23,MULTISPECIES: TetR family transcriptional regulator [Aeromonas],8
+1332,23,13713.99,2099.5832666666665,24,SH3 domain-containing protein [Vibrio cholerae],12
+1360,22,,,20,MULTISPECIES: DUF494 family protein Smg [Kosakonia],0
+1361,22,3428.529,2007.933575,23,MULTISPECIES: YeaH/YhbH family protein [Vibrio],8
+1362,22,8485.756,3952.474626666667,23,exodeoxyribonuclease I [Vibrio furnissii],15
+1363,22,3428.529,2394.963409090909,23,MULTISPECIES: fructose-specific PTS transporter subunit EIIC [Acinetobacter],11
+1364,22,3428.529,1592.7409499999999,23,MULTISPECIES: SpoVR family protein [Vibrio],8
+1365,22,3039.246,1859.7852000000003,23,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase [Vibrio furnissii],5
+1366,22,8485.756,1939.9787428571428,23,MULTISPECIES: ketoacyl-ACP synthase III [Kosakonia],7
+1367,22,3428.529,2926.7558999999997,23,MULTISPECIES: U32 family peptidase [Vibrio],6
+1368,22,13939.35,3705.8416333333334,23,MULTISPECIES: signal peptide peptidase SppA [Vibrio],6
+1369,22,10272.33,2585.7782285714284,22,MULTISPECIES: GAF domain-containing protein [Kosakonia],7
+1370,22,,,23,MULTISPECIES: PrkA family serine protein kinase [Vibrio],0
+1371,22,1201.671,1201.671,21,MULTISPECIES: oligopeptide ABC transporter substrate-binding protein OppA [Kosakonia],3
+1372,22,24647.41,6888.3889500000005,21,MULTISPECIES: glyceraldehyde-3-phosphate dehydrogenase [Serratia],4
+1373,22,1057.108,1057.108,23,MULTISPECIES: glyceraldehyde-3-phosphate dehydrogenase [Vibrio],2
+1374,22,1456.636,1171.4299,23,MULTISPECIES: co-chaperone DjlA [Vibrio],2
+1375,22,2659.79,1233.204,23,malate synthase A [Vibrio cholerae],4
+1376,22,908.3955,908.3955,22,MULTISPECIES: ATP-dependent RNA helicase SrmB [Serratia],1
+1377,22,3428.529,1746.3307625000002,23,lipopolysaccharide heptosyltransferase II [Alcanivorax pacificus],8
+1378,22,3661.11,2707.640628571429,23,YceH family protein [Vibrio cholerae],7
+1379,22,1726.678,987.92462,21,MULTISPECIES: oligopeptide ABC transporter permease OppC [Kosakonia],10
+1380,22,10894.72,1984.12666,23,"(2,3-dihydroxybenzoyl)adenylate synthase [Vibrio furnissii]",10
+1381,22,8156.898,3274.6933750000003,23,aconitate hydratase AcnA [Alcanivorax pacificus],4
+1382,22,2752.447,2752.447,23,MULTISPECIES: U32 family peptidase [Vibrio],1
+1383,22,13713.99,4839.1045,23,MULTISPECIES: VF530 family DNA-binding protein [Vibrio],4
+1384,22,833.0093,833.0093,19,MULTISPECIES: oligopeptide ABC transporter permease OppB [Serratia],1
+1385,22,2091.083,1234.0706500000001,24,molybdate ABC transporter substrate-binding protein [Acinetobacter soli],4
+1386,22,3428.529,1287.6377499999999,21,MULTISPECIES: 1-phosphofructokinase [Serratia],6
+1387,22,3858.662,1978.1803090909088,22,MULTISPECIES: thymidine kinase [Kosakonia],11
+1388,22,2752.447,1053.4737272727273,23,MULTISPECIES: DUF3763 domain-containing protein [Vibrio],11
+1389,22,3428.529,1343.8637166666667,22,FAD:protein FMN transferase [Vibrio furnissii],6
+1390,22,3428.529,1373.7214,23,MULTISPECIES: SCP2 domain-containing protein [Vibrio],9
+1391,22,2752.447,2752.447,23,PhoX family phosphatase [Vibrio cholerae],1
+1392,22,6420.008,3237.4121833333334,22,L-cystine transporter [Vibrio cholerae],6
+1393,22,3333.338,1340.7349250000002,22,MFS transporter [Acinetobacter bouvetii],8
+1394,22,8323.257,3905.5506,23,MULTISPECIES: LysR family transcriptional regulator [Vibrio],5
+1395,22,13713.99,5198.730222222223,23,assimilatory sulfite reductase (NADPH) flavoprotein subunit [Vibrio cholerae],9
+1396,22,3135.789,1945.5513,23,MULTISPECIES: flap endonuclease Xni [Vibrio],9
+1397,22,2962.843,2962.843,17,MULTISPECIES: cold shock-like protein CspD [Serratia],1
+1398,22,3428.529,2025.7234875,23,aminopeptidase PepB [Vibrio cholerae],8
+1399,22,980.8116,856.6041666666666,24,diaminobutyrate--2-oxoglutarate transaminase [Vibrio furnissii],3
+1400,22,8485.756,2079.214575,22,nitronate monooxygenase [Vibrio furnissii],8
+1401,22,2752.447,1097.2575499999998,22,MULTISPECIES: homoserine kinase [Serratia],10
+1402,22,3428.529,1968.3317600000003,23,ATPase RavA stimulator ViaA [Vibrio cholerae],5
+1403,22,3428.529,1432.0083555555557,23,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA [Acinetobacter bouvetii],9
+1404,22,3428.529,1506.0945000000002,22,MULTISPECIES: betaine-aldehyde dehydrogenase [Serratia],4
+1405,22,3428.529,1556.2443,23,H(+)/Cl(-) exchange transporter ClcA [Vibrio furnissii],7
+1406,22,2752.447,1866.6293,21,MULTISPECIES: lysine-sensitive aspartokinase 3 [Kosakonia],2
+1407,22,980.8116,948.3998666666666,23,NAD(P)H-flavin reductase [Vibrio furnissii],3
+1408,22,883.5764,883.5764,23,glutathione-dependent disulfide-bond oxidoreductase [Vibrio furnissii],1
+1409,22,3428.529,1559.391636363636,23,MULTISPECIES: TraB/GumN family protein [Serratia],11
+1410,22,915.9191,811.94102,22,MULTISPECIES: DUF485 domain-containing protein [Kosakonia],5
+1411,22,2752.447,1805.542525,23,"2',3'-cyclic-nucleotide 2'-phosphodiesterase [Vibrio furnissii]",8
+1412,22,1116.621,820.8943,22,EamA family transporter [Vibrio furnissii],6
+1413,22,766.6232,766.6232,21,MULTISPECIES: (Na+)-NQR maturation NqrM [Serratia],1
+1414,22,2752.447,2421.7650000000003,23,aminotransferase class V-fold PLP-dependent enzyme [Acinetobacter soli],2
+1415,22,2943.461,1465.8725777777777,22,lipoate--protein ligase [Vibrio furnissii],9
+1416,22,3428.529,2150.7565,23,ABC transporter ATP-binding protein [Vibrio cholerae],5
+1417,22,2752.447,1481.5551666666668,22,MULTISPECIES: CidA/LrgA family protein [Kosakonia],3
+1418,22,21732.38,4697.460333333333,22,MULTISPECIES: heme exporter protein CcmD [Vibrio],6
+1419,22,3428.529,1901.55744,23,MULTISPECIES: membrane protein [Acinetobacter],5
+1420,22,3428.529,2133.2741666666666,22,2-aminoethylphosphonate--pyruvate transaminase [Vibrio furnissii],6
+1421,22,3249.007,1572.9951,22,MULTISPECIES: flagella biosynthesis chaperone FliJ [Enterobacteriaceae],7
+1422,22,28780.5,6084.36295,23,type VI secretion system membrane subunit TssM [Vibrio furnissii],8
+1423,22,3428.529,1495.6621375000002,22,pteridine reductase [Alcanivorax pacificus],8
+1424,22,13713.99,3929.3386,23,MULTISPECIES: lipid asymmetry maintenance protein MlaB [Vibrio],11
+1425,22,1116.621,1116.621,23,type II secretion system protein GspC [Vibrio cholerae],1
+1426,22,3661.11,1601.0231222222221,23,o-succinylbenzoate--CoA ligase [Vibrio furnissii],9
+1427,22,883.5764,883.5764,23,MULTISPECIES: 2-hydroxyacid dehydrogenase [Vibrio],1
+1428,22,13713.99,1987.7748285714283,23,MULTISPECIES: response regulator [Vibrio],14
+1429,22,1201.671,1201.671,23,type II secretion system protein N [Vibrio furnissii],1
+1430,22,1202.592,1202.592,23,dicarboxylate/amino acid:cation symporter [Vibrio furnissii],1
+1431,22,1220.255,1004.0756333333334,23,cytochrome b562 [Vibrio cholerae],3
+1432,22,2943.461,1699.0271333333333,23,translesion DNA synthesis-associated protein ImuA [Vibrio furnissii],3
+1433,22,3428.529,1264.2064125,23,methyl-accepting chemotaxis protein [Vibrio furnissii],8
+1449,21,13713.99,3094.0216,22,MULTISPECIES: acetolactate synthase 2 catalytic subunit [Vibrio],11
+1450,21,13713.99,7309.155,22,MULTISPECIES: spermidine/putrescine ABC transporter ATP-binding protein PotA [Vibrio],2
+1451,21,3428.529,1902.611777777778,22,MULTISPECIES: methylglyoxal synthase [Vibrio],9
+1452,21,2752.447,1327.5652750000002,22,MULTISPECIES: CBS domain-containing protein [Acinetobacter],4
+1453,21,2752.447,1572.7478571428571,22,MULTISPECIES: spermidine/putrescine ABC transporter permease PotC [Vibrio],7
+1454,21,8323.257,3865.313739999999,22,extracellular solute-binding protein [Vibrio cholerae],5
+1455,21,890.8774,862.28855,22,MULTISPECIES: aminoacyl-histidine dipeptidase [Vibrio],4
+1456,21,3700.972,2063.8889999999997,15,MULTISPECIES: DUF1328 domain-containing protein [Enterobacterales],4
+1457,21,,,22,MULTISPECIES: spermidine/putrescine ABC transporter permease PotB [Vibrio],0
+1458,21,980.8116,872.3303333333333,20,MULTISPECIES: 7-cyano-7-deazaguanine/7-aminomethyl-7-deazaguanine transporter [Kosakonia],3
+1459,21,13713.99,2740.2482625,22,Fe/S-dependent 2-methylisocitrate dehydratase AcnD [Vibrio furnissii],8
+1460,21,3403.051,1711.8471714285715,21,MULTISPECIES: asparagine--tRNA ligase [Kosakonia],14
+1461,21,569.7176,569.7176,22,DUF167 family protein YggU [Vibrio furnissii],1
+1462,21,,,20,MULTISPECIES: pyruvate dehydrogenase complex transcriptional repressor PdhR [Serratia],0
+1463,21,2173.083,1115.65346,22,2-methylaconitate cis-trans isomerase PrpF [Acinetobacter bouvetii],5
+1464,21,,,22,assimilatory sulfite reductase (NADPH) hemoprotein subunit [Vibrio furnissii],0
+1465,21,38833.58,4718.886621428572,22,MULTISPECIES: transcription/translation regulatory transformer protein RfaH [Enterobacteriaceae],14
+1466,21,3661.11,1699.9487333333334,22,MULTISPECIES: DUF4442 domain-containing protein [Vibrio],3
+1467,21,2752.447,1112.0866555555558,22,iron ABC transporter permease [Vibrio cholerae],9
+1468,21,883.5764,801.0341000000001,20,MULTISPECIES: type II toxin-antitoxin system RatA family toxin [Serratia],2
+1469,21,908.3955,902.190725,22,MULTISPECIES: bifunctional aspartate kinase/homoserine dehydrogenase I [Serratia],4
+1470,21,883.5764,874.8448400000001,22,MULTISPECIES: SelT/SelW/SelH family protein [Vibrio],15
+1471,21,38833.58,6700.61643076923,22,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase [Vibrio furnissii]",13
+1472,21,3428.529,1488.42865,20,MULTISPECIES: LysR family transcriptional regulator ArgP [Serratia],8
+1473,21,2183.574,1483.6985,22,MULTISPECIES: intermembrane transport protein PqiB [Aeromonas],2
+1474,21,2091.083,1339.768775,22,MULTISPECIES: isoprenoid biosynthesis glyoxalase ElbB [Vibrio],4
+1475,21,,,21,MULTISPECIES: non-heme ferritin [Vibrio],0
+1476,21,948.8341,906.0956,22,2OG-Fe(II) oxygenase [Vibrio cholerae],4
+1477,21,2492.419,1129.9078,22,riboflavin synthase [Vibrio furnissii],7
+1478,21,883.5764,850.3252666666667,22,MULTISPECIES: 30S ribosomal protein S12 methylthiotransferase accessory protein YcaO [Serratia],9
+1479,21,2183.574,1439.4538900000002,22,MULTISPECIES: YebG family protein [Gammaproteobacteria],10
+1480,21,16739.64,3345.312746153846,22,nucleotidyltransferase family protein [Acinetobacter bouvetii],13
+1481,21,572.5964,572.5964,22,envelope biogenesis factor ElyC [Vibrio cholerae],1
+1482,21,3661.11,1157.1470545454547,22,MULTISPECIES: SulP family inorganic anion transporter [Vibrio],11
+1483,21,4545.701,1459.58544,22,ATP-dependent DNA helicase DinG [Vibrio furnissii],10
+1484,21,2659.79,1243.07034,20,MULTISPECIES: 6-N-hydroxylaminopurine resistance protein [Serratia],10
+1485,21,13713.99,2870.94966,20,MULTISPECIES: YkgJ family cysteine cluster protein [Enterobacteriaceae],10
+1486,21,13713.99,4736.598925,22,hemin ABC transporter substrate-binding protein [Vibrio cholerae],8
+1487,21,1737.612,1500.84836,22,MULTISPECIES: LysR family transcriptional regulator [Vibrio],10
+1488,21,883.5764,883.5764,22,MULTISPECIES: peptidoglycan DD-metalloendopeptidase ShyA [Vibrio],1
+1489,21,13713.99,3718.129944444445,21,MULTISPECIES: endonuclease SmrB [Kosakonia],9
+1490,21,3428.529,1166.0896,22,molecular chaperone [Vibrio cholerae],11
+1491,21,2173.083,1310.8726,21,MULTISPECIES: 8-oxo-dGTP diphosphatase MutT [Vibrio],5
+1492,21,651.3941,651.3941,23,DUF523 and DUF1722 domain-containing protein [Vibrio cholerae],1
+1493,21,2752.447,2178.849333333333,22,glutamine amidotransferase [Vibrio furnissii],3
+1494,21,8922.646,2659.7088400000002,22,LysE family translocator [Vibrio furnissii],10
+1495,21,8485.756,1970.3170333333337,18,MULTISPECIES: two-component system response regulator PhoP [Serratia],9
+1496,21,18247.98,2545.4923272727274,22,N-acetylmuramoyl-L-alanine amidase [Vibrio cholerae],11
+1497,21,3039.246,1328.973,22,glyoxalase/bleomycin resistance/extradiol dioxygenase family protein [Vibrio furnissii],4
+1498,21,883.5764,883.5764,21,aerobic respiration two-component sensor histidine kinase ArcB [Vibrio furnissii],1
+1499,21,3428.529,2543.611116666667,22,MULTISPECIES: adenosine deaminase [Vibrio],6
+1500,21,883.5764,824.4073333333334,22,GNAT family N-acetyltransferase [Vibrio furnissii],6
+1501,21,38833.58,5380.621177777777,22,Slp family lipoprotein [Vibrio cholerae],9
+1502,21,6680.689,2763.3893199999998,22,MULTISPECIES: isovaleryl-CoA dehydrogenase [Acinetobacter],5
+1503,21,1001.01,1001.01,22,DEAD/DEAH box helicase [Vibrio furnissii],1
+1504,21,38833.58,9373.182364285714,17,MULTISPECIES: transcriptional regulator AsnC [Enterobacteriaceae],14
+1505,21,3428.529,2452.2628333333337,22,MULTISPECIES: superoxide dismutase family protein [Acinetobacter],3
+1506,21,13713.99,6572.209722222222,22,ABC transporter permease subunit [Vibrio furnissii],9
+1507,21,4545.701,1863.0182800000002,21,MULTISPECIES: MarR family transcriptional regulator [Acinetobacter],5
+1508,21,24647.41,4666.939057142858,21,MULTISPECIES: bifunctional NADP-dependent 3-hydroxy acid dehydrogenase/3-hydroxypropionate dehydrogenase YdfG [Kosakonia],7
+1509,21,3428.529,1511.817025,21,protein disulfide oxidoreductase [Psychrobacter arcticus],4
+1510,21,28780.5,10182.550933333334,20,MULTISPECIES: flavodoxin FldA [Serratia],3
+1511,21,13713.99,5690.649427272727,20,MULTISPECIES: transcriptional regulator SlyA [Serratia],11
+1512,21,38833.58,5552.84448,23,ATP-binding protein [Vibrio furnissii],10
+1513,21,2524.967,1126.6115,19,MULTISPECIES: glycine zipper 2TM domain-containing protein [Serratia],8
+1514,21,3661.11,2139.2900799999998,22,MULTISPECIES: META domain-containing protein [Vibrio],5
+1515,21,3428.529,1594.19585,22,HAMP domain-containing histidine kinase [Vibrio furnissii],4
+1516,21,8485.756,2330.6414571428572,18,MULTISPECIES: acetolactate synthase 2 small subunit [Enterobacterales],7
+1517,21,883.5764,883.5764,23,MULTISPECIES: copper resistance protein NlpE N-terminal domain-containing protein [Vibrio],1
+1518,21,3428.529,1457.5307249999998,22,"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [Vibrio furnissii]",8
+1519,21,1737.612,850.8269750000002,22,MULTISPECIES: LysR family transcriptional regulator [Vibrio],8
+1520,21,2945.877,1236.1844800000001,22,MULTISPECIES: DUF465 domain-containing protein [Acinetobacter],5
+1521,21,1248.717,1078.35535,21,MULTISPECIES: molybdopterin adenylyltransferase [Serratia],4
+1522,21,138924.1,138924.1,22,FAD-binding oxidoreductase [Vibrio furnissii],1
+1523,21,907.7149,863.3718,22,LysR family transcriptional regulator [Vibrio furnissii],4
+1569,20,1264.189,1264.189,21,MULTISPECIES: aspartate/tyrosine/aromatic aminotransferase [Vibrio],1
+1570,20,3428.529,2106.176,18,MULTISPECIES: ROK family transcriptional regulator [Kosakonia],4
+1571,20,13713.99,7798.12455,21,DNA topoisomerase III [Vibrio furnissii],12
+1572,20,4615.4,1630.970445454546,21,maltose ABC transporter permease MalF [Vibrio cholerae],11
+1573,20,1264.189,1095.5980499999998,19,MULTISPECIES: peptide ABC transporter ATP-binding protein SapF [Enterobacteriaceae],6
+1574,20,3661.11,1114.6390444444444,21,MULTISPECIES: 16S rRNA (cytosine(1407)-C(5))-methyltransferase RsmF [Vibrio],9
+1575,20,3428.529,3090.4880000000003,19,MULTISPECIES: RNA polymerase sigma factor RpoS [Kosakonia],4
+1576,20,12351.13,2613.839,21,"guanosine-5'-triphosphate,3'-diphosphate diphosphatase [Vibrio furnissii]",11
+1577,20,1270.044,1270.044,21,MULTISPECIES: transcriptional regulator TyrR [Vibrio],1
+1578,20,904.32,904.32,21,MULTISPECIES: PTS mannitol transporter subunit IICBA [Vibrio],1
+1579,20,3428.529,2069.5583416666664,20,MULTISPECIES: 3-deoxy-7-phosphoheptulonate synthase [Serratia],12
+1580,20,,,17,MULTISPECIES: DUF3461 family protein [Serratia],0
+1581,20,13713.99,6413.365033333333,21,MULTISPECIES: homoserine O-succinyltransferase [Vibrio],6
+1582,20,883.5764,844.592,19,MULTISPECIES: ATP-binding cassette domain-containing protein [Aeromonas],3
+1583,20,883.5764,883.5764,21,MULTISPECIES: phage shock protein operon transcriptional activator [Vibrio],2
+1584,20,908.3955,908.3955,21,MULTISPECIES: methionine ABC transporter substrate-binding lipoprotein MetQ [Vibrio],1
+1585,20,10272.33,1819.494126666667,21,DNA polymerase II [Vibrio furnissii],15
+1586,20,1403.277,1143.4267,19,MULTISPECIES: aspartate:alanine antiporter [Serratia],2
+1587,20,28780.5,10189.430364285714,21,MULTISPECIES: deoxyribonuclease IV [Vibrio],14
+1588,20,2997.09,1881.8566,18,MULTISPECIES: uridine kinase [Serratia],2
+1589,20,974.177,943.9768,18,MULTISPECIES: type I pantothenate kinase [Enterobacteriaceae],3
+1590,20,13713.99,3181.4090470588235,21,2-iminoacetate synthase ThiH [Vibrio furnissii],17
+1591,20,13713.99,2887.620272727273,21,exoribonuclease II [Vibrio furnissii],11
+1592,20,13713.99,4321.168228571428,21,MULTISPECIES: DNA mismatch repair endonuclease MutH [Vibrio],7
+1593,20,,,13,MULTISPECIES: HPr family phosphocarrier protein [Aeromonas],0
+1594,20,980.8116,915.9881333333333,20,MULTISPECIES: DedA family protein [Serratia],6
+1595,20,883.5764,883.5764000000001,20,MULTISPECIES: class II fructose-bisphosphate aldolase [Kosakonia],5
+1596,20,883.5764,561.0678285714285,20,MULTISPECIES: tRNA 4-thiouridine(8) synthase ThiI [Serratia],7
+1597,20,3858.662,1794.64187,19,MULTISPECIES: YciN family protein [Aeromonas],10
+1598,20,1817.704,1379.30978,20,MULTISPECIES: GMP reductase [Serratia],5
+1599,20,2752.447,1068.5255777777777,21,bifunctional chorismate mutase/prephenate dehydrogenase [Vibrio cholerae],9
+1600,20,608.4057,608.4057,16,MULTISPECIES: transcriptional regulator ArgR [Aeromonas],1
+1601,20,1228.72,903.5489666666666,21,MULTISPECIES: CDP-diacylglycerol--serine O-phosphatidyltransferase [Vibrio],6
+1602,20,3428.529,1559.5033,20,MULTISPECIES: class I adenylate cyclase [Serratia],10
+1603,20,3993.322,2950.30705,20,MULTISPECIES: alpha/beta hydrolase YcfP [Serratia],6
+1604,20,3428.529,1525.00045,21,MULTISPECIES: flavodoxin FldB [Vibrio],4
+1605,20,6680.689,1902.0916333333337,19,MULTISPECIES: xanthine phosphoribosyltransferase [Enterobacteriaceae],12
+1606,20,,,20,MULTISPECIES: menaquinone-dependent protoporphyrinogen IX dehydrogenase [Serratia],0
+1607,20,984.5185,908.811925,21,MULTISPECIES: 3-deoxy-7-phosphoheptulonate synthase AroG [Vibrio],4
+1608,20,6565.992,3612.382,20,MULTISPECIES: transcriptional activator NhaR [Serratia],3
+1609,20,651.3941,651.3941,20,MULTISPECIES: pyruvate formate lyase 1-activating protein [Kosakonia],3
+1610,20,6565.992,4201.529142857143,18,MULTISPECIES: autonomous glycyl radical cofactor GrcA [Serratia],7
+1611,20,3428.529,1190.1391142857142,20,MULTISPECIES: adenine-specific DNA-methyltransferase [Serratia],7
+1612,20,2730.077,1074.15558,21,anaerobic ribonucleoside-triphosphate reductase [Vibrio furnissii],10
+1613,20,2761.45,2092.2511111111107,21,maltose/maltodextrin ABC transporter substrate-binding protein MalE [Vibrio cholerae],9
+1614,20,1961.707,1422.6417000000001,21,MULTISPECIES: YvcK family protein [Vibrio],2
+1615,20,13713.99,3621.345275,19,MULTISPECIES: phosphoribulokinase [Serratia],8
+1616,20,4545.701,3428.57632,21,MULTISPECIES: 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Vibrio],5
+1617,20,13713.99,3038.5247333333336,21,MULTISPECIES: aldo/keto reductase family oxidoreductase [Vibrio],6
+1618,20,13713.99,3836.7027900000003,21,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent) [Vibrio furnissii]",10
+1619,20,1800.518,1052.9460666666666,20,MULTISPECIES: class II fructose-bisphosphatase [Enterobacteriaceae],6
+1620,20,13713.99,13713.99,20,MULTISPECIES: ADP-glyceromanno-heptose 6-epimerase [Enterobacteriaceae],1
+1621,20,6565.992,1733.1846666666668,21,MULTISPECIES: bifunctional acetaldehyde-CoA/alcohol dehydrogenase [Vibrio],6
+1622,20,4553.39,1251.80016,21,anaerobic ribonucleoside-triphosphate reductase-activating protein [Vibrio cholerae],10
+1623,20,4553.39,1215.8749142857143,21,MULTISPECIES: Na+/H+ antiporter family protein [Vibrio],7
+1624,20,1737.612,991.5690818181819,17,MULTISPECIES: D-sedoheptulose 7-phosphate isomerase [Serratia],11
+1625,20,2213.593,1229.2800181818181,20,MULTISPECIES: maltose ABC transporter permease MalG [Aeromonas],11
+1626,20,883.5764,715.2159,18,MULTISPECIES: MurR/RpiR family transcriptional regulator [Aeromonas],2
+1627,20,883.5764,831.0979500000001,21,MULTISPECIES: pyruvate kinase PykF [Vibrio],2
+1628,20,,,21,"2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase [Vibrio gazogenes]",0
+1629,20,2752.447,1254.7311333333334,21,S-ribosylhomocysteine lyase [Vibrio cholerae],3
+1630,20,,,17,MULTISPECIES: PTS glucose transporter subunit IIA [Yersiniaceae],0
+1631,20,,,21,MULTISPECIES: FMN-binding protein MioC [Gammaproteobacteria],0
+1632,20,3661.11,2478.4547142857145,20,MULTISPECIES: chromosome partition protein MukE [Serratia],7
+1633,20,,,17,MULTISPECIES: two-component system response regulator ArcA [Serratia],0
+1634,20,6680.689,3136.3296333333333,19,MULTISPECIES: uridine phosphorylase [Serratia],3
+1635,20,,,20,MULTISPECIES: aquaporin [Serratia],0
+1636,20,905.6763,905.6762999999999,15,MULTISPECIES: DNA-binding protein HU-alpha [Aeromonas],10
+1637,20,883.5764,883.5764,18,MULTISPECIES: glucosamine-6-phosphate deaminase [Serratia],3
+1638,20,8485.756,4436.441666666667,20,MULTISPECIES: RNA chaperone ProQ [Serratia],3
+1639,20,,,16,MULTISPECIES: met regulon transcriptional regulator MetJ [Serratia],0
+1640,20,1886.732,1038.3522,21,cytidine deaminase [Vibrio furnissii],3
+1641,20,3428.529,1321.7770571428573,19,MULTISPECIES: YfcL family protein [Serratia],7
+1642,20,13713.99,5160.380933333333,21,"alpha,alpha-phosphotrehalase [Vibrio cholerae]",3
+1643,20,13713.99,3498.638369230769,21,MULTISPECIES: deoxyribose-phosphate aldolase [Vibrio],13
+1644,20,654.2482,654.2482,21,MULTISPECIES: mannitol-1-phosphate 5-dehydrogenase [Vibrio],2
+1645,20,3428.529,1279.866507142857,18,MULTISPECIES: purine-nucleoside phosphorylase [Serratia],14
+1646,20,783.823,783.823,21,chromosome partition protein MukB [Vibrio furnissii],3
+1647,20,,,21,nucleoid-associated protein YejK [Vibrio cholerae],0
+1648,20,766.6232,766.6232,17,MULTISPECIES: YihD family protein [Serratia],1
+1649,20,883.5764,883.5764,21,MULTISPECIES: replication initiation negative regulator SeqA [Vibrio],1
+1650,20,3428.529,1540.0513999999998,21,MULTISPECIES: YcjX family protein [Vibrio],4
+1651,20,,,20,MULTISPECIES: fatty acid metabolism transcriptional regulator FadR [Kosakonia],0
+1652,20,980.8116,941.91752,21,sulfurtransferase complex subunit TusC [Vibrio cholerae],5
+1653,20,505.8732,505.8732,19,MULTISPECIES: YejL family protein [Serratia],1
+1654,20,,,19,MULTISPECIES: iron donor protein CyaY [Kosakonia],0
+1655,20,2173.083,1233.6980833333334,21,vitamin B12 ABC transporter permease BtuC [Vibrio cholerae],6
+1656,20,2197.646,1151.74822,20,MULTISPECIES: succinate dehydrogenase/fumarate reductase iron-sulfur subunit [Kosakonia],5
+1657,20,,,20,MULTISPECIES: PTS trehalose transporter subunit IIBC [Serratia],0
+1658,20,908.3955,740.8757666666667,20,MULTISPECIES: membrane-bound lytic murein transglycosylase MltC [Aeromonas],3
+1659,20,3428.529,1595.1737600000001,18,MULTISPECIES: elongation factor P-like protein YeiP [Serratia],5
+1660,20,3700.972,1674.2112000000002,21,"MULTISPECIES: 1,4-dihydroxy-2-naphthoate polyprenyltransferase [Vibrio]",4
+1661,20,13713.99,4187.65085,20,MULTISPECIES: sugar/pyridoxal phosphate phosphatase YigL [Kosakonia],12
+1662,20,1143.351,1019.49048,21,MULTISPECIES: PTS glucose transporter subunit IIBC [Vibrio],5
+1663,20,883.5764,883.5764,18,MULTISPECIES: envelope stress response membrane protein PspB [Serratia],1
+1664,20,1201.671,947.19532,20,MULTISPECIES: peptide ABC transporter permease SapC [Serratia],5
+1665,20,13713.99,3712.47304,17,MULTISPECIES: YaeP family protein [Serratia],5
+1666,20,8485.756,2288.7577874999997,22,Xaa-Pro aminopeptidase [Acinetobacter bouvetii],8
+1667,20,2752.447,1869.5156666666664,21,MULTISPECIES: SprT family zinc-dependent metalloprotease [Vibrio],3
+1668,20,752.603,752.603,18,MULTISPECIES: DUF496 family protein [Serratia],1
+1669,20,1994.814,1484.000142857143,21,ABC transporter substrate-binding protein [Vibrio cholerae],7
+1670,20,3428.529,2122.8015666666665,21,MULTISPECIES: ATP-dependent endonuclease [Vibrio],6
+1671,20,3428.529,1185.30065,19,MULTISPECIES: LysR family transcriptional regulator [Serratia],8
+1672,20,5485.32,2363.828376923077,21,MULTISPECIES: sugar-phosphatase [Vibrio],13
+1673,20,,,20,MULTISPECIES: topoisomerase DNA-binding C4 zinc finger domain-containing protein [Serratia],0
+1674,20,8485.756,4759.9349999999995,21,MULTISPECIES: cell division protein ZapD [Vibrio],2
+1675,20,4876.735,2928.7733,18,MULTISPECIES: ribonuclease E inhibitor RraB [Serratia],2
+1676,20,908.3955,908.3955,21,bifunctional aspartate kinase/homoserine dehydrogenase II [Vibrio furnissii],1
+1677,20,17253.57,2652.07694,20,MULTISPECIES: isochorismatase [Serratia],15
+1678,20,883.5764,883.5764,21,maltose/maltodextrin ABC transporter ATP-binding protein MalK [Vibrio cholerae],6
+1679,20,785.5658,785.5658,21,MULTISPECIES: N-acetylglucosamine-6-phosphate deacetylase [Vibrio],2
+1680,20,28780.5,9287.4365,20,MULTISPECIES: chromosome partition protein MukF [Serratia],4
+1681,20,2278.634,1581.1052,18,MULTISPECIES: ribosome-associated translation inhibitor RaiA [Serratia],2
+1682,20,2541.412,1059.541,21,DUF2867 domain-containing protein [Vibrio furnissii],9
+1683,20,3591.704,1526.1227818181817,21,nucleotidyltransferase family protein [Acinetobacter bouvetii],11
+1684,20,13713.99,3399.638852941176,21,4-alpha-glucanotransferase [Vibrio cholerae],17
+1685,20,2197.646,1046.083509090909,21,secondary thiamine-phosphate synthase enzyme YjbQ [Vibrio furnissii],11
+1686,20,7211.263,2385.065083333333,22,hybrid sensor histidine kinase/response regulator [Vibrio cholerae],6
+1687,20,1264.189,968.4280249999999,21,endonuclease [Vibrio furnissii],8
+1688,20,138924.1,62467.926999999996,21,esterase FrsA [Vibrio cholerae],9
+1689,20,904.32,893.9482,21,fused PTS fructose transporter subunit IIA/HPr protein [Vibrio furnissii],2
+1690,20,2943.461,1901.79655,21,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase [Vibrio furnissii],4
+1691,20,2962.843,1543.9293,21,MULTISPECIES: crotonase/enoyl-CoA hydratase family protein [Acinetobacter],4
+1692,20,13713.99,2362.661083333333,21,cysteine desulfurase [Alcanivorax pacificus],12
+1693,20,3428.529,1192.9169181818181,21,MULTISPECIES: murein transglycosylase A [Aeromonas],11
+1694,20,2752.447,1818.0117,20,MULTISPECIES: pleiotropic regulatory protein RsmS [Serratia],6
+1695,20,28780.5,8686.864,21,heme ABC transporter ATP-binding protein [Vibrio furnissii],12
+1696,20,766.6232,766.6232,21,MULTISPECIES: DMT family transporter [Vibrio],1
+1697,20,,,19,MULTISPECIES: DUF412 domain-containing protein [Serratia],0
+1698,20,3428.529,2767.3525,18,MULTISPECIES: septal ring assembly protein ZapB [Serratia],4
+1699,20,38833.58,8014.064633333334,21,"cob(I)yrinic acid a,c-diamide adenosyltransferase [Acinetobacter schindleri]",6
+1700,20,980.8116,980.8116,19,MULTISPECIES: universal stress protein UspA [Serratia],4
+1701,20,1051.507,975.5036400000001,21,glutathione-regulated potassium-efflux system ancillary protein KefG [Vibrio cholerae],5
+1702,20,1733.503,1582.1515,22,polysaccharide biosynthesis protein [Acinetobacter bouvetii],2
+1703,20,1116.621,888.1447454545454,21,N-acetylglucosamine kinase [Vibrio furnissii],11
+1704,20,13713.99,2846.5339000000004,21,MULTISPECIES: stress response translation initiation inhibitor YciH [Vibrio],8
+1705,20,1202.592,1052.5956666666668,21,DUF3413 domain-containing protein [Vibrio cholerae],3
+1706,20,1116.621,758.3644,18,MULTISPECIES: fatty acid biosynthesis protein FabY [Serratia],3
+1707,20,8156.898,3074.04934,21,paraquat-inducible protein A [Vibrio furnissii],10
+1708,20,,,21,sigma factor-binding protein Crl [Vibrio cholerae],0
+1709,20,8962.093,3271.352616666667,22,MULTISPECIES: arginyltransferase [Vibrio],6
+1710,20,980.8116,980.8116,21,aminopeptidase P family protein [Vibrio furnissii],4
+1711,20,3713.33,1627.73315,21,MULTISPECIES: ribosomal protein S5-alanine N-acetyltransferase [Vibrio],4
+1712,20,883.5764,883.5764,20,MULTISPECIES: YfbU family protein [Kosakonia],2
+1713,20,2752.447,1070.14352,20,MULTISPECIES: catabolite repressor/activator [Serratia],10
+1714,20,8485.756,2127.8531,21,MULTISPECIES: HAD-IA family hydrolase [Proteobacteria],8
+1715,20,8782.157,4845.27625,21,MULTISPECIES: alpha/beta fold hydrolase [Vibrio],2
+1716,20,1591.082,1119.4867333333334,20,MULTISPECIES: lipoprotein NlpI [Serratia],6
+1717,20,7973.084,3765.01752,20,MULTISPECIES: zinc ribbon-containing protein [Aeromonas],5
+1718,20,739.95,739.95,19,MULTISPECIES: cell division protein ZapC [Serratia],1
+1719,20,2752.447,1395.7299333333333,21,tRNA1(Val) (adenine(37)-N6)-methyltransferase [Vibrio furnissii],3
+1720,20,783.823,783.823,21,MULTISPECIES: YijD family membrane protein [Vibrio],1
+1721,20,3333.338,2434.580711111111,21,CinA family nicotinamide mononucleotide deamidase-related protein [Vibrio cholerae],9
+1722,20,3514.935,1539.2992857142856,21,MULTISPECIES: DUF1615 family protein [Proteobacteria],7
+1723,20,883.5764,817.0741333333334,18,MULTISPECIES: endonuclease/exonuclease/phosphatase family protein [Serratia],3
+1724,20,1264.189,1015.4159166666667,21,MULTISPECIES: phosphotransferase [Acinetobacter],6
+1725,20,13713.99,3387.7677272727265,21,MULTISPECIES: YcjF family protein [Vibrio],11
+1726,20,2492.419,1736.6153,21,SgrR family transcriptional regulator [Vibrio cholerae],2
+1727,20,8485.756,5172.008199999999,21,MULTISPECIES: sigma-E factor negative regulatory protein [Vibrio],5
+1728,20,8782.157,2801.606425,20,MULTISPECIES: TerC family protein [Kosakonia],4
+1729,20,1033.331,932.47072,19,MULTISPECIES: HI1450 family dsDNA-mimic protein [Serratia],5
+1730,20,3428.529,1919.903,19,MULTISPECIES: invasion regulator SirB1 [Serratia],6
+1731,20,883.5764,883.5764,19,MULTISPECIES: amino acid ABC transporter substrate-binding protein [Aeromonas],2
+1732,20,10894.72,2137.251276923077,18,MULTISPECIES: DNA-binding transcriptional regulator H-NS [Serratia],13
+1733,20,94590.41,26320.052200000006,20,MULTISPECIES: RNase E specificity factor CsrD [Kosakonia],4
+1734,20,8922.646,2352.4468,18,MULTISPECIES: 5'-deoxynucleotidase [Serratia],12
+1735,20,883.5764,850.3252666666667,21,MULTISPECIES: YjaG family protein [Vibrio],3
+1736,20,1038.827,875.9675875,21,SecY-interacting protein [Vibrio furnissii],8
+1737,20,2779.551,1466.8099,21,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase [Aeromonas hydrophila],4
+1738,20,8485.756,2442.9064,21,hydroxymethylglutaryl-CoA lyase [Acinetobacter bouvetii],5
+1739,20,1164.52,909.3841,18,MULTISPECIES: MltR family transcriptional regulator [Serratia],2
+1740,20,3428.529,1456.802930769231,20,MULTISPECIES: DUF1456 family protein [Bacteria],13
+1741,20,766.6232,766.6232,21,MULTISPECIES: DASS family sodium-coupled anion symporter [Vibrio],1
+1742,20,980.8116,980.8116,21,MULTISPECIES: N-acetylglucosamine-specific PTS transporter subunit IIBC [Vibrio],2
+1743,20,3428.529,1049.3393846153847,22,agmatine deiminase [Vibrio furnissii],13
+1744,20,2752.447,1470.4155,21,MULTISPECIES: redox-sensitive transcriptional activator SoxR [Enterobacteriaceae],6
+1745,20,13713.99,4797.555333333333,21,vitamin B12 ABC transporter ATP-binding protein BtuD [Vibrio furnissii],12
+1746,20,980.8116,932.194,21,MULTISPECIES: o-succinylbenzoate synthase [Vibrio],2
+1747,20,3428.529,2232.891,20,MULTISPECIES: D-alanine--D-alanine ligase [Serratia],2
+1748,20,1228.72,1148.638875,21,MULTISPECIES: CreA family protein [Vibrio],4
+1749,20,1202.592,1202.592,21,N-acetyltransferase [Vibrio cholerae],3
+1750,20,13713.99,3493.59572,19,MULTISPECIES: division/cell wall cluster transcriptional repressor MraZ [Aeromonas],5
+1751,20,13713.99,4863.675755555556,21,tellurite resistance TerB family protein [Vibrio furnissii],9
+1752,20,6910.52,2570.1372,20,MULTISPECIES: zinc ribbon domain-containing protein [Enterobacterales],5
+1753,20,1334.353,878.2403999999999,21,GNAT family N-acetyltransferase [Vibrio furnissii],5
+1754,20,13713.99,3958.6496400000005,21,LytTR family DNA-binding domain-containing protein [Vibrio furnissii],5
+1755,20,2183.574,1417.2469,21,MULTISPECIES: pitrilysin [Serratia],2
+1756,20,,,19,MULTISPECIES: protein YacL [Serratia],0
+1757,20,2883.764,2883.764,21,MULTISPECIES: acyl-CoA thioesterase [Vibrio],1
+1758,20,3428.529,1600.5207222222223,21,sigma-54-dependent Fis family transcriptional regulator [Vibrio furnissii],9
+1759,20,13713.99,6760.606785714285,21,outer membrane protein assembly factor BamC [Vibrio cholerae],7
+1760,20,138924.1,71359.24299999999,21,dienelactone hydrolase family protein [Acinetobacter bouvetii],5
+1761,20,,,21,MULTISPECIES: anaerobic C4-dicarboxylate transporter [Vibrio],0
+1762,20,,,21,SPOR domain-containing protein [Vibrio cholerae],0
+1763,20,5485.32,1864.5125600000003,20,MULTISPECIES: Der GTPase-activating protein YihI [Serratia],10
+1764,20,904.32,773.8496,21,inorganic triphosphatase [Vibrio cholerae],5
+1765,20,2752.447,983.892988888889,21,LPS export ABC transporter periplasmic protein LptC [Vibrio cholerae],9
+1766,20,211093.9,27561.709462499995,21,MULTISPECIES: thymidine phosphorylase [Vibrio],8
+1767,20,1430.8,1430.8,20,MULTISPECIES: two-component system response regulator RssB [Serratia],1
+1768,20,13713.99,13713.99,21,protein-disulfide reductase DsbD [Vibrio furnissii],1
+1769,20,908.3955,880.0410400000001,19,MULTISPECIES: entericidin A/B family lipoprotein [Enterobacterales],5
+1770,20,2752.447,1662.5217,21,TolC family protein [Acinetobacter bouvetii],2
+1771,20,38833.58,6173.822800000001,22,glycosyl transferase family protein [Vibrio furnissii],14
+1772,20,4545.701,2178.9939181818186,21,MULTISPECIES: ATP-binding protein [Aeromonas],11
+1773,20,3428.529,1337.53278,21,VOC family protein [Vibrio furnissii],5
+1774,20,2752.447,1194.9753333333333,21,sugar transporter [Vibrio furnissii],6
+1775,20,3174.797,1531.3471333333334,18,MULTISPECIES: glutamine ABC transporter permease GlnP [Serratia],3
+1776,20,3428.529,3428.529,21,MULTISPECIES: enoyl-ACP reductase FabI [Kosakonia],1
+1777,20,1116.621,859.854425,21,MULTISPECIES: MATE family efflux transporter [Acinetobacter],4
+1778,20,3661.11,1155.0501499999998,21,sensor histidine kinase KdpD [Acinetobacter bouvetii],10
+1779,20,915.9191,871.3773,21,flagellar filament capping protein FliD [Vibrio furnissii],2
+1780,20,2752.447,2752.447,20,ABC transporter transmembrane domain-containing protein [Vibrio furnissii],5
+1781,20,13713.99,4112.00125,21,RDD family protein [Vibrio cholerae],4
+1782,20,10616.46,7009.755499999999,20,MULTISPECIES: AzlC family ABC transporter permease [Acinetobacter],2
+1783,20,13713.99,3573.49027,21,histone deacetylase [Vibrio furnissii],10
+1784,20,2943.461,1751.92276,20,MULTISPECIES: amino acid ABC transporter substrate-binding protein [Enterobacteriaceae],5
+1785,20,2779.551,2330.675911111111,20,MULTISPECIES: FUSC family protein [Aeromonas],9
+1786,20,2752.447,1418.7445,20,MULTISPECIES: sodium/pantothenate symporter [Serratia],4
+1787,20,883.5764,858.29285,21,MULTISPECIES: YbfB/YjiJ family MFS transporter [Serratia],2
+1788,20,3428.529,1503.4428750000002,21,MalM family protein [Vibrio cholerae],8
+1789,20,2752.447,2155.3157333333334,21,MULTISPECIES: OapA family protein [Vibrio],3
+1790,20,1008.605,1008.605,21,MULTISPECIES: sulfurtransferase complex subunit TusB [Vibrio],1
+1791,20,10272.33,1546.7923357142859,21,MULTISPECIES: DNA polymerase III subunit psi [Vibrio],14
+1792,20,3428.529,1480.6638333333333,21,MULTISPECIES: membrane integrity-associated transporter subunit PqiC [Vibrio],6
+1793,20,2752.447,1539.4231,21,MULTISPECIES: GNAT family N-acetyltransferase [Vibrio],6
+1794,20,883.5764,883.5764,20,MULTISPECIES: YfcZ/YiiS family protein [Kosakonia],1
+1795,20,883.5764,883.5764,20,MULTISPECIES: lipoprotein [Enterobacteriaceae],1
+1796,20,974.177,974.177,20,MULTISPECIES: carboxylate/amino acid/amine transporter [Kosakonia],4
+1797,20,2659.79,2659.79,21,MULTISPECIES: YtjB family periplasmic protein [Vibrio],1
+1798,20,3428.529,1247.7400375000002,21,bifunctional 2-methylcitrate dehydratase/aconitate hydratase [Alcanivorax pacificus],8
+1799,20,883.5764,883.5764,21,MULTISPECIES: LysR family transcriptional regulator [Vibrio],1
+1800,20,1515.735,1062.2260666666668,21,TPM domain-containing protein [Psychrobacter arcticus],3
+1801,20,302785.5,61078.60196,22,sensor domain-containing phosphodiesterase [Vibrio furnissii],5
+1821,19,10894.72,5065.70872,20,thiamine ABC transporter substrate binding subunit [Vibrio furnissii],5
+1822,19,13713.99,4059.0426375,20,MULTISPECIES: carboxypeptidase M32 [Vibrio],8
+1823,19,8922.646,4462.404666666667,16,MULTISPECIES: DeoR/GlpR family transcriptional regulator [Serratia],9
+1824,19,8156.898,2341.58064,20,MULTISPECIES: ribose ABC transporter ATP-binding protein RbsA [Vibrio],5
+1825,19,1030.205,1030.205,18,MULTISPECIES: ribose ABC transporter substrate-binding protein RbsB [Aeromonas],1
+1826,19,2943.461,2847.9539999999997,20,thiamine ABC transporter ATP-binding protein [Vibrio furnissii],2
+1827,19,883.5764,833.6997,20,MULTISPECIES: D-ribose pyranase [Vibrio],2
+1828,19,138924.1,38204.437066666665,19,MULTISPECIES: peptidase T [Kosakonia],6
+1829,19,4914.146,1892.3904285714286,18,MULTISPECIES: tRNA (guanosine(18)-2'-O)-methyltransferase TrmH [Serratia],7
+1830,19,16271.57,4286.748250000001,20,MULTISPECIES: hydroxylamine reductase [Vibrio],6
+1831,19,3428.529,1551.387742857143,20,low-specificity L-threonine aldolase [Vibrio cholerae],7
+1832,19,,,20,phosphopentomutase [Vibrio cholerae],0
+1833,19,3428.529,2080.17585,21,TIGR01212 family radical SAM protein [Vibrio furnissii],2
+1834,19,2409.1,1332.6091,20,beta-galactosidase [Vibrio furnissii],5
+1835,19,3428.529,2899.5878,20,MULTISPECIES: ribose ABC transporter permease [Vibrio],5
+1836,19,38833.58,13513.931566666666,20,"MULTISPECIES: 1,4-alpha-glucan branching enzyme [Serratia]",6
+1837,19,883.5764,747.9806000000001,19,MULTISPECIES: transcriptional regulator [Enterobacteriaceae],2
+1838,19,883.5764,779.5045,19,MULTISPECIES: gluconate operon transcriptional repressor GntR [Serratia],3
+1839,19,883.5764,883.5764,19,MULTISPECIES: phage shock protein PspA [Serratia],2
+1840,19,2659.79,1555.5806499999999,21,low molecular weight phosphotyrosine protein phosphatase [Vibrio cholerae],4
+1841,19,4545.701,1862.752725,19,MULTISPECIES: Kef family K(+) transporter [Serratia],4
+1842,19,908.3955,889.781175,20,thiamine/thiamine pyrophosphate ABC transporter permease ThiP [Vibrio furnissii],4
+1843,19,3428.529,2273.0005,20,MULTISPECIES: cytochrome c1 [Vibrio],2
+1844,19,28780.5,17825.39356,15,MULTISPECIES: GrxA family glutaredoxin [Serratia],5
+1845,19,13713.99,13713.99,20,MULTISPECIES: ubiquinol-cytochrome c reductase iron-sulfur subunit [Vibrio],1
+1846,19,,,19,MULTISPECIES: peroxiredoxin C [Serratia],0
+1847,19,49376.54,5542.62755,20,MULTISPECIES: phosphogluconate dehydratase [Vibrio],12
+1848,19,4545.701,2222.9288909090906,20,phosphodiesterase [Vibrio cholerae],11
+1849,19,1033.331,862.6135444444444,20,MULTISPECIES: FMN-dependent L-lactate dehydrogenase LldD [Serratia],9
+1850,19,13713.99,4485.907560000001,20,MULTISPECIES: DTW domain-containing protein [Serratia],10
+1851,19,13713.99,7139.2016,20,MULTISPECIES: thiopurine S-methyltransferase [Vibrio],2
+1852,19,980.8116,907.8852,14,MULTISPECIES: type B 50S ribosomal protein L36 [Enterobacterales],4
+1853,19,883.5764,883.5764,20,MULTISPECIES: NAD(P)/FAD-dependent oxidoreductase [Vibrio],2
+1854,19,8485.756,2209.0344,18,MULTISPECIES: outer membrane permeability protein SanA [Serratia],10
+1855,19,38833.58,11764.388106666669,20,DJ-1/PfpI family protein [Vibrio furnissii],15
+1856,19,3428.529,1434.0062666666665,20,potassium-transporting ATPase subunit KdpB [Acinetobacter bouvetii],6
+1857,19,904.32,890.9321666666666,19,MULTISPECIES: LapA family protein [Serratia],6
+1858,19,1515.735,1199.6557,19,MULTISPECIES: catalase [Acinetobacter],2
+1859,19,13713.99,2830.119422222222,20,DUF962 domain-containing protein [Vibrio furnissii],9
+1860,19,37878.25,14063.4518,21,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [Vibrio furnissii],3
+1861,19,980.8116,901.50523,20,copper homeostasis protein CutC [Vibrio furnissii],10
+1862,19,4553.39,2626.1031214285713,20,potassium-transporting ATPase subunit KdpA [Acinetobacter bouvetii],14
+1863,19,660.4787,660.4787,20,MULTISPECIES: segregation/condensation protein A [Acinetobacter],1
+1864,19,1202.592,968.5162,19,MULTISPECIES: amino acid permease [Serratia],4
+1865,19,1114.919,1009.6195,20,MlaD family protein [Vibrio furnissii],2
+1866,19,,,20,potassium-transporting ATPase subunit KdpC [Acinetobacter bouvetii],0
+1867,19,1737.612,1201.4886571428572,19,MULTISPECIES: glycogen synthase GlgA [Enterobacteriaceae],7
+1868,19,21732.38,3966.711628571429,19,peptide MFS transporter [Psychrobacter cryohalolentis],7
+1869,19,980.8116,980.8116,20,MULTISPECIES: YccF domain-containing protein [Vibrio],1
+1870,19,13713.99,5127.1298,18,MULTISPECIES: flagellar export chaperone FliS [Serratia],3
+1871,19,1202.592,944.5921375,20,glycerophosphodiester phosphodiesterase [Vibrio cholerae],8
+1872,19,883.5764,863.62572,21,acetolactate synthase large subunit [Alcanivorax pacificus],5
+1873,19,1138.993,1011.2846999999999,20,divalent-cation tolerance protein CutA [Vibrio furnissii],2
+1874,19,1090.564,918.0743333333334,21,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme [Acinetobacter bouvetii],6
+1875,19,826.2209,826.2209,20,outer membrane protein transport protein [Vibrio cholerae],1
+1876,19,13713.99,2946.5721875,21,adenosylcobinamide-GDP ribazoletransferase [Vibrio cholerae],8
+1877,19,783.823,783.823,20,ATP-binding protein [Vibrio cholerae],1
+1878,19,1544.435,1544.435,20,chromosome segregation protein SMC [Acinetobacter bouvetii],1
+1879,19,8485.756,3610.4646166666666,21,AAA family ATPase [Acinetobacter bouvetii],6
+1880,19,18247.98,6671.710933333333,20,phosphatase PAP2 family protein [Vibrio cholerae],3
+1881,19,1800.518,1087.0657999999999,20,"L,D-transpeptidase family protein [Vibrio furnissii]",5
+1882,19,2962.843,2962.843,20,DMT family transporter [Acinetobacter bouvetii],1
+1883,19,1202.592,923.45335,19,putative sulfate exporter family transporter [Acinetobacter bouvetii],8
+1884,19,3428.529,2902.1796727272726,20,MFS transporter [Vibrio cholerae],11
+1885,19,883.5764,877.4786,18,MULTISPECIES: urea ABC transporter ATP-binding protein UrtD [Serratia],3
+1886,19,8485.756,2912.9784999999997,20,MULTISPECIES: adenosylhomocysteinase [Acinetobacter],4
+1887,19,,,16,MULTISPECIES: trp operon repressor [Serratia],0
+1888,19,5485.32,1660.009333333333,20,MULTISPECIES: glycosyltransferase family 2 protein [Vibrio],9
+1889,19,3804.257,1723.7546000000002,20,glutaredoxin family protein [Alcanivorax pacificus],4
+1890,19,4263.555,1354.0146125,20,MULTISPECIES: multidrug efflux MFS transporter permease subunit VceB [Vibrio],8
+1891,19,3428.529,1124.2897666666668,19,MULTISPECIES: nicotinamide riboside transporter PnuC [Serratia],6
+1892,19,13713.99,4707.926183333333,20,"RNA 2',3'-cyclic phosphodiesterase [Alcanivorax pacificus]",12
+1893,19,3428.529,1506.8322,19,DNA/RNA non-specific endonuclease [Acinetobacter soli],4
+1894,19,3881.305,2003.3746285714285,20,SirB2 family protein [Alcanivorax pacificus],7
+1895,19,8485.756,2198.0128999999997,21,efflux RND transporter periplasmic adaptor subunit [Vibrio furnissii],8
+1896,19,3428.529,2022.7853333333333,21,hybrid-cluster NAD(P)-dependent oxidoreductase [Vibrio furnissii],6
+1897,19,,,20,OmpA family protein [Vibrio cholerae],0
+1898,19,1114.919,857.2318,20,SDR family oxidoreductase [Vibrio cholerae],4
+1899,19,302785.5,49639.80394117647,18,MULTISPECIES: DksA/TraR family C4-type zinc finger protein [Kosakonia],17
+1900,19,2997.09,1436.2636,20,MULTISPECIES: phosphotransferase [Vibrio],8
+1901,19,211093.9,31172.817671428573,19,MULTISPECIES: MipA/OmpV family protein [Serratia],7
+1902,19,731.2843,731.2843,17,MULTISPECIES: phosphate-starvation-inducible protein PsiE [Serratia],1
+1903,19,,,20,NUDIX hydrolase [Acinetobacter bouvetii],0
+1904,19,5485.32,3284.744379999999,20,VOC family protein [Vibrio furnissii],5
+1905,19,1090.564,924.97392,20,ABC transporter transmembrane domain-containing protein [Vibrio furnissii],5
+1906,19,790.8198,648.3465,18,MULTISPECIES: DUF1145 family protein [Serratia],4
+1907,19,1081.477,1081.477,21,DMT family transporter [Vibrio cholerae],1
+1908,19,13713.99,7111.1959,20,hypothetical protein [Vibrio furnissii],2
+1909,19,980.8116,858.7443499999999,20,MULTISPECIES: SDR family oxidoreductase [Vibrio],8
+1910,19,10616.46,5668.464725,20,MULTISPECIES: AraC family transcriptional regulator [Serratia],4
+1911,19,38833.58,8950.637215384615,20,SDR family NAD(P)-dependent oxidoreductase [Alcanivorax pacificus],13
+1912,19,13713.99,7624.2465999999995,21,MULTISPECIES: chemotaxis protein CheW [Vibrio],3
+1913,19,883.5764,850.3252666666667,20,MULTISPECIES: M23 family metallopeptidase [Proteobacteria],3
+1914,19,1430.8,1325.5275000000001,20,fatty acid desaturase [Vibrio furnissii],2
+1915,19,908.3955,895.98595,20,efflux RND transporter periplasmic adaptor subunit [Alcanivorax pacificus],2
+1946,18,3428.529,1576.3843428571429,19,MULTISPECIES: glycerol-3-phosphate transporter [Vibrio],7
+1947,18,980.8116,784.5982,19,MULTISPECIES: anaerobic C4-dicarboxylate transporter DcuC [Vibrio],10
+1948,18,883.5764,883.5764,19,beta-N-acetylhexosaminidase [Vibrio furnissii],2
+1949,18,8922.646,8922.646,18,"MULTISPECIES: cytochrome-c oxidase, cbb3-type subunit II [Aeromonas]",1
+1950,18,13713.99,2909.0427666666665,19,anaerobic glycerol-3-phosphate dehydrogenase subunit A [Vibrio furnissii],15
+1951,18,904.32,801.0368571428571,17,MULTISPECIES: arginine ABC transporter ATP-binding protein ArtP [Kosakonia],7
+1952,18,,,18,MULTISPECIES: formate transporter FocA [Kosakonia],0
+1953,18,650.9198,650.9198,19,"MULTISPECIES: cytochrome-c oxidase, cbb3-type subunit I [Vibrio]",1
+1954,18,883.5764,883.5764,19,MULTISPECIES: anaerobic glycerol-3-phosphate dehydrogenase subunit C [Vibrio],2
+1955,18,9492.083,2497.5940166666664,20,"MULTISPECIES: cob(I)yrinic acid a,c-diamide adenosyltransferase [Vibrio]",12
+1956,18,4553.39,2808.734,19,MULTISPECIES: cytochrome bc complex cytochrome b subunit [Vibrio],6
+1957,18,13713.99,7273.49965,18,MULTISPECIES: tyrosine--tRNA ligase [Kosakonia],2
+1958,18,1733.503,973.3119899999999,19,MULTISPECIES: DUF1097 domain-containing protein [Serratia],10
+1959,18,2752.447,2752.447,16,MULTISPECIES: envelope stress response regulator transcription factor CpxR [Serratia],3
+1960,18,883.5764,883.5764,19,aminoimidazole riboside kinase [Vibrio furnissii],6
+1961,18,,,17,MULTISPECIES: YcbK family protein [Serratia],0
+1962,18,4545.701,1727.0219,19,aromatic amino acid transporter [Vibrio furnissii],4
+1963,18,13713.99,4361.054581818182,19,MULTISPECIES: GPR1/FUN34/YaaH family transporter [Vibrio],11
+1964,18,28780.5,6470.215679999999,20,D-glycerate dehydrogenase [Vibrio furnissii],5
+1965,18,29467.88,10188.412866666667,19,MULTISPECIES: protein-methionine-sulfoxide reductase catalytic subunit MsrP [Kosakonia],3
+1966,18,,,19,MULTISPECIES: methionine synthase [Vibrio],0
+1967,18,3428.529,1194.655475,19,MULTISPECIES: arginine ABC transporter permease ArtM [Vibrio],8
+1968,18,1627.701,1139.8909666666666,19,MULTISPECIES: NupC/NupG family nucleoside CNT transporter [Vibrio],3
+1969,18,1733.503,1521.02135,19,MULTISPECIES: beta-ketoacyl-ACP synthase III [Acinetobacter],4
+1970,18,138924.1,47520.041133333325,19,mechanosensitive ion channel family protein [Vibrio furnissii],3
+1971,18,3428.529,1731.8939333333335,17,MULTISPECIES: arginine ABC transporter permease ArtQ [Kosakonia],3
+1972,18,1065.164,923.1122250000001,19,MULTISPECIES: TMEM165/GDT1 family protein [Aeromonas],4
+1973,18,10894.72,4381.281783333333,19,MULTISPECIES: oligopeptidase B [Kosakonia],12
+1974,18,2752.447,1101.5926,19,DUF1852 domain-containing protein [Vibrio furnissii],6
+1975,18,980.8116,977.4943000000001,19,multidrug efflux MFS transporter EmrD [Vibrio cholerae],2
+1976,18,13713.99,3560.8184166666665,19,methylcrotonoyl-CoA carboxylase [Vibrio furnissii],6
+1977,18,6565.992,4650.024566666667,19,MULTISPECIES: bifunctional UDP-sugar hydrolase/5'-nucleotidase UshA [Vibrio],6
+1978,18,883.5764,765.6105600000001,18,sodium:proton antiporter [Vibrio cholerae],5
+1979,18,1733.503,1142.1671999999999,19,MULTISPECIES: cytochrome c4 [Vibrio],3
+1980,18,13713.99,4666.845675,19,D-serine ammonia-lyase [Vibrio furnissii],8
+1981,18,963.953,923.7647,19,cytochrome c oxidase accessory protein CcoG [Vibrio cholerae],2
+1982,18,883.5764,883.5764,19,"cytochrome-c oxidase, cbb3-type subunit III [Vibrio cholerae]",1
+1983,18,3428.529,1827.0333857142857,19,NAD-glutamate dehydrogenase [Vibrio furnissii],7
+1984,18,8323.257,2739.4493799999996,19,HAD-IA family hydrolase [Acinetobacter bouvetii],5
+1985,18,,,19,MULTISPECIES: glucose/quinate/shikimate family membrane-bound PQQ-dependent dehydrogenase [Acinetobacter],0
+1986,18,8922.646,2441.37554,19,acyl-CoA dehydrogenase family protein [Acinetobacter bouvetii],5
+1987,18,13713.99,3391.73985,19,XRE family transcriptional regulator [Vibrio cholerae],8
+1988,18,3428.529,2760.4245285714287,20,MULTISPECIES: response regulator [Proteobacteria],7
+1989,18,2752.447,1752.525,19,glycerol-3-phosphate dehydrogenase subunit GlpB [Vibrio furnissii],2
+1990,18,1132.923,1031.5154,19,MULTISPECIES: 3'-5' exonuclease [Vibrio],3
+1991,18,883.5764,772.7730666666666,18,MULTISPECIES: LrgB family protein [Serratia],3
+1992,18,1323.054,982.16217,19,MULTISPECIES: type VI secretion system baseplate subunit TssK [Vibrio],10
+1993,18,68804.91,20076.8149,19,DUF1653 domain-containing protein [Acinetobacter soli],4
+1994,18,980.8116,897.4671428571429,19,MULTISPECIES: protein-methionine-sulfoxide reductase heme-binding subunit MsrQ [Kosakonia],7
+1995,18,28780.5,8326.448011111112,19,MULTISPECIES: sucrose-specific PTS transporter subunit IIBC [Vibrio],9
+1996,18,3993.322,1848.875488888889,20,hydroxyethylthiazole kinase [Vibrio furnissii],9
+1997,18,8485.756,1668.1873076923075,20,MULTISPECIES: biotin-dependent carboxyltransferase family protein [Vibrio],13
+1998,18,3713.33,1591.0148,19,MULTISPECIES: amino acid ABC transporter permease [Acinetobacter],4
+1999,18,2752.447,1425.86275,19,cadmium-translocating P-type ATPase [Vibrio cholerae],4
+2000,18,3428.529,1896.229675,19,MULTISPECIES: inorganic phosphate transporter [Vibrio],8
+2001,18,1456.636,977.5760999999999,20,MULTISPECIES: TetR/AcrR family transcriptional regulator [Vibrio],3
+2002,18,2962.843,1271.822825,17,MULTISPECIES: alternative ribosome-rescue factor A [Serratia],4
+2003,18,564.0074,564.0074,19,MULTISPECIES: YbjN domain-containing protein [Serratia],1
+2004,18,6420.008,6420.008,19,succinylglutamate desuccinylase [Vibrio furnissii],1
+2005,18,883.5764,883.5764,19,FMN-binding glutamate synthase family protein [Acinetobacter bouvetii],1
+2006,18,8485.756,3497.2973599999996,19,cyclic nucleotide-binding/CBS domain-containing protein [Vibrio cholerae],5
+2007,18,980.8116,899.7822666666667,20,MULTISPECIES: 5-oxoprolinase subunit PxpA [Vibrio],6
+2008,18,1090.564,1002.2294666666667,19,glycoside hydrolase family 32 protein [Vibrio furnissii],3
+2009,18,883.5764,798.1432500000001,18,MULTISPECIES: SMC-Scp complex subunit ScpB [Aeromonas],2
+2010,18,13713.99,4732.60385,20,DUF3488 and transglutaminase-like domain-containing protein [Acinetobacter bouvetii],4
+2011,18,3428.529,1311.634275,20,efflux RND transporter periplasmic adaptor subunit [Vibrio furnissii],8
+2012,18,3428.529,2685.6525714285713,19,MULTISPECIES: glucokinase [Kosakonia],7
+2013,18,1228.72,955.88445,18,MULTISPECIES: multidrug ABC transporter permease/ATP-binding protein [Alcanivorax],2
+2014,18,,,18,MULTISPECIES: YggL family protein [Serratia],0
+2015,18,1232.502,881.0765,19,histidine kinase [Psychrobacter cryohalolentis],9
+2016,18,138924.1,26283.27356666667,19,Fe(3+)-siderophore ABC transporter permease [Vibrio furnissii],12
+2017,18,2555.896,1719.7362,19,MULTISPECIES: sulfate ABC transporter substrate-binding protein [Kosakonia],2
+2018,18,13713.99,5729.604349999999,19,MULTISPECIES: SDR family oxidoreductase [Serratia],6
+2019,18,1264.189,1015.4061,20,rhombosortase [Vibrio furnissii],2
+2020,18,883.5764,883.5764,19,sodium:proton antiporter [Vibrio cholerae],2
+2021,18,9852.15,3384.2115666666664,19,penicillin-binding protein 1C [Alcanivorax dieselolei],6
+2022,18,4545.701,1717.5406,19,MULTISPECIES: NAD(P)-dependent oxidoreductase [Vibrio],7
+2023,18,8485.756,3589.4227538461537,20,alanine racemase [Acinetobacter bouvetii],13
+2024,18,1356.212,1061.4176,20,MULTISPECIES: O-succinylhomoserine sulfhydrylase [Acinetobacter],2
+2025,18,980.8116,932.194,19,MULTISPECIES: dihydroxyacetone kinase subunit DhaK [Aeromonas],4
+2026,18,138924.1,25538.3991,20,DUF1365 family protein [Vibrio furnissii],7
+2027,18,3428.529,1673.8801333333333,19,phosphoribosylanthranilate isomerase [Acinetobacter bouvetii],6
+2028,18,3881.305,2532.71364,19,DUF2919 domain-containing protein [Vibrio furnissii],10
+2029,18,3428.529,1803.2468333333334,19,MULTISPECIES: LysE family translocator [Vibrio],3
+2030,18,8922.646,3048.6545888888886,20,DUF58 domain-containing protein [Acinetobacter bouvetii],9
+2031,18,66470.78,12100.601733333331,19,MULTISPECIES: rhodanese-like domain-containing protein [Vibrio],6
+2032,18,883.5764,883.5764,21,MULTISPECIES: L-lactate permease [Acinetobacter],2
+2033,18,1202.592,975.4423428571429,19,MULTISPECIES: type VI protein secretion system protein VasF [Vibrio],7
+2034,18,3881.305,1979.2953166666668,18,MULTISPECIES: two-component system response regulator NarL [Kosakonia],6
+2035,18,4615.4,1694.8650300000002,19,MULTISPECIES: winged helix-turn-helix domain-containing protein [Serratia],10
+2036,18,2943.461,991.4220600000001,18,MULTISPECIES: type VI secretion system lipoprotein TssJ [Kosakonia],10
+2037,18,1248.717,921.58145,19,MULTISPECIES: cytochrome c5 family protein [Vibrio],4
+2038,18,13713.99,3500.343577777778,19,lipid IV(A) 4-amino-4-deoxy-L-arabinosyltransferase [Aeromonas jandaei],9
+2039,18,8323.257,2743.49655,20,MULTISPECIES: CatB-related O-acetyltransferase [Vibrio],4
+2040,18,1264.189,986.185675,19,siderophore-interacting protein [Vibrio cholerae],4
+2041,18,1323.054,879.2704666666667,19,HAD family phosphatase [Vibrio furnissii],6
+2042,18,1228.72,1008.03472,18,MULTISPECIES: phosphate ABC transporter permease PstA [Enterobacteriaceae],5
+2043,18,883.5764,835.24105,19,DUF1090 domain-containing protein [Vibrio furnissii],6
+2044,18,1800.518,938.7412285714285,19,HAD-IA family hydrolase [Vibrio gazogenes],7
+2045,18,883.5764,883.5764,18,MULTISPECIES: envelope stress response protein PspG [Aeromonas],1
+2046,18,94590.41,12171.553233333334,19,MULTISPECIES: EmmdR/YeeO family multidrug/toxin efflux MATE transporter [Serratia],9
+2047,18,833.0093,833.0093,19,MULTISPECIES: ABC transporter ATP-binding protein [Serratia],1
+2048,18,3428.529,2103.07445,18,MetQ/NlpA family ABC transporter substrate-binding protein [Psychrobacter arcticus],4
+2049,18,38833.58,10612.549860000001,20,MULTISPECIES: ATP-binding protein [Vibrio],10
+2050,18,13713.99,3803.926085714286,20,NADH-dependent flavin oxidoreductase [Vibrio furnissii],7
+2051,18,766.6232,706.8808,19,MULTISPECIES: LysR family transcriptional regulator [Serratia],2
+2052,18,2276.8,1202.644,19,MULTISPECIES: LysR family transcriptional regulator [Acinetobacter],4
+2053,18,546.8554,546.8554,18,MULTISPECIES: cbb3-type cytochrome oxidase assembly protein CcoS [Aeromonas],1
+2054,18,28780.5,13006.822016666667,19,MULTISPECIES: efflux RND transporter periplasmic adaptor subunit [Aeromonas],6
+2055,18,8575.808,2877.6302,18,"MULTISPECIES: selenide, water dikinase SelD [Kosakonia]",8
+2056,18,929.0738,929.0738,19,alpha/beta hydrolase [Vibrio furnissii],1
+2057,18,766.6232,766.6232,17,MULTISPECIES: F0F1 ATP synthase subunit I [Serratia],5
+2058,18,783.823,783.823,19,FixH family protein [Vibrio cholerae],2
+2059,18,929.0738,929.0738,19,GspH/FimT family pseudopilin [Acinetobacter bouvetii],1
+2060,18,3428.529,2711.6715,19,M15 family metallopeptidase [Vibrio cholerae],2
+2061,18,3591.704,1541.3863428571428,19,zinc transporter ZupT [Acinetobacter soli],7
+2062,18,,,18,MULTISPECIES: ABC transporter permease [Serratia],0
+2063,18,1202.592,1202.592,18,MULTISPECIES: cell-envelope stress modulator CpxP [Serratia],1
+2064,18,1737.612,1061.6107,19,MG2 domain-containing protein [Alcanivorax pacificus],6
+2065,18,2943.461,1233.6395499999999,19,"alpha,alpha-trehalose-phosphate synthase [Kosakonia radicincitans]",6
+2066,18,2091.083,1044.26852,19,GspH/FimT family pseudopilin [Vibrio furnissii],5
+2067,18,27872.66,5720.455883333333,21,YdcF family protein [Acinetobacter bouvetii],6
