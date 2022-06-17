@@ -28,6 +28,11 @@
 ## Кластер 2
 ![image](https://user-images.githubusercontent.com/22128700/173896117-88328f3f-0546-426c-8d77-1bcdb29d04e1.png)
 
+## Кластер с квадруплексами
+![image](https://user-images.githubusercontent.com/22128700/174389073-8fe5f00b-e065-44b1-9f5c-64c8e510898f.png)
+
+Консервативность квадруплексов наблюдается только в одном кластере для 3 геномов. (при параметрах slop=500, кол-во генов с квадруплексами >=3)
+
 ## Ссылки
 
 [Презентация](https://1drv.ms/p/s!Akc_3jnOmDNXgZoFLKY1qjJEIgtZ3g?e=wVLPOn)
