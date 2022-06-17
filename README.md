@@ -13,6 +13,9 @@
 | Ильиных Анна | Alcanivorax, Luteimonas | https://github.com/Ilianneta/hse22_project |
 | Черненко Дмитрий | Psychrobacter | https://github.com/dbcherenenko/hse22_progect |
 
+## Таблица с кластерами
+[table.csv](table.csv)
+
 ## Гистограмма распределения среднего значения Z-score по кластерам
 ![image](https://user-images.githubusercontent.com/22128700/173894296-96e84cf0-6165-4591-8864-098f94d88f47.png)
 
